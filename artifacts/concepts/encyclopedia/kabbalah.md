@@ -1,42 +1,71 @@
-# Kabbalah
+---
+artifact_id: encyclopedia_concept_kabbalah
+type: concept_encyclopedia_entry
+status: COMPLETE
+target_length: "1500-2500 words"
+primary_pico_loci:
+  - "Oration on the Dignity of Man (1486)"
+  - "900 Conclusions (1486), Conclusiones Cabalisticae"
+  - "Apology (1487)"
+  - "Heptaplus (1489)"
+  - "Commento sopra una canzona d'amore"
+guide_scholars:
+  - Wirszubski
+  - Busi
+  - Copenhaver
+  - Farmer
+cross_references:
+  - 900_conclusions.md
+  - abulafia.md
+  - divine_names.md
+  - eyn_sof.md
+  - gematria.md
+  - mithridates.md
+  - recanati.md
+  - sefirot.md
+  - tetragrammaton.md
+  - translation.md
+word_count_approx: 2200
+---
 
-- Artifact ID: `encyclopedia_concept_kabbalah`
-- Type: concept encyclopedia entry
-- Status: ENCYCLOPEDIA_SEED_EXPANSION_REQUIRED
-- Target length: 2,000-6,000 words
-- Current function: controlled encyclopedia seed for future expansion
-- Primary Pico loci: *Oration*, *900 Conclusions*, *Apology*, *Heptaplus*
-- Guide scholars: Wirszubski, Busi, Copenhaver, Farmer
+# Kabbalah in Pico della Mirandola
 
-## Definition
+Giovanni Pico della Mirandola's engagement with Kabbalah — the body of Jewish mystical and esoteric interpretation developed from the twelfth century onward — is one of the most consequential and most debated episodes in the history of Renaissance thought. Pico was, as Wirszubski established definitively in *Pico della Mirandola's Encounter with Jewish Mysticism* (1989), the first Christian born scholar who read a substantial body of genuine Kabbalistic texts. From those readings he derived the 118 Kabbalistic theses among his 900 *Conclusiones* of 1486 and made Kabbalah a cornerstone of his project to demonstrate that all philosophy and religion converged on the truths of Christianity. What he produced in doing so was not Jewish Kabbalah but a distinctively Christian transformation of it — and the question of exactly how much of the original survived the transformation remains one of the central issues in Pico scholarship.
 
-The Jewish mystical and exegetical source field that Pico translates, Christianizes, and uses for theology, magic, and concord. In PicoDB this concept is not a free-floating keyword. It is a controlled research object: every use should be attached to passages, works, source traditions, guide scholars, and a confidence level. The concept should therefore be read as both a term in Pico's intellectual vocabulary and a modern historiographical category that can clarify or distort the evidence.
+## What Kabbalah Is
 
-## Place in Pico's Works
+The term *Kabbalah* (Hebrew: *qabalah*, reception or tradition) designates a set of Jewish mystical doctrines and practices that crystallized in Provence and Spain from roughly the twelfth century onward, though its practitioners claimed a far older oral transmission reaching back to Moses on Sinai. Pico himself adopted this claim, defining Kabbalah in his *Apology* as the divinely revealed interpretation of the hidden mysteries of the Law: "Moses received on the mountain, beyond the written Law which he left inscribed in five books, the true and secret interpretation of the Law as well, with the disclosure of all the mysteries and secrets contained beneath the rough surface and literal appearance of the words." This tradition, transmitted by word of mouth in unbroken succession, came to be called Kabbalah precisely because it was *received* (*meqabbal*, one who receives). Pico was at pains to distinguish this "first and true Kabbalah" — which he claimed to be expounding for the first time to a Latin readership — from two other things also called Kabbalah by the Jews: the combinatory art of letter manipulation (*hokmat ha-tseruf*), and the astrological knowledge of celestial powers. These three senses of the term overlap in confusing ways throughout his writings, and Wirszubski's analysis of their interplay in the *Apology* remains the sharpest account of what Pico actually understood by the word.
 
-The concept belongs especially to *Oration*, *900 Conclusions*, *Apology*, *Heptaplus*. Future close reading should identify where the term appears explicitly, where it operates implicitly, and where later scholarship imposes the label for analytic convenience. Pico's writings often move across genres: public disputation, commentary, apology, biblical exegesis, devotional writing, polemic, and poetic theology. A concept such as Kabbalah may therefore change function as it moves from one genre to another.
+The Kabbalistic tradition Pico encountered was not uniform. It contained at least two distinct orientations. The first, sometimes called the Kabbalah of the sefirot, concerned the ten divine emanations (*sefirot*, literally "enumerations" or "countings") through which the infinite, unknowable divine being — Ein Sof, "without end" — manifests itself in creation and in history. Each sefirah has a proper name, symbolic associations, and a position in a hierarchical scheme: Keter (Crown), Hokhmah (Wisdom), Binah (Understanding or Intelligence), and downward through Hesed (Mercy), Din or Gevurah (Judgment), Tiferet (Beauty or Compassion), Netzah (Eternity), Hod (Splendor), Yesod (Foundation), and Malkhut or Shekhinah (Kingdom, also called the Congregation of Israel). The interactions among the sefirot — their unions, separations, and harmonies — underlie the structure of reality, the meaning of Scripture, and the efficacy of prayer and righteous action. The second orientation, associated especially with Abraham Abulafia (1240–c.1291), was a prophetic or combinatory Kabbalah focused less on the sefirot than on the divine names and the letters of the Hebrew alphabet. For Abulafia, systematic combination and permutation of the letters of the divine names, above all the Tetragrammaton (YHWH), could achieve a state of mystical union with the Agent Intellect and ultimately with God. Isopsephy (gematria) — the numerical equivalences between Hebrew words of the same numerical value — was central to both traditions.
 
-In the *900 Conclusions*, concepts frequently appear as compressed theses whose meaning depends on cluster, source family, and debate function. In the *Oration*, the same concept may be rhetorical, ascetic, protreptic, or mystical. In the *Commento*, it may be embedded in mythography, love theory, or the dispute with Ficino. In the *Heptaplus*, it may be recoded as biblical hermeneutics and anagogical ascent. In *On Being and Unity*, concepts usually demand scholastic and Platonic precision.
+## Access through Mithridates
 
-## Scholarly Stakes
+Pico did not read Kabbalistic texts directly in Hebrew, at least not in the crucial period when his Kabbalistic ideas were formed. He began studying Hebrew in the summer of 1486 and had acquired only a basic competence by November of that year, when his *Conclusiones* were completed. What he could read was Hebrew exercised on a minimal level; what he could not do was read an untranslated Kabbalistic text without assistance. His access to Kabbalah was therefore mediated almost entirely through Latin translations produced for him by Flavius Mithridates, a Sicilian Jewish convert to Christianity who in the summer and autumn of 1486 produced an astonishing quantity of translated material — approximately 3,500 surviving pages in folio, representing some forty Kabbalistic works, with an estimated 2,000 or more further pages now lost.
 
-The initial guide scholars for this entry are Wirszubski, Busi, Copenhaver, Farmer. Their role is methodological as well as informational. PicoDB should ask what each scholar teaches us to notice: source language, textual transmission, scholastic terminology, Kabbalistic mediation, reception history, edition status, genre, or philosophical architecture. No concept entry should rely on one label when the evidence requires a layered account.
+Wirszubski's reconstruction of these manuscripts established several things of permanent importance. First, the manuscripts are autographs, written by Mithridates in the very act of translation, as proved by corrections that could only have been made by someone simultaneously misreading Hebrew originals. Second, all the manuscripts demonstrably in use for Pico's theses were written between May and November 1486. Third — and this is Wirszubski's most consequential finding — Mithridates did not simply translate the Hebrew texts faithfully. He interpolated them, inserting Christianizing glosses and theological nudges at systematic points. The phrase *trinitas* appears where the Hebrew has nothing of the kind; the symbol *Ze* (the ninth sefirah, Yesod) is deployed in contexts that encourage Christological reading; Abulafia's mystical commentary on Maimonides is transformed so that Maimonides appears to be himself a Kabbalist disclosing secrets in the first person. In one striking case, the phrase "unum ovile et unus pastor" (John 10:16) is inserted into a passage of Abulafia with no counterpart in the Hebrew original. The practical effect was that Pico was reading Jewish Kabbalah through a series of Christian filters he could not always detect.
 
-The chief danger is anachronism. Modern readers often turn Pico into a symbol of Renaissance humanism, modern freedom, syncretic openness, or occult exoticism. The encyclopedia should resist that flattening. Each entry must distinguish Pico's own formulations, inherited source traditions, later editorial mediation, early modern reception, and modern scholarly reconstruction.
+## The Kabbalistic Theses
 
-## Reading Questions
+The 900 *Conclusiones* include two sets of Kabbalistic theses. The first set, forty-seven theses *secundum secretam doctrinam sapientum Hebraeorum Cabalistarum* (according to the secret doctrine of the Hebrew Kabbalist sages), claims to report the views of the Kabbalistic tradition; the second set, seventy-one theses *secundum opinionem propriam* (according to his own opinion), presents Pico's own Kabbalistic positions. Wirszubski traced the sources of the first set thesis by thesis, establishing that Menahem of Recanati's *Commentary on the Pentateuch* (the lost Latin translation seen by Gaffarel) was the dominant source, accounting for more than half the theses, with subsidiary contributions from Joseph Gicatilla's *Portae Iustitiae*, the *Bahir*, commentaries on the *Sefer Yesirah*, the *Liber Combinationum*, Rabbi Azriel's *Quaestiones super Decem Numerationibus*, and Abraham Axelrad's *Corona Nominis Boni*. The second set draws more extensively on Abulafia, whose distinction between the Kabbalah of the sefirot and the speculative Kabbalah of names (or *scientia semot*) Pico adopts and makes central to his own synthesis.
 
-- Which passages in Pico explicitly name or enact Kabbalah?
-- Which source traditions control the concept: Platonic, Aristotelian, scholastic, Dionysian, Hermetic, Kabbalistic, magical, biblical, Arabic, Jewish philosophical, or humanist?
-- Does Pico harmonize the traditions, subordinate one to another, or leave a productive tension unresolved?
-- Which manuscripts, editions, translations, or reception witnesses affect the evidence?
-- Which arguments in current scholarship disagree about this concept?
-- What should a website reader learn from this entry before reading the primary text?
+Several of the theses illustrate what Pico finds most usable in the tradition. Conclusio iii states that "although the ineffable name is the property of mercy, one must not deny that it also contains the property of judgment" — a paraphrase of a passage in the *Liber Combinationum*, itself concerned with the dual nature of the Tetragrammaton. Conclusio xvii states that "wherever Scripture speaks of the love of man and woman, the mystical signification is the union of Tiferet and Knesset Israel, or of Beth and Tiferet" — a summary of Recanati's allegorical reading of conjugal language in the Torah as encoding the erotic dynamics among the sefirot. Conclusio xxi interprets the Kabbalistic symbol *Ze* (the ninth sefirah, Yesod, also called Justus and Redeemer) in explicitly Christological terms: if one joins what the Kabbalists say about this sefirah with what the Talmudists say about Isaac carrying his cross, one will see that what was prefigured in Isaac was fulfilled in Christ. This thesis depends precisely on Mithridates' Christological loading of the symbol Ze in the translations.
 
-## Cross-References
+## Pico's Christianization
 
-Related concept entries: 900 Conclusions, Abulafia, Act and Potency, Active Intellect, Al-Farabi, Anagogy, Angelology, Angels.
+The transformation of Kabbalah into a Christian instrument is the most contested dimension of Pico's project. Several moves are characteristic. First, Pico consistently reads the doctrine of the sefirot as confirming the Trinity: the three highest sefirot — Keter, Hokhmah, Binah — are mapped onto the Father, Son, and Holy Spirit. He draws on Mithridates' interpolations to make this seem like a Kabbalistic doctrine rather than an imposition on Kabbalah, but Wirszubski's comparison of the Latin translations against their Hebrew originals shows the mapping to be the translator's work, not the original authors'. Second, Pico reads the mystical death of the kiss (*mors osculi*) — a Kabbalistic concept of the soul's union with God through love — in terms that align with Christian mystical theology. Third, he claims that Kabbalah teaches the Christian doctrine of Jesus as Messiah, again relying on Mithridates' Christological glosses and on the conventional reading of the symbol Ze.
 
-## Expansion Plan
+In the *Oration*, Pico frames all of this as part of a divinely authorized tradition: "I acquired at great expense the books of Kabbalah and, reading and studying them with indefatigable exertion, I found in them not so much the Jewish religion as the Christian. There is the mystery of the Trinity, the Incarnation of the Word, the divinity of the Messiah; there is what one reads of original sin, its expiation through Christ, the heavenly Jerusalem, the fall of the devil, the orders of angels, purgatory, and the pains of hell." Whether Pico genuinely believed this or whether it was apologetic rhetoric designed for the papal audience is a question that scholarship has not resolved. What Wirszubski demonstrated is that the claim was built on translations that had been doctored to produce exactly this effect.
 
-This seed should be expanded into a 2,000-6,000 word encyclopedia essay after the next close-reading pass. The full essay should include a concise definition, primary-text map, source genealogy, scholarly debate section, historiographical cautions, bibliography, and links to claims, section summaries, timeline events, and other concepts.
+The *Heptaplus* (1489), Pico's sevenfold commentary on the opening verses of Genesis, shows Kabbalah at work in a less explicitly polemic context. The doctrine of three worlds — angelic, celestial, and elementary — which structures the whole commentary is, as Wirszubski proved, of Kabbalistic origin, though it also draws on Platonic and Aristotelian distinctions between the intelligible and visible and between the celestial and sublunar.
+
+## What Kabbalah Meant to Pico: The Scholarly Debate
+
+The question of whether Pico's Kabbalah is authentically Jewish or is entirely a Christian appropriation has produced a substantial scholarly debate. Wirszubski's own position was nuanced. He showed that Pico read genuine Jewish Kabbalistic texts, that many of his Kabbalistic ideas are traceable to specific passages in those texts, and that his Kabbalistic vocabulary and usage are recognizably derived from his sources. At the same time, Wirszubski documented the systematic Christianizing interpolations in the translations Pico used and showed that Pico himself linked Kabbalistic teachings to Chaldean Oracles, Orphic hymns, Proclus, and Ramon Lull in ways for which the Hebrew sources provided no warrant. His conclusion was that the Kabbala Pico read "is still recognizable in the Kabbala that Pico wrote" — but that the transformation was real and pervasive.
+
+Moshe Idel, who edited Wirszubski's manuscript and continued the inquiry in his own scholarship, has tended to emphasize the degree to which Pico absorbed specifically Abulafian modes of thought — the prophetic, intellectualist Kabbalah centered on divine names and the mystical ascent of the intellect — and to see this absorption as more substantial than Pico's detractors have allowed. For Idel, the encounter was genuinely formative and not merely rhetorical.
+
+Giulio Busi and collaborators, working from a detailed philological analysis of the manuscript traditions, have pushed forward the census and identification of the Kabbalistic sources Mithridates translated. Busi's edition of the *Mithridates Translations* project at the Freie Universität Berlin has expanded the documentary base substantially beyond what Wirszubski could command.
+
+Brian Copenhaver, whose work on magic and natural philosophy in the Renaissance touches on Kabbalah especially through the 900 *Conclusions* and their relationship to Pico's natural magic, has argued that the Kabbalistic and magical theses need to be read together rather than as separate domains. Stephen Farmer's critical edition of the *Conclusiones* (1998) provides the essential reference tool for the theses themselves, along with detailed source notes and a reexamination of the relationships among the various families of theses.
+
+The central historiographical caution that all these scholars share, with varying emphases, is that "Kabbalah" in Pico means several things at once — a body of Jewish texts he partially read in doctored Latin translations, a repertoire of doctrines and symbols he selected and rearranged for Christian purposes, a claim about the divine origin of Jewish esoteric tradition, a rhetorical instrument for confounding Jewish opponents of Christianity, and a component of the universal *prisca theologia* that he sought to assemble. These are not the same thing, and conflating them produces a distorted picture. The most important single step in reading Pico's Kabbalistic texts remains the one Wirszubski established: to go back behind Pico's Latin formulations to the Mithridates translations, and then from the translations to their Hebrew originals, asking at each stage what has been added, what has been omitted, and what has been quietly turned into something else.

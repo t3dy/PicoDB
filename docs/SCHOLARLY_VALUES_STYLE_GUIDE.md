@@ -53,3 +53,15 @@ Allen's core warning: do not reduce Pico to Ficino's disciple, Ficino's enemy, o
 Every major new reading pass must now ask what existing writing it changes. Record stale claims, newly anchored claims, affected essays, affected scholar profiles, required section-summary updates, and website destinations. A source packet is incomplete if it does not tell us which earlier essays, summaries, profiles, or source gaps should be revised.
 
 Add Olga Zorzi Pugliese as the guide scholar for Benivieni as collaborator, vernacular translator, Commento mediator, and Pater Noster source-gap witness. Use her with Allen for the Ficino softening problem, with Dougherty for corpus/edition awareness, and with biography work for late Florentine reception.
+
+## Pass 021 Writing Standards Update
+
+**Scholar profiles and concept essays must be written as prose, not structured templates.**
+
+Scholar profiles should read like entries in the Oxford Dictionary of National Biography: 1,000–2,500 continuous words on the scholar's formation, methods, major arguments, and significance for reading Pico. Do NOT use headed sections for each aspect of the scholarship. Do NOT list arguments as bullet points. Do NOT add "Use in PicoDB" paragraphs or "Historiographical Position" headers. Everything should be embedded in connected paragraphs.
+
+Concept essays must follow the CONCEPT_ENCYCLOPEDIA_STYLE_GUIDE (pass021). No reading questions, no seed-template boilerplate, no headed sections, no expansion plans.
+
+The previous ENCYCLOPEDIA_SEED format (with Definition / Place in Pico's Works / Scholarly Stakes / Reading Questions / Expansion Plan sections) is DEPRECATED. All existing seeds should be replaced with prose essays as the reading passes advance.
+
+**Primary source for this update:** User directive in session 7ea32903. Core complaint: existing articles had "bullet points broken up by a bunch of headings" and "study questions" instead of "encyclopedia quality essays written in prose." Scholar profiles similarly had "index card length descriptions" where "essays on the pages" were needed.
