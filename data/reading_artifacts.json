@@ -48,6 +48,18 @@
     "updated_at": "2026-06-14T00:04:36"
   },
   {
+    "id": "hist_kabbalah_scholar_synthesis",
+    "artifact_type": "historiography_node",
+    "title": "Pico and Kabbalah Scholar Synthesis Matrix",
+    "path": "artifacts/historiography/kabbalah_scholar_synthesis_matrix.md",
+    "document_id": "Chaim_Wirszubski_Paul_Oskar_Kristeller_Pico_della_Mirandola_s_Encounter_with_Jewish_Mysticism_Ha_pdf_cd8c112f",
+    "target_entity": "Pico Kabbalah historiography",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:45:40Z",
+    "updated_at": "2026-06-14T09:45:40Z"
+  },
+  {
     "id": "hist_scholarly_values_matrix",
     "artifact_type": "historiography_node",
     "title": "Scholarly Values Matrix",
@@ -682,5 +694,17 @@
     "evidence_status": "SOURCE_ANCHORED_DRAFT",
     "created_at": "2026-06-14T09:30:58Z",
     "updated_at": "2026-06-14T09:30:58Z"
+  },
+  {
+    "id": "essay_pico_kabbalah_synthesis_draft",
+    "artifact_type": "website_page",
+    "title": "Pico's Kabbalah Longform Synthesis Draft",
+    "path": "artifacts/essays/pico_kabbalah_synthesis_longform_draft.md",
+    "document_id": "Chaim_Wirszubski_Paul_Oskar_Kristeller_Pico_della_Mirandola_s_Encounter_with_Jewish_Mysticism_Ha_pdf_cd8c112f",
+    "target_entity": "Pico Kabbalah",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T09:45:40Z",
+    "updated_at": "2026-06-14T09:45:40Z"
   }
 ]

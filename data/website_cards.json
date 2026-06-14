@@ -36,6 +36,15 @@
     "source_artifact_id": "essay_pico_ficino_dispute_draft"
   },
   {
+    "id": "essay-pico-kabbalah-synthesis",
+    "entity_type": "essay",
+    "title": "Pico's Kabbalah",
+    "subtitle": "Longform scholar synthesis",
+    "summary": "A new longform essay seed synthesizes Wirszubski, Busi, Copenhaver, Farmer, Howlett, Edelheit, Dougherty, and Allen into a working account of Pico's Kabbalah as source tradition, praxis, apologetics, magic, thesis system, and historiographical problem.",
+    "status": "DRAFT",
+    "source_artifact_id": "essay_pico_kabbalah_synthesis_draft"
+  },
+  {
     "id": "hist-oration-only",
     "entity_type": "historiography",
     "title": "Against the Oration-Only Pico",
@@ -43,6 +52,15 @@
     "summary": "The portal's governing historiographical correction: Pico cannot be reduced to a proto-modern Oration on dignity. The Oration must be read as preface, reception object, mystical text, and part of the 900 Conclusions crisis.",
     "status": "DRAFT",
     "source_artifact_id": "sp_copenhaver_magic_intro"
+  },
+  {
+    "id": "hist-kabbalah-scholars",
+    "entity_type": "historiography",
+    "title": "Kabbalah Scholar Matrix",
+    "subtitle": "Who governs which claims",
+    "summary": "A new synthesis matrix assigns each major scholar a role in future Kabbalah close readings: source control, praxis, trial danger, thesis clustering, three-pillar concord, scholastic form, corpus discipline, and Platonist boundary control.",
+    "status": "DRAFT",
+    "source_artifact_id": "hist_kabbalah_scholar_synthesis"
   },
   {
     "id": "hist-antipico",

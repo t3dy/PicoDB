@@ -1,6 +1,6 @@
 {
   "id": "reading_artifact_ontology",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "purpose": "Markup and writing ontology for turning systematic readings into website cards, pages, timelines, maps, and scholarly syntheses.",
   "artifact_types": [
     {
@@ -262,5 +262,43 @@
     "edition_witness_issue",
     "christian_transformation",
     "concord_outcome"
-  ]
+  ],
+  "kabbalah_synthesis_fields": [
+    "scholar_position",
+    "claim_register",
+    "source_tradition",
+    "translation_witness",
+    "mithridates_mediation",
+    "source_language_dependency",
+    "doctrine_class",
+    "praxis_operation",
+    "christianizing_move",
+    "magic_relation",
+    "thesis_cluster",
+    "scholastic_argument_form",
+    "platonic_or_dionysian_boundary",
+    "juridical_risk",
+    "historiographical_stakes",
+    "confidence"
+  ],
+  "kabbalah_taxonomy": [
+    "philological_kabbalah",
+    "doctrinal_kabbalah",
+    "magical_kabbalah",
+    "apologetic_kabbalah",
+    "hermeneutical_kabbalah",
+    "concordist_kabbalah",
+    "juridical_kabbalah",
+    "historiographical_kabbalah"
+  ],
+  "kabbalah_scholar_synthesis": {
+    "Wirszubski": "source_control",
+    "Busi": "praxis_and_correspondence",
+    "Copenhaver": "oration_trial_and_danger",
+    "Farmer": "thesis_cluster_architecture",
+    "Howlett": "three_pillar_concord",
+    "Edelheit": "scholastic_form_and_formation",
+    "Dougherty": "corpus_genre_edition_collaboration",
+    "Allen": "platonic_boundary_and_heptaplus_metaphysics"
+  }
 }

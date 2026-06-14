@@ -59,3 +59,16 @@ Each Kabbalah source packet should end with:
 - **Wirszubski check:** source, translation, Hebrew dependence, doctrinal precision, confidence.
 - **Busi check:** praxis, symbolic inclusion, correspondence-scale, Mithridates effect, Semitic canon expansion.
 - **Next Pico pass:** exact passages to revisit in Oration, 900 Conclusions, Heptaplus, or Apology.
+
+## Pass 007 Scholar Synthesis Overlay
+
+Future Kabbalah notes must identify which scholar-governed register is active:
+
+- Wirszubski: source, Hebrew dependence, Mithridates, doctrine, confidence.
+- Busi: praxis, operation, correspondence, magic, symbolic inclusion.
+- Copenhaver: Oration whole-text correction, trial danger, theological precision.
+- Farmer: thesis clusters, hidden architecture, debate function.
+- Howlett: three-pillar balance and concord failure/success.
+- Edelheit: scholastic argument form and anti-reductive labeling.
+- Dougherty: corpus, genre, edition, collaboration.
+- Allen: Platonist, Ficinian, Dionysian, and Christological boundaries, especially in Heptaplus.
