@@ -1,0 +1,12 @@
+{
+  "stats": {
+    "sources": 73,
+    "converted": 73,
+    "type_primary_or_edition": 27,
+    "type_review": 21,
+    "type_book": 10,
+    "type_article": 15,
+    "duplicates": 5
+  },
+  "failures": []
+}

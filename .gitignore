@@ -1,0 +1,21 @@
+# Python / OS
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# SQLite runtime files
+*.db-shm
+*.db-wal
+
+# Raw scholarship remains in the source archive and is referenced by path.
+# The deployable repo stores Markdown full text + SQLite metadata instead.
+*.pdf
+*.epub
+*.djvu
+*.mobi
+*.azw3
+
+# Local editor state
+.vscode/
+.idea/

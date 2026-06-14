@@ -1,0 +1,26 @@
+{
+  "id": "pico_portal",
+  "title": "Pico della Mirandola Knowledge Portal",
+  "status": "initialized",
+  "created_at": "2026-06-13T23:12:34",
+  "root": "C:\\Dev\\PicoDB",
+  "database": "C:\\Dev\\PicoDB\\db\\pico.db",
+  "markdown_folder": "C:\\Dev\\PicoDB\\Markdown",
+  "site_folder": "C:\\Dev\\PicoDB\\site",
+  "corpus_counts": {
+    "sources": 73,
+    "converted": 73,
+    "type_primary_or_edition": 27,
+    "type_review": 21,
+    "type_book": 10,
+    "type_article": 15,
+    "duplicates": 5
+  },
+  "pipeline": [
+    "scripts/init_pico_portal.py",
+    "Markdown/*.md full-text extraction files",
+    "db/pico.db SQLite catalog + FTS5",
+    "data/pico_manifest.json and data/pico_ontology.json",
+    "site/index.html static viewer"
+  ]
+}

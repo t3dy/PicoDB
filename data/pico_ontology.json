@@ -1,0 +1,64 @@
+{
+  "id": "pico_ontology",
+  "version": "0.1.0",
+  "purpose": "Seed ontology for systematic Pico reading, scholarship synthesis, and portal generation.",
+  "entity_classes": [
+    "work",
+    "edition",
+    "section",
+    "argument",
+    "claim",
+    "concept",
+    "person",
+    "scholar",
+    "source",
+    "manuscript_witness",
+    "language",
+    "tradition",
+    "controversy",
+    "reception_event"
+  ],
+  "themes": [
+    "kabbalah",
+    "magic",
+    "astrology",
+    "platonism",
+    "aristotelianism",
+    "human_dignity",
+    "concord",
+    "philology",
+    "theology",
+    "historiography"
+  ],
+  "relationship_types": [
+    "interprets",
+    "edits",
+    "translates",
+    "cites",
+    "depends_on",
+    "disputes",
+    "revises",
+    "influences",
+    "borrows_from",
+    "harmonizes_with",
+    "condemns",
+    "defends",
+    "classifies_as_magic",
+    "classifies_as_kabbalah"
+  ],
+  "evidence_statuses": [
+    "verified",
+    "likely",
+    "interpretive",
+    "placeholder",
+    "needs_review"
+  ],
+  "reading_questions": [
+    "What Pico text, passage, or thesis is under discussion?",
+    "Which intellectual traditions are being harmonized, subordinated, or contested?",
+    "Does the source treat magic/Kabbalah as practice, rhetoric, philology, theology, or historiographical construct?",
+    "What is the scholar's explicit argument and what prior interpretation is being revised?",
+    "What primary-text evidence anchors the claim?",
+    "What open problem or missing text does this source expose?"
+  ]
+}
