@@ -694,6 +694,10 @@ def build_site(conn: sqlite3.Connection) -> None:
     artifacts = [dict(r) for r in conn.execute("SELECT * FROM reading_artifacts ORDER BY artifact_type, title")]
     claims = [dict(r) for r in conn.execute("SELECT * FROM claims ORDER BY id")]
     doc_rows = [dict(r) for r in conn.execute("SELECT id,title,document_type,page_count,word_count,themes_json,pico_works_json,markdown_path FROM documents ORDER BY title")]
+    concept_artifacts = [
+        a for a in artifacts
+        if a["artifact_type"] == "concept_dossier" or a["id"].startswith("encyclopedia_concept_")
+    ]
 
     html = f"""<!doctype html>
 <html lang="en">
@@ -740,6 +744,7 @@ a {{ color:var(--blue); }}
 <p>Research environment for Pico's texts, scholarship, reading artifacts, timeline, and Italy-France intellectual geography.</p>
 <nav>
 <button class="active" onclick="showSection('overview', this)">Overview</button>
+<button onclick="showSection('concepts', this)">Concepts</button>
 <button onclick="showSection('research', this)">Research Artifacts</button>
 <button onclick="showSection('timeline', this)">Timeline</button>
 <button onclick="showSection('mapsec', this)">Map</button>
@@ -758,6 +763,14 @@ a {{ color:var(--blue); }}
 <h2>Website Seeds</h2>
 <div class="grid">
 {''.join(card_html(c) for c in cards)}
+</div>
+</section>
+<section id="concepts" class="section">
+<h2>Concept Encyclopedia</h2>
+<p>The concept encyclopedia gathers Pico's philosophical, theological, philological, magical, Kabbalistic, and historiographical vocabulary into reusable reference essays.</p>
+<input id="conceptSearch" placeholder="Search concepts..." oninput="filterConcepts()">
+<div class="grid" id="conceptGrid">
+{''.join(concept_html(a) for a in concept_artifacts)}
 </div>
 </section>
 <section id="research" class="section">
@@ -811,6 +824,10 @@ function filterTimeline() {{
   const q = document.getElementById('timelineSearch').value.toLowerCase();
   for (const el of document.querySelectorAll('#timelineList .event')) el.style.display = el.innerText.toLowerCase().includes(q) ? '' : 'none';
 }}
+function filterConcepts() {{
+  const q = document.getElementById('conceptSearch').value.toLowerCase();
+  for (const el of document.querySelectorAll('#conceptGrid .card')) el.style.display = el.innerText.toLowerCase().includes(q) ? '' : 'none';
+}}
 let map;
 function initMap() {{
   if (map) {{ map.invalidateSize(); return; }}
@@ -846,6 +863,18 @@ def artifact_html(a):
         rel = ""
     link = f"<a href='../{rel}'>{esc(rel)}</a>" if rel else ""
     return f"<div class='card'><h3>{esc(a['title'])}</h3><div class='small'>{esc(a['artifact_type'])} · {esc(a['status'])} · {esc(a['evidence_status'])}</div><p>{link}</p></div>"
+
+
+def concept_html(a):
+    if a["path"]:
+        path = Path(a["path"])
+        full_path = path if path.is_absolute() else ROOT / path
+        rel = full_path.relative_to(ROOT).as_posix()
+        link = f"<a href='../{rel}'>Open entry</a>"
+    else:
+        link = ""
+    target = a.get("target_entity") or ""
+    return f"<div class='card'><h3>{esc(a['title'])}</h3><div class='small'>{esc(target)} · {esc(a['status'])}</div><p>{link}</p></div>"
 
 
 def claim_html(c):

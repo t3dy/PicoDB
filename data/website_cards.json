@@ -9,6 +9,69 @@
     "source_artifact_id": "note_pico_bio_seed"
   },
   {
+    "id": "concept-entry-900_conclusions",
+    "entity_type": "concept",
+    "title": "900 Conclusions",
+    "subtitle": "900 Conclusions",
+    "summary": "Pico's massive thesis system and public debate machine, requiring cluster-level source and doctrine mapping.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_900_conclusions"
+  },
+  {
+    "id": "concept-entry-abulafia",
+    "entity_type": "concept",
+    "title": "Abulafia",
+    "subtitle": "900 Conclusions",
+    "summary": "The ecstatic Kabbalist whose materials enter Pico through translation and Christian transformation.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_abulafia"
+  },
+  {
+    "id": "concept-entry-act_and_potency",
+    "entity_type": "concept",
+    "title": "Act and Potency",
+    "subtitle": "Oration, On Being and Unity",
+    "summary": "Aristotelian vocabulary crucial for reading Pico's anthropology of indeterminate potentiality and metaphysical ascent.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_act_and_potency"
+  },
+  {
+    "id": "concept-entry-active_intellect",
+    "entity_type": "concept",
+    "title": "Active Intellect",
+    "subtitle": "900 Conclusions, Heptaplus",
+    "summary": "The Arabic and Aristotelian concept central to debates over conjunction, felicity, and human perfection.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_active_intellect"
+  },
+  {
+    "id": "concept-entry-al_farabi",
+    "entity_type": "concept",
+    "title": "Al-Farabi",
+    "subtitle": "900 Conclusions, Heptaplus",
+    "summary": "Arabic philosopher relevant to political, intellectual, and felicity traditions behind Pico's source ecology.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_al_farabi"
+  },
+  {
+    "id": "concept-entry-anagogy",
+    "entity_type": "concept",
+    "title": "Anagogy",
+    "subtitle": "Heptaplus, Oration",
+    "summary": "The upward interpretive movement by which symbols, Scripture, and hierarchy lead the intellect toward God.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_anagogy"
+  },
+  {
+    "id": "concept-entry-angelology",
+    "entity_type": "concept",
+    "title": "Angelology",
+    "subtitle": "Oration, 900 Conclusions, Heptaplus",
+    "summary": "The systematic study of angelic hierarchy, intellect, imitation, separate substances, and Kabbalistic angelic orders in Pico.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_angelology"
+  },
+  {
     "id": "concept-pico-angelology-taxonomy",
     "entity_type": "concept",
     "title": "Angelology Taxonomy",
@@ -16,6 +79,78 @@
     "summary": "PicoDB now separates angelic imitation, hierarchy, angelic mind, intelligible world, Kabbalistic angels, Arabic intellect, Thomistic separate substances, and grace.",
     "status": "DRAFT",
     "source_artifact_id": "concept_pico_angelology_taxonomy"
+  },
+  {
+    "id": "concept-entry-angels",
+    "entity_type": "concept",
+    "title": "Angels",
+    "subtitle": "Oration, 900 Conclusions, Heptaplus",
+    "summary": "Created intellectual beings and models of human ascent that connect Dionysius, Aquinas, Proclus, Kabbalah, and Arabic intellect theory.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_angels"
+  },
+  {
+    "id": "concept-entry-apology",
+    "entity_type": "concept",
+    "title": "Apology",
+    "subtitle": "Apology",
+    "summary": "Pico's defense of condemned theses and the key juridical-theological witness for his dangerous formulations.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_apology"
+  },
+  {
+    "id": "concept-entry-apophasis",
+    "entity_type": "concept",
+    "title": "Apophasis",
+    "subtitle": "On Being and Unity, Heptaplus",
+    "summary": "Negative theology and the disciplined recognition that divine reality exceeds names, concepts, and ordinary predication.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_apophasis"
+  },
+  {
+    "id": "concept-entry-aquinas",
+    "entity_type": "concept",
+    "title": "Aquinas",
+    "subtitle": "On Being and Unity, 900 Conclusions",
+    "summary": "The scholastic authority through whom Pico disciplines being, unity, creation, names, angels, and Christian metaphysics.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_aquinas"
+  },
+  {
+    "id": "concept-entry-aristotle",
+    "entity_type": "concept",
+    "title": "Aristotle",
+    "subtitle": "900 Conclusions, On Being and Unity",
+    "summary": "The philosopher whose concord with Plato Pico repeatedly asserts, tests, and reconfigures across metaphysics and natural philosophy.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_aristotle"
+  },
+  {
+    "id": "concept-entry-ascent",
+    "entity_type": "concept",
+    "title": "Ascent",
+    "subtitle": "Oration, Heptaplus, Commento",
+    "summary": "The movement from lower life through intellectual and angelic forms toward God, joining ethics, metaphysics, Kabbalah, and prayer.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_ascent"
+  },
+  {
+    "id": "concept-entry-astral_magic",
+    "entity_type": "concept",
+    "title": "Astral Magic",
+    "subtitle": "Commento, Disputationes, 900 Conclusions",
+    "summary": "The field where Ficinian celestial mediation, images, music, spiritus, and Pico's later astrology critique must be carefully separated.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_astral_magic"
+  },
+  {
+    "id": "concept-entry-astrology",
+    "entity_type": "concept",
+    "title": "Astrology",
+    "subtitle": "Commento, Disputationes",
+    "summary": "The science, art, and divinatory practice Pico uses, limits, and attacks across his career.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_astrology"
   },
   {
     "id": "concept-pico-astrology-taxonomy",
@@ -27,6 +162,78 @@
     "source_artifact_id": "concept_pico_astrology_taxonomy"
   },
   {
+    "id": "concept-entry-averroes",
+    "entity_type": "concept",
+    "title": "Averroes",
+    "subtitle": "900 Conclusions, Heptaplus",
+    "summary": "Arabic commentator on Aristotle whose theories of intellect and felicity enter Pico's thesis and Heptaplus fields.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_averroes"
+  },
+  {
+    "id": "concept-entry-avicenna",
+    "entity_type": "concept",
+    "title": "Avicenna",
+    "subtitle": "900 Conclusions, Heptaplus",
+    "summary": "Arabic philosopher whose metaphysics, psychology, and intellect theory help shape Pico's source network.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_avicenna"
+  },
+  {
+    "id": "concept-entry-beauty",
+    "entity_type": "concept",
+    "title": "Beauty",
+    "subtitle": "Commento",
+    "summary": "The intelligible and sensible radiance of form that connects love theory, metaphysics, and poetic theology.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_beauty"
+  },
+  {
+    "id": "concept-entry-being",
+    "entity_type": "concept",
+    "title": "Being",
+    "subtitle": "On Being and Unity, 900 Conclusions, Oration",
+    "summary": "The metaphysical term at the center of Pico's effort to reconcile Plato, Aristotle, Aquinas, and Dionysian transcendence.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_being"
+  },
+  {
+    "id": "concept-entry-benivieni",
+    "entity_type": "concept",
+    "title": "Benivieni",
+    "subtitle": "Commento, Pater Noster Commentary",
+    "summary": "Poet, collaborator, translator, and mediator whose canzone occasions the Commento and whose later activity shapes Pico reception.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_benivieni"
+  },
+  {
+    "id": "concept-entry-bereshit",
+    "entity_type": "concept",
+    "title": "Bereshit",
+    "subtitle": "Heptaplus",
+    "summary": "The Hebrew opening of Genesis and a concentrated locus for Pico's Kabbalistic and Mosaic hermeneutics.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_bereshit"
+  },
+  {
+    "id": "concept-entry-celestial_influence",
+    "entity_type": "concept",
+    "title": "Celestial Influence",
+    "subtitle": "Commento, Disputationes",
+    "summary": "The disputed natural action of stars and heavens on lower bodies, love, medicine, and events.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_celestial_influence"
+  },
+  {
+    "id": "concept-entry-chaldean_oracles",
+    "entity_type": "concept",
+    "title": "Chaldean Oracles",
+    "subtitle": "900 Conclusions",
+    "summary": "Ancient theological verses used in Renaissance Platonism and Pico's esoteric source environment.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_chaldean_oracles"
+  },
+  {
     "id": "concept-kabbalah",
     "entity_type": "concept",
     "title": "Christian Kabbalah in Pico",
@@ -34,6 +241,24 @@
     "summary": "Pico's Kabbalah depends on translation, Hebrew aspiration, Christian interpretation, and the ambitious integration of Jewish mystical materials into concordist philosophy.",
     "status": "DRAFT",
     "source_artifact_id": "sp_wirszubski_kabbalah_opening"
+  },
+  {
+    "id": "concept-entry-christology",
+    "entity_type": "concept",
+    "title": "Christology",
+    "subtitle": "Heptaplus, Oration, Apology",
+    "summary": "The doctrine of Christ as it shapes Pico's anthropology, Kabbalah, Heptaplus, and theological defenses.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_christology"
+  },
+  {
+    "id": "concept-entry-commento",
+    "entity_type": "concept",
+    "title": "Commento",
+    "subtitle": "Commento",
+    "summary": "Pico's commentary on Benivieni's canzone, a love-metaphysics and anti-Ficinian text with a complex transmission history.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_commento"
   },
   {
     "id": "concept-commento-reading-ontology",
@@ -54,6 +279,24 @@
     "source_artifact_id": "concept_commento_translation_collation_protocol_pass015"
   },
   {
+    "id": "concept-entry-concord",
+    "entity_type": "concept",
+    "title": "Concord",
+    "subtitle": "900 Conclusions, On Being and Unity, Oration",
+    "summary": "Pico's practice of testing agreement among Plato, Aristotle, scholasticism, Kabbalah, magic, and theology without erasing difference.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_concord"
+  },
+  {
+    "id": "concept-entry-condemned_theses",
+    "entity_type": "concept",
+    "title": "Condemned Theses",
+    "subtitle": "900 Conclusions, Apology",
+    "summary": "The thirteen theses judged suspect or dangerous in the Roman crisis and defended in the Apology.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_condemned_theses"
+  },
+  {
     "id": "concept-pico-corpus-control-dashboard",
     "entity_type": "concept",
     "title": "Corpus Control Dashboard",
@@ -61,6 +304,96 @@
     "summary": "A new dashboard distinguishes OCR control witnesses, reception witnesses, public digital leads, manuscript gaps, and related non-Giovanni texts.",
     "status": "DRAFT",
     "source_artifact_id": "concept_pico_corpus_control_dashboard"
+  },
+  {
+    "id": "concept-entry-correspondence",
+    "entity_type": "concept",
+    "title": "Correspondence",
+    "subtitle": "900 Conclusions, Heptaplus, Commento",
+    "summary": "The relation linking levels of reality, symbols, names, stars, angels, and human ascent.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_correspondence"
+  },
+  {
+    "id": "concept-entry-creation",
+    "entity_type": "concept",
+    "title": "Creation",
+    "subtitle": "Heptaplus, On Being and Unity",
+    "summary": "The metaphysical and biblical problem of how all things proceed from God and are intelligible through hierarchy and Scripture.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_creation"
+  },
+  {
+    "id": "concept-entry-de_amore",
+    "entity_type": "concept",
+    "title": "De amore",
+    "subtitle": "Commento",
+    "summary": "Ficino's commentary/treatise on Plato's Symposium and the main comparator for Pico's Commento.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_de_amore"
+  },
+  {
+    "id": "concept-entry-dignity",
+    "entity_type": "concept",
+    "title": "Dignity",
+    "subtitle": "Oration",
+    "summary": "The famous but often mythologized concept in the Oration that must be read inside ascent, discipline, hierarchy, and the 900 Conclusions.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_dignity"
+  },
+  {
+    "id": "concept-entry-dionysius",
+    "entity_type": "concept",
+    "title": "Dionysius",
+    "subtitle": "Oration, On Being and Unity, Heptaplus",
+    "summary": "Pseudo-Dionysius as authority for hierarchy, apophasis, symbol, anagogy, and Christian Neoplatonic ascent.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_dionysius"
+  },
+  {
+    "id": "concept-entry-disputationes",
+    "entity_type": "concept",
+    "title": "Disputationes",
+    "subtitle": "Disputationes",
+    "summary": "Pico's late attack on divinatory astrology and a major textual-transmission problem in the posthumous corpus.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_disputationes"
+  },
+  {
+    "id": "concept-entry-divine_names",
+    "entity_type": "concept",
+    "title": "Divine Names",
+    "subtitle": "900 Conclusions, Apology",
+    "summary": "Names of God as theological, Kabbalistic, magical, and philological objects in Pico's claims.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_divine_names"
+  },
+  {
+    "id": "concept-entry-eurydice",
+    "entity_type": "concept",
+    "title": "Eurydice",
+    "subtitle": "Commento",
+    "summary": "The mythic figure through whom Pico's Commento sharpens death-to-imagination and ascent beyond lower cognition.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_eurydice"
+  },
+  {
+    "id": "concept-entry-eyn_sof",
+    "entity_type": "concept",
+    "title": "Eyn-Sof",
+    "subtitle": "900 Conclusions",
+    "summary": "The infinite divine principle in Kabbalah, requiring strict source control before use in Pico interpretation.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_eyn_sof"
+  },
+  {
+    "id": "concept-entry-felicity",
+    "entity_type": "concept",
+    "title": "Felicity",
+    "subtitle": "Heptaplus, 900 Conclusions",
+    "summary": "The goal of intellectual and spiritual life, debated through Aristotelian, Arabic, Christian, and biblical frameworks.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_felicity"
   },
   {
     "id": "concept-jayne-ficino-love-platonism-pass019",
@@ -72,6 +405,267 @@
     "source_artifact_id": "concept_jayne_ficino_love_platonism_pass019"
   },
   {
+    "id": "concept-entry-ficino",
+    "entity_type": "concept",
+    "title": "Ficino",
+    "subtitle": "Commento, On Being and Unity, Heptaplus",
+    "summary": "Marsilio Ficino as translator, mentor, co-Platonist, love theorist, and target of Pico's correction.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_ficino"
+  },
+  {
+    "id": "concept-entry-forty_nine_gates",
+    "entity_type": "concept",
+    "title": "Forty-Nine Gates",
+    "subtitle": "Heptaplus",
+    "summary": "The Kabbalistic structure of understanding that shapes Pico's final Heptaplus architecture.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_forty_nine_gates"
+  },
+  {
+    "id": "concept-entry-four_worlds",
+    "entity_type": "concept",
+    "title": "Four Worlds",
+    "subtitle": "Heptaplus",
+    "summary": "Pico's ordering of angelic, celestial, elemental, and human worlds, especially in Heptaplus interpretation.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_four_worlds"
+  },
+  {
+    "id": "concept-entry-free_will",
+    "entity_type": "concept",
+    "title": "Free Will",
+    "subtitle": "Oration, Apology, Disputationes",
+    "summary": "Pico's account of human self-formation, not as modern autonomy but as metaphysical potentiality within a created hierarchy.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_free_will"
+  },
+  {
+    "id": "concept-entry-gematria",
+    "entity_type": "concept",
+    "title": "Gematria",
+    "subtitle": "900 Conclusions",
+    "summary": "Letter-number interpretation that supports some Kabbalistic and symbolic arguments in Pico's source field.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_gematria"
+  },
+  {
+    "id": "concept-entry-genesis",
+    "entity_type": "concept",
+    "title": "Genesis",
+    "subtitle": "Heptaplus",
+    "summary": "The biblical text Pico reads as cosmology, anthropology, angelology, and hidden philosophy in the Heptaplus.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_genesis"
+  },
+  {
+    "id": "concept-entry-gersonides",
+    "entity_type": "concept",
+    "title": "Gersonides",
+    "subtitle": "Heptaplus",
+    "summary": "Jewish philosopher and exegete relevant to Genesis, intellect, and biblical hermeneutics in Pico's Heptaplus context.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_gersonides"
+  },
+  {
+    "id": "concept-entry-gianfrancesco_pico",
+    "entity_type": "concept",
+    "title": "Gianfrancesco Pico",
+    "subtitle": "Biography, Disputationes",
+    "summary": "Pico's nephew, editor, biographer, and possible mediator of posthumous textual and religious framing.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_gianfrancesco_pico"
+  },
+  {
+    "id": "concept-entry-hebrew",
+    "entity_type": "concept",
+    "title": "Hebrew",
+    "subtitle": "900 Conclusions, Heptaplus",
+    "summary": "The source language and symbolic medium through which Pico's Kabbalah, divine names, and philology must be controlled.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_hebrew"
+  },
+  {
+    "id": "concept-entry-heptaplus",
+    "entity_type": "concept",
+    "title": "Heptaplus",
+    "subtitle": "Heptaplus",
+    "summary": "Pico's sevenfold Genesis commentary and the central text for biblical hermeneutics, cosmic order, and post-crisis recoding.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_heptaplus"
+  },
+  {
+    "id": "concept-entry-heresy",
+    "entity_type": "concept",
+    "title": "Heresy",
+    "subtitle": "900 Conclusions, Apology",
+    "summary": "The juridical-theological danger field around the 900 Conclusions, Apology, magic, Kabbalah, and doctrinal language.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_heresy"
+  },
+  {
+    "id": "concept-entry-hermes_trismegistus",
+    "entity_type": "concept",
+    "title": "Hermes Trismegistus",
+    "subtitle": "900 Conclusions, Oration",
+    "summary": "The ancient-theology figure whose Hermetic authority helps Renaissance thinkers imagine a prisca sapientia before Greek philosophy.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_hermes_trismegistus"
+  },
+  {
+    "id": "concept-entry-hierarchy",
+    "entity_type": "concept",
+    "title": "Hierarchy",
+    "subtitle": "Oration, Heptaplus",
+    "summary": "Ordered levels of being, knowledge, angels, worlds, and symbols across Pico's metaphysics and exegesis.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_hierarchy"
+  },
+  {
+    "id": "concept-entry-iamblichus",
+    "entity_type": "concept",
+    "title": "Iamblichus",
+    "subtitle": "900 Conclusions",
+    "summary": "Neoplatonist associated with theurgy, hierarchy, and ancient wisdom in the 900 Conclusions source field.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_iamblichus"
+  },
+  {
+    "id": "concept-entry-ibn_bajja",
+    "entity_type": "concept",
+    "title": "Ibn Bajja",
+    "subtitle": "Heptaplus",
+    "summary": "Arabic philosopher tied to intellect, solitude, and felicity debates relevant to Pico's Heptaplus source field.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_ibn_bajja"
+  },
+  {
+    "id": "concept-entry-idea_of_man",
+    "entity_type": "concept",
+    "title": "Idea of Man",
+    "subtitle": "Oration, Heptaplus",
+    "summary": "Allen's key term for Pico's anthropology, where the human being's indeterminacy and perfection become Christological in the Heptaplus.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_idea_of_man"
+  },
+  {
+    "id": "concept-entry-ideas",
+    "entity_type": "concept",
+    "title": "Ideas",
+    "subtitle": "Commento, Oration, Heptaplus",
+    "summary": "The divine or intelligible exemplars through which Pico thinks form, beauty, creation, and the Idea of Man.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_ideas"
+  },
+  {
+    "id": "concept-entry-imagination",
+    "entity_type": "concept",
+    "title": "Imagination",
+    "subtitle": "Commento, Disputationes",
+    "summary": "A faculty involved in love, ascent, error, images, magic, and the boundary between intellect and body.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_imagination"
+  },
+  {
+    "id": "concept-entry-indeterminacy",
+    "entity_type": "concept",
+    "title": "Indeterminacy",
+    "subtitle": "Oration",
+    "summary": "The condition of Adam as unfixed image and metaphysical potential, central to non-modern readings of the Oration.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_indeterminacy"
+  },
+  {
+    "id": "concept-entry-intellect",
+    "entity_type": "concept",
+    "title": "Intellect",
+    "subtitle": "900 Conclusions, Heptaplus",
+    "summary": "The cognitive and ontological principle linking human knowing, angelic mind, Arabic philosophy, and felicity.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_intellect"
+  },
+  {
+    "id": "concept-entry-jubilee",
+    "entity_type": "concept",
+    "title": "Jubilee",
+    "subtitle": "Heptaplus",
+    "summary": "A symbolic and Kabbalistic structure in the Heptaplus tied to sevenfold order, completion, and liberation.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_jubilee"
+  },
+  {
+    "id": "concept-entry-kabbalah",
+    "entity_type": "concept",
+    "title": "Kabbalah",
+    "subtitle": "Oration, 900 Conclusions, Apology",
+    "summary": "The Jewish mystical and exegetical source field that Pico translates, Christianizes, and uses for theology, magic, and concord.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_kabbalah"
+  },
+  {
+    "id": "concept-entry-love",
+    "entity_type": "concept",
+    "title": "Love",
+    "subtitle": "Commento, Oration",
+    "summary": "A central philosophical, cosmological, and theological force in Ficino and Pico, requiring distinction among personal, cosmic, divine, and intellectual registers.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_love"
+  },
+  {
+    "id": "concept-entry-macrocosm",
+    "entity_type": "concept",
+    "title": "Macrocosm",
+    "subtitle": "Heptaplus, Commento",
+    "summary": "The great world whose structure is mirrored, interpreted, and perfected through human and Christological order.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_macrocosm"
+  },
+  {
+    "id": "concept-entry-magic",
+    "entity_type": "concept",
+    "title": "Magic",
+    "subtitle": "900 Conclusions, Apology, Oration",
+    "summary": "The natural, angelic, Kabbalistic, and theological practice-field that made some of Pico's theses dangerous.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_magic"
+  },
+  {
+    "id": "concept-entry-maimonides",
+    "entity_type": "concept",
+    "title": "Maimonides",
+    "subtitle": "Heptaplus, 900 Conclusions",
+    "summary": "Jewish philosopher whose biblical interpretation and negative theology form part of Pico's Jewish philosophical environment.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_maimonides"
+  },
+  {
+    "id": "concept-entry-melancholy",
+    "entity_type": "concept",
+    "title": "Melancholy",
+    "subtitle": "Commento, Disputationes",
+    "summary": "A Renaissance medical and philosophical condition linked to genius, Saturn, imagination, and Ficinian context.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_melancholy"
+  },
+  {
+    "id": "concept-entry-microcosm",
+    "entity_type": "concept",
+    "title": "Microcosm",
+    "subtitle": "Oration, Heptaplus",
+    "summary": "The human being as little world and interpretive key to cosmic order.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_microcosm"
+  },
+  {
+    "id": "concept-entry-mind",
+    "entity_type": "concept",
+    "title": "Mind",
+    "subtitle": "Commento, 900 Conclusions, Heptaplus",
+    "summary": "The intelligible level of reality, often called mens or intellectus, where Ideas, angelic mind, and metaphysical mediation become contested.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_mind"
+  },
+  {
     "id": "concept-pico-missing-writings",
     "entity_type": "concept",
     "title": "Missing Writings Taxonomy",
@@ -81,6 +675,114 @@
     "source_artifact_id": "concept_pico_missing_writings_taxonomy"
   },
   {
+    "id": "concept-entry-mithridates",
+    "entity_type": "concept",
+    "title": "Mithridates",
+    "subtitle": "900 Conclusions, Apology",
+    "summary": "Flavius Mithridates, translator and mediator of Hebrew/Kabbalistic materials for Pico.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_mithridates"
+  },
+  {
+    "id": "concept-entry-moses",
+    "entity_type": "concept",
+    "title": "Moses",
+    "subtitle": "Heptaplus, Oration, 900 Conclusions",
+    "summary": "The biblical sage and philosopher whose hidden wisdom grounds Pico's claims about Genesis, Kabbalah, and ancient theology.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_moses"
+  },
+  {
+    "id": "concept-entry-myth",
+    "entity_type": "concept",
+    "title": "Myth",
+    "subtitle": "Commento, Heptaplus",
+    "summary": "The symbolic narrative medium through which Pico interprets Venus, Love, Orpheus, Moses, and ancient theology.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_myth"
+  },
+  {
+    "id": "concept-entry-nahmanides",
+    "entity_type": "concept",
+    "title": "Nahmanides",
+    "subtitle": "Heptaplus",
+    "summary": "Jewish biblical commentator and Kabbalistic source relevant to Genesis and Heptaplus interpretation.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_nahmanides"
+  },
+  {
+    "id": "concept-entry-natural_magic",
+    "entity_type": "concept",
+    "title": "Natural Magic",
+    "subtitle": "900 Conclusions, Apology",
+    "summary": "The licit or contested use of hidden natural powers, correspondences, and celestial sympathies under philosophical discipline.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_natural_magic"
+  },
+  {
+    "id": "concept-entry-neoplatonism",
+    "entity_type": "concept",
+    "title": "Neoplatonism",
+    "subtitle": "Oration, 900 Conclusions, Commento",
+    "summary": "The late antique and Renaissance philosophical tradition through which Pico reads hierarchy, procession, return, intellect, soul, symbol, and ascent.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_neoplatonism"
+  },
+  {
+    "id": "concept-entry-number",
+    "entity_type": "concept",
+    "title": "Number",
+    "subtitle": "900 Conclusions, Heptaplus",
+    "summary": "Mathematical, symbolic, Kabbalistic, and Pythagorean principle in Pico's metaphysics and hermeneutics.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_number"
+  },
+  {
+    "id": "concept-entry-oration",
+    "entity_type": "concept",
+    "title": "Oration",
+    "subtitle": "Oration",
+    "summary": "The speech prefacing the 900 Conclusions, often misread as a modern manifesto rather than an ascetic, mystical, and disputational program.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_oration"
+  },
+  {
+    "id": "concept-entry-orpheus",
+    "entity_type": "concept",
+    "title": "Orpheus",
+    "subtitle": "Commento, 900 Conclusions",
+    "summary": "Ancient poet-theologian whose mythic authority supports poetic theology and Pico's corrections of Ficinian mythography.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_orpheus"
+  },
+  {
+    "id": "concept-entry-orphic_hymns",
+    "entity_type": "concept",
+    "title": "Orphic Hymns",
+    "subtitle": "900 Conclusions, Commento",
+    "summary": "Poetic-theological materials used in ancient theology, magic, and symbolic interpretation.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_orphic_hymns"
+  },
+  {
+    "id": "concept-entry-participation",
+    "entity_type": "concept",
+    "title": "Participation",
+    "subtitle": "On Being and Unity, Heptaplus",
+    "summary": "The metaphysical relation by which created beings receive limited forms of divine or intelligible reality.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_participation"
+  },
+  {
+    "id": "concept-entry-penia",
+    "entity_type": "concept",
+    "title": "Penia",
+    "subtitle": "Commento",
+    "summary": "The poverty figure in Symposium love mythology, paired with Porus in arguments about desire, lack, and ascent.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_penia"
+  },
+  {
     "id": "concept-astrology",
     "entity_type": "concept",
     "title": "Pico and Astrology",
@@ -88,6 +790,258 @@
     "summary": "Pico's anti-astrology polemic must be studied as a development from earlier natural philosophy and celestial/Kabbalistic interests into late Florentine anti-divinatory critique.",
     "status": "DRAFT",
     "source_artifact_id": "sp_akopyan_astrology_structure"
+  },
+  {
+    "id": "concept-entry-plato",
+    "entity_type": "concept",
+    "title": "Plato",
+    "subtitle": "Oration, 900 Conclusions, On Being and Unity",
+    "summary": "Pico's central ancient authority, read through Ficino, late Neoplatonism, scholastic correction, and the concord project.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_plato"
+  },
+  {
+    "id": "concept-entry-plotinus",
+    "entity_type": "concept",
+    "title": "Plotinus",
+    "subtitle": "Commento, 900 Conclusions",
+    "summary": "Founder of Neoplatonism whose One, Intellect, Soul, and ascent structures underlie Ficino and Pico.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_plotinus"
+  },
+  {
+    "id": "concept-entry-poetic_theology",
+    "entity_type": "concept",
+    "title": "Poetic Theology",
+    "subtitle": "Commento, Oration",
+    "summary": "The use of myth, poetry, and veiled language as vehicles for metaphysical and theological doctrine.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_poetic_theology"
+  },
+  {
+    "id": "concept-entry-porphyry",
+    "entity_type": "concept",
+    "title": "Porphyry",
+    "subtitle": "900 Conclusions",
+    "summary": "Neoplatonic author and logical source relevant to predication, hierarchy, and ancient authority.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_porphyry"
+  },
+  {
+    "id": "concept-entry-porus",
+    "entity_type": "concept",
+    "title": "Porus",
+    "subtitle": "Commento",
+    "summary": "The resource figure in Symposium love mythology, central to Ficino-Pico debate over love's parentage and metaphysical status.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_porus"
+  },
+  {
+    "id": "concept-entry-predication",
+    "entity_type": "concept",
+    "title": "Predication",
+    "subtitle": "On Being and Unity, 900 Conclusions",
+    "summary": "The logic of how names such as being, one, good, intellect, and angel apply differently across levels of reality.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_predication"
+  },
+  {
+    "id": "concept-entry-prisca_theologia",
+    "entity_type": "concept",
+    "title": "Prisca Theologia",
+    "subtitle": "Oration, 900 Conclusions",
+    "summary": "The ancient theology framework connecting Moses, Hermes, Zoroaster, Orpheus, Plato, and Christian truth.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_prisca_theologia"
+  },
+  {
+    "id": "concept-entry-proclus",
+    "entity_type": "concept",
+    "title": "Proclus",
+    "subtitle": "On Being and Unity, 900 Conclusions",
+    "summary": "Late Neoplatonist central to hierarchy, the One, henads, and the Ficino-Pico dispute over Plato.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_proclus"
+  },
+  {
+    "id": "concept-entry-pythagoras",
+    "entity_type": "concept",
+    "title": "Pythagoras",
+    "subtitle": "900 Conclusions",
+    "summary": "Ancient philosopher of number, harmony, and symbolic wisdom in Pico's concordist source field.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_pythagoras"
+  },
+  {
+    "id": "concept-entry-recanati",
+    "entity_type": "concept",
+    "title": "Recanati",
+    "subtitle": "900 Conclusions, Heptaplus",
+    "summary": "A major Kabbalistic source behind Pico's theses, especially exegetical and angelic materials.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_recanati"
+  },
+  {
+    "id": "concept-entry-reception",
+    "entity_type": "concept",
+    "title": "Reception",
+    "subtitle": "Oration, Commento, Biography",
+    "summary": "The afterlife of Pico's works through editors, translators, readers, myths, national literatures, and modern scholarship.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_reception"
+  },
+  {
+    "id": "concept-entry-roman_crisis",
+    "entity_type": "concept",
+    "title": "Roman Crisis",
+    "subtitle": "Oration, 900 Conclusions, Apology",
+    "summary": "The 1486-1487 failure of Pico's public disputation and the papal/juridical crisis that reshaped his work.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_roman_crisis"
+  },
+  {
+    "id": "concept-entry-sabbath",
+    "entity_type": "concept",
+    "title": "Sabbath",
+    "subtitle": "Heptaplus",
+    "summary": "The scriptural and symbolic endpoint of creation, rest, jubilee, knowledge, and spiritual ascent in the Heptaplus.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_sabbath"
+  },
+  {
+    "id": "concept-entry-savonarola",
+    "entity_type": "concept",
+    "title": "Savonarola",
+    "subtitle": "Letters, Biography",
+    "summary": "Florentine reformer and late religious presence in Pico's final years and posthumous reception.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_savonarola"
+  },
+  {
+    "id": "concept-entry-sefirot",
+    "entity_type": "concept",
+    "title": "Sefirot",
+    "subtitle": "900 Conclusions",
+    "summary": "The Kabbalistic emanational structures Pico interprets and Christianizes in the 900 Conclusions and related works.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_sefirot"
+  },
+  {
+    "id": "concept-entry-soul",
+    "entity_type": "concept",
+    "title": "Soul",
+    "subtitle": "Oration, Commento, 900 Conclusions",
+    "summary": "The principle of life, motion, mediation, ascent, and embodiment in Pico's anthropology and cosmology.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_soul"
+  },
+  {
+    "id": "concept-entry-spiritus",
+    "entity_type": "concept",
+    "title": "Spiritus",
+    "subtitle": "Commento, Disputationes",
+    "summary": "The subtle mediating vehicle in Ficinian and Renaissance physiology, astral medicine, and love theory.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_spiritus"
+  },
+  {
+    "id": "concept-entry-syncretism",
+    "entity_type": "concept",
+    "title": "Syncretism",
+    "subtitle": "900 Conclusions",
+    "summary": "The modern term often applied to Pico's source-combining project, useful only when tied to debate form, hierarchy, and evidence.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_syncretism"
+  },
+  {
+    "id": "concept-entry-tetragrammaton",
+    "entity_type": "concept",
+    "title": "Tetragrammaton",
+    "subtitle": "900 Conclusions, Apology",
+    "summary": "The four-letter divine name and a key object of Kabbalistic, Christological, and magical interpretation.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_tetragrammaton"
+  },
+  {
+    "id": "concept-entry-textual_transmission",
+    "entity_type": "concept",
+    "title": "Textual Transmission",
+    "subtitle": "Commento, Disputationes, Opera",
+    "summary": "The history of drafts, manuscripts, editions, translations, omissions, expurgations, and reception shaping Pico's corpus.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_textual_transmission"
+  },
+  {
+    "id": "concept-entry-the_one",
+    "entity_type": "concept",
+    "title": "The One",
+    "subtitle": "On Being and Unity, 900 Conclusions",
+    "summary": "The Neoplatonic first principle whose relation to being marks the dispute between Ficinian-Proclean transcendence and Pico's Christian concord.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_the_one"
+  },
+  {
+    "id": "concept-entry-transcendentals",
+    "entity_type": "concept",
+    "title": "Transcendentals",
+    "subtitle": "On Being and Unity",
+    "summary": "Being, unity, truth, and goodness as convertible or contested concepts in scholastic and Platonic metaphysics.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_transcendentals"
+  },
+  {
+    "id": "concept-entry-translation",
+    "entity_type": "concept",
+    "title": "Translation",
+    "subtitle": "Commento, 900 Conclusions, Heptaplus",
+    "summary": "The movement among Latin, Italian, Hebrew, Greek, English, and French that mediates Pico's sources and reception.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_translation"
+  },
+  {
+    "id": "concept-entry-trinity",
+    "entity_type": "concept",
+    "title": "Trinity",
+    "subtitle": "900 Conclusions, Apology",
+    "summary": "The Christian doctrine Pico seeks to confirm, illuminate, or defend through metaphysics and Kabbalistic materials.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_trinity"
+  },
+  {
+    "id": "concept-entry-unity",
+    "entity_type": "concept",
+    "title": "Unity",
+    "subtitle": "On Being and Unity, 900 Conclusions",
+    "summary": "The one, unity, and the metaphysical convertibility problem that exposes Pico's correction of Ficino's Proclean Plato.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_unity"
+  },
+  {
+    "id": "concept-entry-venus",
+    "entity_type": "concept",
+    "title": "Venus",
+    "subtitle": "Commento",
+    "summary": "The mythological and metaphysical figure through whom Ficino and Pico debate beauty, love, soul, and intelligible origin.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_venus"
+  },
+  {
+    "id": "concept-entry-world_soul",
+    "entity_type": "concept",
+    "title": "World Soul",
+    "subtitle": "Commento, 900 Conclusions, Heptaplus",
+    "summary": "A Ficinian and Platonic mediation concept that Pico can use, discipline, or displace through angelic/intellectual and Christian structures.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_world_soul"
+  },
+  {
+    "id": "concept-entry-zoroaster",
+    "entity_type": "concept",
+    "title": "Zoroaster",
+    "subtitle": "900 Conclusions, Oration",
+    "summary": "Prisca-theologia authority and ancient wisdom figure in Pico's esoteric genealogy.",
+    "status": "ENCYCLOPEDIA_SEED",
+    "source_artifact_id": "encyclopedia_concept_zoroaster"
   },
   {
     "id": "audit-pico-writing-update-pass018",

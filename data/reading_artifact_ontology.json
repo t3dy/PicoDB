@@ -1,6 +1,6 @@
 {
   "id": "reading_artifact_ontology",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "purpose": "Markup and writing ontology for turning systematic readings into website cards, pages, timelines, maps, and scholarly syntheses.",
   "artifact_types": [
     {
@@ -681,5 +681,17 @@
     "mythology_dispute",
     "pico_commento_as_rival_commentary",
     "poetic_theology_project"
-  ]
+  ],
+  "concept_encyclopedia_fields": [
+    "definition",
+    "primary_pico_loci",
+    "source_genealogy",
+    "guide_scholars",
+    "scholarly_debates",
+    "historiographical_cautions",
+    "related_concepts",
+    "website_entry_status",
+    "expansion_target_words"
+  ],
+  "concept_encyclopedia_target_count": 106
 }
