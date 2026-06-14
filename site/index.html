@@ -341,9 +341,8 @@ function initMap() {
       }).addTo(map).bindPopup('<strong>' + r.title + '</strong><br>' + (r.summary || ''));
   }
 
-  // Fit bounds to the actual data — Paris upper-left, Rome lower-right
-  const bounds = L.latLngBounds(visible.map(l => [l.latitude, l.longitude]));
-  map.fitBounds(bounds, { padding: [48, 48] });
+  // Explicit frame: Paris upper-left, Rome lower-right, no empty southern Italy
+  map.fitBounds([[41.6, 1.6], [49.4, 13.2]]);
 }
 </script>
 </body>
