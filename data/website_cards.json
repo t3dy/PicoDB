@@ -36,6 +36,15 @@
     "source_artifact_id": "sp_wirszubski_kabbalah_opening"
   },
   {
+    "id": "concept-pico-corpus-control-dashboard",
+    "entity_type": "concept",
+    "title": "Corpus Control Dashboard",
+    "subtitle": "What is acquired, controlled, or still missing",
+    "summary": "A new dashboard distinguishes OCR control witnesses, reception witnesses, public digital leads, manuscript gaps, and related non-Giovanni texts.",
+    "status": "DRAFT",
+    "source_artifact_id": "concept_pico_corpus_control_dashboard"
+  },
+  {
     "id": "concept-pico-missing-writings",
     "entity_type": "concept",
     "title": "Missing Writings Taxonomy",
@@ -360,6 +369,15 @@
     "source_artifact_id": "source_astrology_new_docs_pass010"
   },
   {
+    "id": "source-opera-omnia-1557-pass013",
+    "entity_type": "source_packet",
+    "title": "Basel Opera OCR Acquired",
+    "subtitle": "Corpus-control witness",
+    "summary": "The 1557 Opera Omnia OCR is now in Markdown and the database for search, segmentation, and edition-control work.",
+    "status": "DRAFT",
+    "source_artifact_id": "source_opera_omnia_1557_control_pass013"
+  },
+  {
     "id": "source-black-heptaplus-structure",
     "entity_type": "source_packet",
     "title": "Black's Heptaplus Structure",
@@ -367,6 +385,15 @@
     "summary": "A source packet maps Black's chapter structure and makes it the control frame for future section summaries of Pico's Heptaplus.",
     "status": "DRAFT",
     "source_artifact_id": "source_black_heptaplus_structure"
+  },
+  {
+    "id": "source-more-life-pico-pass013",
+    "entity_type": "source_packet",
+    "title": "More's Life of Pico Acquired",
+    "subtitle": "English reception witness",
+    "summary": "The More/Rigg public-domain Life of Pico volume is now converted and ready for reception-aware biography notes.",
+    "status": "DRAFT",
+    "source_artifact_id": "source_more_life_pico_pass013"
   },
   {
     "id": "source-opera-reviews-pass012",

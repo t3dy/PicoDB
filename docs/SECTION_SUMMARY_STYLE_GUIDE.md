@@ -150,3 +150,7 @@ When summarizing angelology passages, identify the angelology register, source f
 ## Pass 012 Corpus-Control Overlay
 
 When summarizing reviews, editions, or source surveys, extract every work-title, edition, manuscript witness, early print, reception text, and source-family clue. Mark whether the passage changes access status, edition priority, source ecology, or corpus-formation risk. See `docs/PICO_PRIMARY_TEXT_ACQUISITION_PROTOCOL.md`.
+
+## Pass 013 Missing-Writings Overlay
+
+When summarizing a text from an early Opera witness, begin with a witness note: edition, source, OCR/image status, authorial boundary, posthumous frame, and whether the passage is Giovanni Pico, Gianfrancesco Pico, papal/editorial apparatus, or later reception. Every section summary must separate textual content from edition history and must mark whether the evidence is safe for quotation, safe only for search, or only a bibliographic lead.

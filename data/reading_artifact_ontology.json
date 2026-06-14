@@ -1,6 +1,6 @@
 {
   "id": "reading_artifact_ontology",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "purpose": "Markup and writing ontology for turning systematic readings into website cards, pages, timelines, maps, and scholarly syntheses.",
   "artifact_types": [
     {
@@ -302,6 +302,18 @@
       "carmina_latina",
       "poem_witnesses",
       "poetic_collection_structure"
+    ],
+    "Gianfrancesco Pico": [
+      "corpus_formation",
+      "de_imaginatione_related_text",
+      "posthumous_editing",
+      "vita_reception"
+    ],
+    "Thomas More": [
+      "devotional_pico",
+      "english_reception",
+      "life_of_pico",
+      "translation_witness"
     ]
   },
   "kabbalah_reading_fields": [
@@ -518,15 +530,34 @@
     "section_summary_needed"
   ],
   "missing_writings_priority_queue": [
-    "Basel_1557_1573_Opera_Omnia",
-    "Bologna_1496_posthumous_collection",
-    "Commento_on_Benivieni",
-    "Disputationes_adversus_astrologiam_divinatricem",
-    "De_imaginatione",
+    "Basel_1557_Opera_Omnia_structural_segmentation",
+    "Commento_on_Benivieni_public_text_retry_and_witness_comparison",
+    "Disputationes_adversus_astrologiam_primary_witness_control",
     "Carmina_latina_and_poem_witnesses",
     "Lettere_letter_by_letter",
     "Apologia_condemned_theses",
-    "Gianfrancesco_Vita_and_More_Life",
-    "source_ecology_Averroes_Recanati_Lull_Cusa_Chaldean_Orphic"
+    "Gianfrancesco_Vita_and_More_Life_reception_analysis",
+    "Bologna_1496_posthumous_collection",
+    "source_ecology_Averroes_Recanati_Lull_Cusa_Chaldean_Orphic",
+    "Gianfrancesco_De_imaginatione_related_text"
+  ],
+  "corpus_control_acquisition_statuses": [
+    "full_primary_controlled",
+    "full_primary_unsegmented",
+    "ocr_control_witness_acquired",
+    "reception_witness_acquired",
+    "public_digital_text_identified",
+    "bibliographic_lead_identified",
+    "secondary_rich_primary_gap",
+    "manuscript_witness_needed",
+    "related_non_giovanni_text",
+    "licensing_unclear"
+  ],
+  "corpus_control_rules": [
+    "Separate a missing Giovanni text from a related Gianfrancesco or reception text.",
+    "Treat early Opera OCR as a search and inventory witness until image checks and modern editions confirm readings.",
+    "Promote a work from gap to controlled only after full text, edition metadata, section plan, and source-risk notes are present.",
+    "Record licensing and access status separately from bibliographic existence.",
+    "When an early table of contents lists a work, create acquisition tasks for the work and for the edition frame that transmits it."
   ]
 }

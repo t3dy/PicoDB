@@ -845,6 +845,33 @@
       ]
     },
     {
+      "id": "Opera_omnia_Ioannis_Pici_1557_IA_fulltext_txt_b9ebd3a5",
+      "title": "Opera omnia Ioannis Pici, Mirandulae Concordiaeque comitis",
+      "source_file": "Opera_omnia_Ioannis_Pici_1557_IA_fulltext.txt",
+      "markdown_path": "C:\\Dev\\PicoDB\\Markdown\\Opera_omnia_Ioannis_Pici_1557_IA_fulltext_txt_b9ebd3a5.md",
+      "document_type": "primary_source",
+      "page_count": 140,
+      "word_count": 318909,
+      "duplicate_of": null,
+      "themes": [
+        "corpus control",
+        "Pico works",
+        "early print",
+        "posthumous reception"
+      ],
+      "pico_works_discussed": [
+        "Heptaplus",
+        "900 Conclusions",
+        "Apologia",
+        "On Being and One",
+        "Oration",
+        "Letters",
+        "Disputationes",
+        "Commento",
+        "Pico poems"
+      ]
+    },
+    {
       "id": "Philosophical_Studies_vol_3_Pico_Della_Mirandola__Of_Being_and_Unity_10_5840_philstudies1953344__pdf_931a88d4",
       "title": "Philosophical Studies vol 3 Pico Della Mirandola_ Of Being and Unity 10 5840_philstudies1953344 libgen li",
       "source_file": "Philosophical Studies vol 3 Pico Della Mirandola_ Of Being and Unity 10 5840_philstudies1953344 libgen li.pdf",
@@ -1564,6 +1591,24 @@
       ],
       "pico_works_discussed": [
         "On Being and the One"
+      ]
+    },
+    {
+      "id": "Thomas_More_Rigg_Life_of_Pico_1890_exclassics_pdf_a5a78b5d",
+      "title": "The Life of Pico della Mirandola, translated by Thomas More, edited by J. M. Rigg",
+      "source_file": "Thomas_More_Rigg_Life_of_Pico_1890_exclassics.pdf",
+      "markdown_path": "C:\\Dev\\PicoDB\\Markdown\\Thomas_More_Rigg_Life_of_Pico_1890_exclassics_pdf_a5a78b5d.md",
+      "document_type": "reception_witness",
+      "page_count": 84,
+      "word_count": 40910,
+      "duplicate_of": null,
+      "themes": [
+        "magic",
+        "philology",
+        "theology"
+      ],
+      "pico_works_discussed": [
+        "Letters"
       ]
     },
     {

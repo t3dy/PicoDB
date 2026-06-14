@@ -48,6 +48,18 @@
     "updated_at": "2026-06-14T00:04:36"
   },
   {
+    "id": "concept_pico_corpus_control_dashboard",
+    "artifact_type": "concept_dossier",
+    "title": "Pico Corpus Control Dashboard",
+    "path": "artifacts/concepts/pico_corpus_control_dashboard_pass013.md",
+    "document_id": "Opera_omnia_Ioannis_Pici_1557_IA_fulltext_txt_b9ebd3a5",
+    "target_entity": "Pico missing writings",
+    "status": "SOURCE_ANCHORED_DRAFT",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T19:04:18Z",
+    "updated_at": "2026-06-14T19:05:15Z"
+  },
+  {
     "id": "concept_pico_missing_writings_taxonomy",
     "artifact_type": "concept_dossier",
     "title": "Pico Missing Writings Taxonomy",
@@ -588,6 +600,18 @@
     "updated_at": "2026-06-14T09:30:58Z"
   },
   {
+    "id": "source_opera_omnia_1557_control_pass013",
+    "artifact_type": "source_packet",
+    "title": "Basel 1557 Opera Control Witness",
+    "path": "artifacts/source_packets/opera_omnia_1557_control_witness_pass013.md",
+    "document_id": "Opera_omnia_Ioannis_Pici_1557_IA_fulltext_txt_b9ebd3a5",
+    "target_entity": "Basel Opera Omnia",
+    "status": "OCR_CONTROL_WITNESS",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T19:04:18Z",
+    "updated_at": "2026-06-14T19:05:15Z"
+  },
+  {
     "id": "source_black_heptaplus_structure",
     "artifact_type": "source_packet",
     "title": "Black's Heptaplus Structure",
@@ -754,6 +778,30 @@
     "evidence_status": "likely",
     "created_at": "2026-06-14T09:24:53Z",
     "updated_at": "2026-06-14T09:24:53Z"
+  },
+  {
+    "id": "source_missing_writings_web_pass013",
+    "artifact_type": "source_packet",
+    "title": "Missing Writings Web Acquisition Pass 013",
+    "path": "artifacts/source_packets/missing_writings_web_acquisition_pass013.md",
+    "document_id": "Opera_omnia_Ioannis_Pici_1557_IA_fulltext_txt_b9ebd3a5",
+    "target_entity": "Pico missing writings",
+    "status": "SOURCE_ANCHORED_DRAFT",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T19:04:18Z",
+    "updated_at": "2026-06-14T19:05:15Z"
+  },
+  {
+    "id": "source_more_life_pico_pass013",
+    "artifact_type": "source_packet",
+    "title": "More/Rigg Life of Pico Reception Witness",
+    "path": "artifacts/source_packets/more_life_pico_reception_witness_pass013.md",
+    "document_id": "Thomas_More_Rigg_Life_of_Pico_1890_exclassics_pdf_a5a78b5d",
+    "target_entity": "More Life of Pico",
+    "status": "SOURCE_ANCHORED_DRAFT",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T19:04:18Z",
+    "updated_at": "2026-06-14T19:05:15Z"
   },
   {
     "id": "source_astrology_new_docs_pass010",
@@ -928,12 +976,12 @@
     "artifact_type": "website_page",
     "title": "Pico Writings We Still Need",
     "path": "artifacts/essays/pico_missing_writings_next_steps_draft.md",
-    "document_id": "Mediaevistik_vol._20_Giovanni_Pico_della_Mirandola_Gian_Francesco_Pico_Opera_Omniaby_Cesare_Vaso_pdf_70455a35",
+    "document_id": "Opera_omnia_Ioannis_Pici_1557_IA_fulltext_txt_b9ebd3a5",
     "target_entity": "Pico missing writings",
     "status": "DRAFT",
     "evidence_status": "SOURCE_ANCHORED_DRAFT",
     "created_at": "2026-06-14T10:48:56Z",
-    "updated_at": "2026-06-14T10:48:56Z"
+    "updated_at": "2026-06-14T19:05:15Z"
   },
   {
     "id": "essay_pico_astrology_synthesis",

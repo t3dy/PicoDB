@@ -27,3 +27,7 @@ This protocol governs the next phase of PicoDB: moving from secondary-rich thema
 4. Do not say "we have the work" merely because an anthology or review mentions it. A work counts as controlled only when the full text, edition metadata, and section plan are present.
 5. Poetry requires manuscript-witness control. Speyer, Kristeller, Vatican, Munich, Laurenziana, and Landi/Manuzio/Domenichi traditions must be kept visible.
 6. Reception texts such as Thomas More's English Life of Pico and Gianfrancesco's Vita are not transparent biography; they are corpus-forming witnesses.
+
+## Pass 013 Control Upgrade
+
+Acquisition status now requires two separate fields: `access_status` and `control_status`. A public text may be identified but not downloaded; a full OCR may be acquired but not citation-safe; a reception witness may be acquired but not biographically transparent; a related Pico-family text may be important without being a Giovanni Pico text. Use `data/reading_artifact_ontology.json` version 0.12.0 for these distinctions.

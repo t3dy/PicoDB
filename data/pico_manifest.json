@@ -8,10 +8,10 @@
   "markdown_folder": "C:\\Dev\\PicoDB\\Markdown",
   "site_folder": "C:\\Dev\\PicoDB\\site",
   "corpus_counts": {
-    "documents": 89,
-    "pages": 11269,
-    "sections": 2634,
-    "words": 4378039
+    "documents": 91,
+    "pages": 11493,
+    "sections": 2654,
+    "words": 4737858
   },
   "pipeline": [
     "scripts/init_pico_portal.py",
