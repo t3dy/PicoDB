@@ -58,3 +58,26 @@ Section summaries are the backbone of the project. They must follow `docs/SECTIO
 - open problems and follow-up tasks.
 
 No Pico work dossier or scholar profile should be considered complete until its underlying sections have been summarized to this standard.
+
+## Direct Essay Path (Pass 021 onwards)
+
+For website-facing encyclopedia essays and scholar profiles, the pipeline above is supplemented by a **direct essay path** in which an agent reads scholarship from `E:\pdf\renaissance magic\pico\Markdown\` and writes a prose essay directly to the target file. This is appropriate when:
+
+1. The relevant scholarship files are available as Markdown
+2. The essay topic is well-defined and scoped to a concept or scholar
+3. The goal is a standalone readable article (not a claims database)
+
+**Status values for direct essays:**
+- `COMPLETE` — full prose essay written from scholarship sources
+- `DRAFT_ESSAY` — prose essay drafted but may need revision
+- `ENCYCLOPEDIA_SEED_EXPANSION_REQUIRED` — old seed template NOT YET converted (deprecated format)
+
+The old ENCYCLOPEDIA_SEED format (with Definition / Place in Pico's Works / Scholarly Stakes / Reading Questions / Expansion Plan sections) is **deprecated**. All new and revised essays must follow the CONCEPT_ENCYCLOPEDIA_STYLE_GUIDE (pass021): continuous prose, no section headings, no reading questions.
+
+## Primary Texts Folder
+
+`artifacts/primary_texts/` — holds extracted and translated primary source texts:
+- `pico_opera_omnia_1557.md` — full Latin text extraction from the 1557 Basel Opera Omnia (~114k words, OCR quality: fair)
+- `pico_letters_1557_translated.md` — English translations of Pico's letters from the 1557 edition
+
+The PDF source is `PicoOpera.pdf` (47MB); the OCR source HTML is `PicoOpera.htm`.

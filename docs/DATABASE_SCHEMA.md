@@ -11,6 +11,8 @@ Core tables:
 - `pico_text_gaps`: living accounting of primary texts/editions still to locate or verify.
 - `document_fts`: FTS5 index for source search.
 
+**New in pass021:** The `artifacts/primary_texts/` folder holds extracted and translated primary source texts directly (not database-backed): `pico_opera_omnia_1557.md` (114k word Latin extraction from the 1557 Basel edition) and `pico_letters_1557_translated.md` (English translations of Pico's letters). These complement the database schema below.
+
 Research artifact tables:
 
 - `artifact_types`: controlled vocabulary for source packets, claims, section summaries, scholar profiles, work dossiers, concept dossiers, historiography nodes, timeline events, location records, and website outputs.
