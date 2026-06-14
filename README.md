@@ -1,5 +1,7 @@
 # PicoDB
 
+**[https://t3dy.github.io/PicoDB/](https://t3dy.github.io/PicoDB/)**
+
 PicoDB is a digital humanities knowledge portal for Giovanni Pico della Mirandola, his primary texts, and modern Pico scholarship.
 
 The repository contains the deployable project layer:
