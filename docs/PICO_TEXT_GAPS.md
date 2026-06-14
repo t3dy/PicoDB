@@ -29,3 +29,8 @@
 
 - Status: `secondary_and_reception_rich_primary_text_still_needs_control`
 - Reason: Akopyan, Vanden Broecke, Rabin, Rutkin, and related reviews are now ingested, but the project still needs a controlled standalone primary text / critical edition record for the *Disputationes adversus astrologiam divinatricem* and its posthumous publication history.
+
+## Angelology Primary Text Control Pass 011
+
+- Status: `primary_loci_identified_passage_table_needed`
+- Reason: Oration and Heptaplus primary passages are locally available, and Farmer/Wirszubski/Black/Copenhaver/Allen give strong scholarly controls. The project still needs a thesis-by-thesis angelology table for the 900 Conclusions, especially for Michael, Metatron, mundane angels, six-winged angels, Dionysian hierarchy, first created mind, angelic intellect, and Arabic Active Intellect/conjunction claims.

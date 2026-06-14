@@ -24,6 +24,18 @@
     "updated_at": "2026-06-14T09:24:53Z"
   },
   {
+    "id": "concept_pico_angelology_taxonomy",
+    "artifact_type": "concept_dossier",
+    "title": "Pico Angelology Taxonomy",
+    "path": "artifacts/concepts/pico_angelology_taxonomy_pass011.md",
+    "document_id": "della_Mirandola_Pico__Borghesi_Francesco__Papio_Michael__Riva_Pico_della_Mirandola__Oration_on_t_pdf_2a7ee6ab",
+    "target_entity": "Pico angelology",
+    "status": "SOURCE_ANCHORED_DRAFT",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T10:41:58Z",
+    "updated_at": "2026-06-14T10:41:58Z"
+  },
+  {
     "id": "note_pico_astrology_seed",
     "artifact_type": "concept_dossier",
     "title": "Pico Astrology Seed",
@@ -58,6 +70,18 @@
     "evidence_status": "SOURCE_ANCHORED_DRAFT",
     "created_at": "2026-06-14T00:04:36",
     "updated_at": "2026-06-14T00:04:36"
+  },
+  {
+    "id": "hist_pico_angelology_scholar_matrix",
+    "artifact_type": "historiography_node",
+    "title": "Pico Angelology Scholar Matrix",
+    "path": "artifacts/historiography/pico_angelology_scholar_matrix.md",
+    "document_id": "Studies_in_Medieval_and_Reformation_Traditions_66_Crofton_Black_-_Picos_Heptaplus_and_Biblical_H_pdf_98e6bcc6",
+    "target_entity": "Pico angelology scholarship",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T10:41:58Z",
+    "updated_at": "2026-06-14T10:41:58Z"
   },
   {
     "id": "hist_pico_biography_scholar_method",
@@ -480,6 +504,18 @@
     "updated_at": "2026-06-14T09:30:58Z"
   },
   {
+    "id": "summary_pico_angelology_passage_matrix",
+    "artifact_type": "section_summary",
+    "title": "Pico Angelology Passage Matrix",
+    "path": "artifacts/section_summaries/angelology/pico_angelology_passage_matrix_pass011.md",
+    "document_id": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776",
+    "target_entity": "Pico angelology",
+    "status": "SOURCE_ANCHORED_DRAFT",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T10:41:58Z",
+    "updated_at": "2026-06-14T10:41:58Z"
+  },
+  {
     "id": "sp_akopyan_astrology_structure",
     "artifact_type": "source_packet",
     "title": "Akopyan Astrology Structure",
@@ -732,6 +768,18 @@
     "updated_at": "2026-06-14T07:56:02Z"
   },
   {
+    "id": "source_pico_angelology_map_pass011",
+    "artifact_type": "source_packet",
+    "title": "Pico Angelology Source Map",
+    "path": "artifacts/source_packets/pico_angelology_source_map_pass011.md",
+    "document_id": "della_Mirandola_Pico__Borghesi_Francesco__Papio_Michael__Riva_Pico_della_Mirandola__Oration_on_t_pdf_2a7ee6ab",
+    "target_entity": "Pico angelology",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T10:41:58Z",
+    "updated_at": "2026-06-14T10:41:58Z"
+  },
+  {
     "id": "source_pico_biographical_source_gaps",
     "artifact_type": "source_packet",
     "title": "Pico Biographical Source Gaps",
@@ -862,6 +910,18 @@
     "evidence_status": "SOURCE_ANCHORED_DRAFT",
     "created_at": "2026-06-14T10:20:42Z",
     "updated_at": "2026-06-14T10:20:42Z"
+  },
+  {
+    "id": "essay_pico_angels_angelology",
+    "artifact_type": "website_page",
+    "title": "Pico's Angels and Angelology",
+    "path": "artifacts/essays/pico_angels_angelology_synthesis_draft.md",
+    "document_id": "della_Mirandola_Pico__Borghesi_Francesco__Papio_Michael__Riva_Pico_della_Mirandola__Oration_on_t_pdf_2a7ee6ab",
+    "target_entity": "Pico angelology",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T10:41:58Z",
+    "updated_at": "2026-06-14T10:41:58Z"
   },
   {
     "id": "essay_pico_ficino_dispute_draft",

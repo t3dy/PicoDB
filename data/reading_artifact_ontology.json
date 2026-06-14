@@ -1,6 +1,6 @@
 {
   "id": "reading_artifact_ontology",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "purpose": "Markup and writing ontology for turning systematic readings into website cards, pages, timelines, maps, and scholarly syntheses.",
   "artifact_types": [
     {
@@ -195,7 +195,10 @@
   ],
   "guide_scholars": {
     "Copenhaver": [
+      "Dionysian_darkness",
+      "Metatron_in_Oration",
       "anti_mythic_reconstruction",
+      "oration_angelic_ascent",
       "reception_history",
       "scholastic_terminology",
       "theological_juridical_risk"
@@ -219,10 +222,14 @@
       "exceptionalist_ascent"
     ],
     "Wirszubski": [
+      "Metatron",
+      "Michael",
+      "angelic_hierarchies",
+      "christianizing_transformation",
+      "kabbalistic_angelology",
       "kabbalistic_source_identification",
-      "translation_witness",
       "source_language_dependency",
-      "christianizing_transformation"
+      "translation_witness"
     ],
     "Busi": [
       "praxis_operation",
@@ -231,20 +238,25 @@
       "mithridates_mediation"
     ],
     "Allen": [
-      "ficino_relation",
-      "platonic_dialogue_source",
-      "neoplatonic_hypostasis",
-      "idea_of_man",
-      "poetic_theology",
+      "Idea_of_Man",
+      "being_one_controversy",
       "commento_textual_history",
-      "being_one_controversy"
+      "ficino_angelic_intelligences",
+      "ficino_relation",
+      "idea_of_man",
+      "neoplatonic_hypostasis",
+      "platonic_dialogue_source",
+      "poetic_theology"
     ],
     "Black": [
-      "heptaplus_structure",
+      "angelic_world",
+      "bereshit_sabbath",
       "biblical_hermeneutics",
       "dionysian_anagogy",
+      "felicitas_and_grace",
+      "heptaplus_angelology",
+      "heptaplus_structure",
       "intellect_felicitas",
-      "bereshit_sabbath",
       "jewish_arabic_source_ecology"
     ],
     "Akopyan": [
@@ -268,6 +280,11 @@
       "louvain_reception",
       "reform_vs_rejection",
       "academic_astrology"
+    ],
+    "Farmer": [
+      "angelic_mind",
+      "correlative_hierarchy",
+      "first_created_mind"
     ]
   },
   "kabbalah_reading_fields": [
@@ -426,5 +443,38 @@
     "Farmer": "posthumous_transmission_and_savonarolan_risk",
     "Allen": "ficino_relation_and_platonic_natural_philosophy",
     "Black": "heptaplus_celestial_cosmology_and_arabic_jewish_context"
+  },
+  "angelology_reading_fields": [
+    "pico_work",
+    "angelology_register",
+    "source_family",
+    "authority_named",
+    "metaphysical_level",
+    "function_in_argument",
+    "transformation_status",
+    "textual_risk",
+    "scholar_governor",
+    "confidence"
+  ],
+  "angelology_taxonomy": [
+    "angelic_imitation",
+    "angelic_hierarchy",
+    "angelic_intellectual_world",
+    "angelic_mind_first_created_mind",
+    "kabbalistic_angels",
+    "arabic_intellect_angelology",
+    "ficinian_neoplatonic_angels",
+    "thomistic_separate_substances",
+    "christological_access",
+    "demonic_boundary"
+  ],
+  "angelology_scholar_synthesis": {
+    "Black": "heptaplus_structure_angelic_world_anagogy_felicitas",
+    "Wirszubski": "kabbalistic_angelology_source_control",
+    "Farmer": "900_conclusions_correlative_hierarchy_and_thesis_collation",
+    "Allen": "ficino_pico_platonism_and_neoplatonic_architecture",
+    "Copenhaver": "oration_angelic_transformation_and_dionysian_darkness",
+    "Edelheit": "scholastic_theological_controls",
+    "Salas": "thomistic_being_unity_and_created_intellect"
   }
 }

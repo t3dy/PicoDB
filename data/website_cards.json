@@ -9,6 +9,15 @@
     "source_artifact_id": "note_pico_bio_seed"
   },
   {
+    "id": "concept-pico-angelology-taxonomy",
+    "entity_type": "concept",
+    "title": "Angelology Taxonomy",
+    "subtitle": "Do not tag angelology alone",
+    "summary": "PicoDB now separates angelic imitation, hierarchy, angelic mind, intelligible world, Kabbalistic angels, Arabic intellect, Thomistic separate substances, and grace.",
+    "status": "DRAFT",
+    "source_artifact_id": "concept_pico_angelology_taxonomy"
+  },
+  {
     "id": "concept-pico-astrology-taxonomy",
     "entity_type": "concept",
     "title": "Astrology Taxonomy",
@@ -108,6 +117,15 @@
     "source_artifact_id": "essay_pico_astrology_synthesis"
   },
   {
+    "id": "essay-pico-angels-angelology",
+    "entity_type": "essay",
+    "title": "Pico's Angels and Angelology",
+    "subtitle": "Angelic ascent, intellect, hierarchy, and grace",
+    "summary": "A new synthesis essay collects Pico's angelological materials across the Oration, 900 Conclusions, Heptaplus, Ficino, Dionysius, Aquinas, Proclus, Plotinus, Kabbalah, and Arabic intellect theory.",
+    "status": "DRAFT",
+    "source_artifact_id": "essay_pico_angels_angelology"
+  },
+  {
     "id": "ficino-pico-dispute",
     "entity_type": "essay",
     "title": "Pico's Dispute with Ficino",
@@ -151,6 +169,15 @@
     "summary": "The portal's governing historiographical correction: Pico cannot be reduced to a proto-modern Oration on dignity. The Oration must be read as preface, reception object, mystical text, and part of the 900 Conclusions crisis.",
     "status": "DRAFT",
     "source_artifact_id": "sp_copenhaver_magic_intro"
+  },
+  {
+    "id": "hist-pico-angelology-scholars",
+    "entity_type": "historiography",
+    "title": "Angelology Scholar Matrix",
+    "subtitle": "Black, Wirszubski, Farmer, Allen, Copenhaver",
+    "summary": "A new matrix assigns guide roles for Pico's angelology: Heptaplus structure, Kabbalistic source control, thesis collation, Ficino-Pico Platonism, and Oration myth correction.",
+    "status": "DRAFT",
+    "source_artifact_id": "hist_pico_angelology_scholar_matrix"
   },
   {
     "id": "hist-pico-astrology-scholars",
@@ -295,6 +322,15 @@
     "summary": "A new source-gap packet marks the Borghesi Lettere for letter-by-letter summary and identifies Gianfrancesco's Vita, Capponi 235, the 1496 print tradition, PRDL titles, and the del Medigo letter as acquisition/control targets.",
     "status": "DRAFT",
     "source_artifact_id": "source_pico_biographical_source_gaps"
+  },
+  {
+    "id": "source-pico-angelology-map",
+    "entity_type": "source_packet",
+    "title": "Angelology Source Map",
+    "subtitle": "Primary loci and scholarship",
+    "summary": "A new source map identifies angelological loci in the Oration, 900 Conclusions, Heptaplus, On Being and Unity, Commento, and the major scholarship.",
+    "status": "DRAFT",
+    "source_artifact_id": "source_pico_angelology_map_pass011"
   },
   {
     "id": "source-astrology-pass010",

@@ -142,3 +142,7 @@ When summarizing the Heptaplus or Crofton Black, add a Black overlay:
 ## Pass 010 Astrology Overlay
 
 When summarizing astrology passages, identify the astrology register, attitude status, causation model, chronology, and textual risk. Do not use "astrology" as a naked tag. Distinguish natural celestial influence, judicial/divinatory astrology, astral magic, poetic astrology, Kabbalistic-astral correspondence, biblical cosmology, anti-astrology, and reception.
+
+## Pass 011 Angelology Overlay
+
+When summarizing angelology passages, identify the angelology register, source family, authority named, metaphysical level, function in the argument, transformation status, and textual risk. Do not use "angelology" as a naked tag. Separate angelic imitation, angelic hierarchy, angelic/intellectual world, angelic mind, Kabbalistic angels, Arabic intellect, Ficinian/Neoplatonic mediation, Thomistic separate substances, Christological access, and demonic boundary questions. See `docs/ANGELOLOGY_READING_PROTOCOL.md`.
