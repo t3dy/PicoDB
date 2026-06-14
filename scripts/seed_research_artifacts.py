@@ -773,7 +773,7 @@ a {{ color:var(--blue); }}
 </section>
 <section id="timeline" class="section">
 <h2>Pico Life and Reception Timeline</h2>
-<p>This is a 63-entry working timeline. Items marked likely or interpretive are useful for writing but still need close source anchoring before final publication.</p>
+<p>This is a {len(timeline)}-entry working timeline. Items marked likely or interpretive are useful for writing but still need close source anchoring before final publication.</p>
 <input id="timelineSearch" placeholder="Search timeline..." oninput="filterTimeline()">
 <div class="timeline" id="timelineList">
 {''.join(event_html(e) for e in timeline)}
@@ -838,7 +838,12 @@ def card_html(c):
 
 
 def artifact_html(a):
-    rel = Path(a["path"]).relative_to(ROOT).as_posix() if a["path"] else ""
+    if a["path"]:
+        path = Path(a["path"])
+        full_path = path if path.is_absolute() else ROOT / path
+        rel = full_path.relative_to(ROOT).as_posix()
+    else:
+        rel = ""
     link = f"<a href='../{rel}'>{esc(rel)}</a>" if rel else ""
     return f"<div class='card'><h3>{esc(a['title'])}</h3><div class='small'>{esc(a['artifact_type'])} · {esc(a['status'])} · {esc(a['evidence_status'])}</div><p>{link}</p></div>"
 

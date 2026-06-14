@@ -546,6 +546,19 @@
     "importance": 4
   },
   {
+    "id": "tl_073",
+    "start_date": "1489",
+    "end_date": null,
+    "date_label": "1489",
+    "title": "Heptaplus dedicated to Lorenzo de' Medici",
+    "summary": "The Heptaplus is presented as Pico's Sevenfold Narration of the Six Days of Genesis and dedicated to Lorenzo, joining Genesis, natural secrets, and Medici intellectual patronage.",
+    "location_id": "florence",
+    "category": "writing",
+    "evidence_status": "likely",
+    "source_note": "Anthology, Heptaplus publisher dedication and proem, extracted pp. 101-103.",
+    "importance": 4
+  },
+  {
     "id": "tl_034",
     "start_date": "1490",
     "end_date": null,
@@ -621,6 +634,19 @@
     "category": "network",
     "evidence_status": "likely",
     "source_note": "Walden, p. 2.",
+    "importance": 4
+  },
+  {
+    "id": "tl_074",
+    "start_date": "1491",
+    "end_date": null,
+    "date_label": "1491",
+    "title": "On Being and the One responds to Lorenzo/Poliziano discussion",
+    "summary": "Pico frames On Being and the One as a compact answer to a discussion about whether the one is above being and whether Plato and Aristotle can be reconciled.",
+    "location_id": "florence",
+    "category": "writing",
+    "evidence_status": "likely",
+    "source_note": "Anthology, On Being and the One proem, extracted pp. 72-73.",
     "importance": 4
   },
   {
@@ -793,6 +819,19 @@
     "importance": 3
   },
   {
+    "id": "tl_075",
+    "start_date": "1495",
+    "end_date": null,
+    "date_label": "1495",
+    "title": "Pico's papers held at San Marco after his death",
+    "summary": "Farmer reports that Pico's papers and books were apparently held at San Marco while Gianfrancesco Pico and Giovanni Mainardi transcribed them.",
+    "location_id": "san_marco_florence",
+    "category": "textual_transmission",
+    "evidence_status": "needs_review",
+    "source_note": "Farmer, Pico and Anti-Pico, extracted pp. 192-194.",
+    "importance": 3
+  },
+  {
     "id": "tl_053",
     "start_date": "1496",
     "end_date": null,
@@ -803,6 +842,19 @@
     "category": "reception",
     "evidence_status": "likely",
     "source_note": "Walden note on posthumous tampering and Farmer.",
+    "importance": 4
+  },
+  {
+    "id": "tl_076",
+    "start_date": "1496",
+    "end_date": null,
+    "date_label": "1496",
+    "title": "Disputationes enters Savonarolan anti-astrology conflict",
+    "summary": "Farmer reads the posthumous publication and use of the Disputationes within Florentine political conflict over prophecy, astrology, and Savonarola's authority.",
+    "location_id": "florence",
+    "category": "reception",
+    "evidence_status": "likely",
+    "source_note": "Farmer, Pico and Anti-Pico, extracted pp. 190-194.",
     "importance": 4
   },
   {
@@ -882,6 +934,19 @@
     "evidence_status": "likely",
     "source_note": "Farmer corpus files.",
     "importance": 4
+  },
+  {
+    "id": "tl_077",
+    "start_date": "1998",
+    "end_date": null,
+    "date_label": "1998",
+    "title": "Farmer makes textual-transmission risk central",
+    "summary": "Farmer's Syncretism in the West argues that the 900 Conclusions require reliable edition, hidden-connection reconstruction, and caution about posthumously edited Pico texts.",
+    "location_id": null,
+    "category": "scholarship",
+    "evidence_status": "verified",
+    "source_note": "Farmer preface and chapter 4 readings.",
+    "importance": 3
   },
   {
     "id": "tl_060",

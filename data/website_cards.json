@@ -36,6 +36,15 @@
     "source_artifact_id": "sp_copenhaver_magic_intro"
   },
   {
+    "id": "hist-antipico",
+    "entity_type": "historiography",
+    "title": "The Anti-Pico Problem",
+    "subtitle": "Textual tampering and late doctrine",
+    "summary": "Farmer's textual-transmission argument warns that late printed Pico, especially the Disputationes, cannot be used doctrinally without checking Gianfrancesco/San Marco risk.",
+    "status": "DRAFT",
+    "source_artifact_id": "sp_farmer_disputationes_tampering"
+  },
+  {
     "id": "bio-copenhaver",
     "entity_type": "scholar",
     "title": "Brian P. Copenhaver",
@@ -90,6 +99,15 @@
     "source_artifact_id": "note_900_seed"
   },
   {
+    "id": "work-900-system",
+    "entity_type": "work",
+    "title": "900 Conclusions as a Knowledge System",
+    "subtitle": "Thesis clusters and hidden connections",
+    "summary": "The 900 Conclusions should be treated as a debate database of compressed propositions, cross-links, traditions, and edition problems.",
+    "status": "DRAFT",
+    "source_artifact_id": "sp_farmer_preface_textual_system"
+  },
+  {
     "id": "work-disputationes",
     "entity_type": "work",
     "title": "Disputationes adversus astrologiam divinatricem",
@@ -108,6 +126,24 @@
     "source_artifact_id": "note_heptaplus_seed"
   },
   {
+    "id": "work-heptaplus-primary",
+    "entity_type": "work",
+    "title": "Heptaplus: Genesis and the Four Worlds",
+    "subtitle": "Sevenfold Mosaic interpretation",
+    "summary": "The Heptaplus reads Genesis as hidden natural and divine philosophy, organized by coherent sevenfold interpretation and a four-world cosmology.",
+    "status": "DRAFT",
+    "source_artifact_id": "sp_heptaplus_proems"
+  },
+  {
+    "id": "work-being-one-primary",
+    "entity_type": "work",
+    "title": "On Being and the One",
+    "subtitle": "Concord and apophasis",
+    "summary": "Pico reconciles Plato and Aristotle by distinguishing senses of being and by moving from semantics to Dionysian divine darkness.",
+    "status": "DRAFT",
+    "source_artifact_id": "sp_on_being_one_opening"
+  },
+  {
     "id": "work-oration",
     "entity_type": "work",
     "title": "Oration on the Dignity of Man",
@@ -115,5 +151,14 @@
     "summary": "The Oration must be treated both as a text attached to the failed 900 Theses debate and as a later object of modern memory, humanist canonization, and debate over dignity, freedom, magic, and Kabbalah.",
     "status": "DRAFT",
     "source_artifact_id": "note_oration_seed"
+  },
+  {
+    "id": "work-oration-primary",
+    "entity_type": "work",
+    "title": "Oration: Indeterminacy and Ascent",
+    "subtitle": "Opening sequence",
+    "summary": "The Oration's famous opening is a disciplined program of self-shaping, angelic imitation, philosophical purgation, and ascent to union with God.",
+    "status": "DRAFT",
+    "source_artifact_id": "sp_oration_opening_ascent"
   }
 ]
