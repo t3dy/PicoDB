@@ -1079,6 +1079,32 @@
     "notes": "Pass 005 scholarly-values extraction."
   },
   {
+    "id": "claim_jayne_015_001",
+    "artifact_id": "source_jayne_commento_translation_access_pass015",
+    "document_id": "Sears_Jayne_Commentary_on_a_Canzone_of_Benivieni_1984_restricted_ia",
+    "claim_text": "Sears Jayne's 1984 English translation of Pico's Commento is available as a restricted Internet Archive controlled digital loan and should be used through page-level notes rather than repository transcription.",
+    "claim_type": "bibliographic",
+    "theme": "Commento",
+    "target_entity": "Jayne translation",
+    "evidence_page": "IA access record",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": "Pass 015."
+  },
+  {
+    "id": "claim_jayne_015_002",
+    "artifact_id": "concept_commento_translation_collation_protocol_pass015",
+    "document_id": "Sears_Jayne_Commentary_on_a_Canzone_of_Benivieni_1984_restricted_ia",
+    "claim_text": "Jayne should be collated against the Italian TEI and Stanley to track modern scholarly terminology for love, beauty, mind, angelic hierarchy, and ascent.",
+    "claim_type": "methodological",
+    "theme": "translation",
+    "target_entity": "Commento collation",
+    "evidence_page": "Pass 015 protocol",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": "Pass 015."
+  },
+  {
     "id": "claim_kabbalah_synth_001",
     "artifact_id": "essay_pico_kabbalah_synthesis_draft",
     "document_id": "Chaim_Wirszubski_Paul_Oskar_Kristeller_Pico_della_Mirandola_s_Encounter_with_Jewish_Mysticism_Ha_pdf_cd8c112f",

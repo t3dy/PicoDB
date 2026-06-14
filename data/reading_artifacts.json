@@ -24,6 +24,18 @@
     "updated_at": "2026-06-14T19:21:51Z"
   },
   {
+    "id": "concept_commento_translation_collation_protocol_pass015",
+    "artifact_type": "concept_dossier",
+    "title": "Commento Translation Collation Protocol",
+    "path": "artifacts/concepts/commento_translation_collation_protocol_pass015.md",
+    "document_id": "Sears_Jayne_Commentary_on_a_Canzone_of_Benivieni_1984_restricted_ia",
+    "target_entity": "Commento translation collation",
+    "status": "WORKFLOW",
+    "evidence_status": "source_governed",
+    "created_at": "2026-06-14T20:22:42Z",
+    "updated_at": "2026-06-14T20:22:42Z"
+  },
+  {
     "id": "concept_kabbalah_protocol_seed",
     "artifact_type": "concept_dossier",
     "title": "Kabbalah Reading Protocol Seed",
@@ -910,6 +922,18 @@
     "evidence_status": "likely",
     "created_at": "2026-06-14T10:04:38Z",
     "updated_at": "2026-06-14T10:04:38Z"
+  },
+  {
+    "id": "source_jayne_commento_translation_access_pass015",
+    "artifact_type": "source_packet",
+    "title": "Sears Jayne Commento Translation Access",
+    "path": "artifacts/source_packets/jayne_commento_translation_access_pass015.md",
+    "document_id": "Sears_Jayne_Commentary_on_a_Canzone_of_Benivieni_1984_restricted_ia",
+    "target_entity": "Commento",
+    "status": "RESTRICTED_MODERN_TRANSLATION_WITNESS",
+    "evidence_status": "verified_access_lead",
+    "created_at": "2026-06-14T20:22:42Z",
+    "updated_at": "2026-06-14T20:22:42Z"
   },
   {
     "id": "source_stanley_platonick_discourse_pass014",

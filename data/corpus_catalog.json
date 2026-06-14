@@ -241,6 +241,26 @@
       ]
     },
     {
+      "id": "Sears_Jayne_Commentary_on_a_Canzone_of_Benivieni_1984_restricted_ia",
+      "title": "Commentary on a Canzone of Benivieni",
+      "source_file": "Internet Archive controlled digital loan",
+      "markdown_path": "C:\\Dev\\PicoDB\\Markdown\\Sears_Jayne_Commentary_on_a_Canzone_of_Benivieni_1984_restricted_ia.md",
+      "document_type": "restricted_modern_translation_witness",
+      "page_count": 0,
+      "word_count": 0,
+      "duplicate_of": null,
+      "themes": [
+        "Commento",
+        "Platonic love",
+        "modern English translation",
+        "Sears Jayne",
+        "Benivieni"
+      ],
+      "pico_works_discussed": [
+        "Commento sopra una canzone d'amore"
+      ]
+    },
+    {
       "id": "Pico_Commento_BibliotecaItaliana_TEI_bibit000827_xml_2e50ef08",
       "title": "Commento sopra una canzone d'amore di Girolamo Benivieni",
       "source_file": "Pico_Commento_BibliotecaItaliana_TEI_bibit000827.xml",

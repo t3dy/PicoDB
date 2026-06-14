@@ -45,6 +45,15 @@
     "source_artifact_id": "concept_commento_reading_ontology"
   },
   {
+    "id": "concept-commento-translation-collation-pass015",
+    "entity_type": "concept",
+    "title": "Commento Translation Collation",
+    "subtitle": "Italian TEI, Stanley, Jayne",
+    "summary": "A workflow separates controlling primary text, early modern reception, and restricted modern translation witness.",
+    "status": "DRAFT",
+    "source_artifact_id": "concept_commento_translation_collation_protocol_pass015"
+  },
+  {
     "id": "concept-pico-corpus-control-dashboard",
     "entity_type": "concept",
     "title": "Corpus Control Dashboard",
@@ -412,6 +421,15 @@
     "summary": "The Commento is now a controlled primary text in Markdown and SQLite, sectioned by paratext, books, chapters, and stanza commentary.",
     "status": "DRAFT",
     "source_artifact_id": "source_commento_control_pass014"
+  },
+  {
+    "id": "source-jayne-commento-pass015",
+    "entity_type": "source_packet",
+    "title": "Jayne Commento Translation Access",
+    "subtitle": "Restricted modern English witness",
+    "summary": "Jayne's modern English translation is registered for page-level notes and collation, not full-text transcription.",
+    "status": "DRAFT",
+    "source_artifact_id": "source_jayne_commento_translation_access_pass015"
   },
   {
     "id": "source-more-life-pico-pass013",

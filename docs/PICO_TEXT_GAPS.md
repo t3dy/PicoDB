@@ -52,3 +52,7 @@
 
 - `Commento sopra una canzone d'amore`: `controlled_primary_text_needs_close_reading`; Biblioteca Italiana TEI/XML has been ingested and sectioned by dedication, canzone, books, chapters, and stanza commentary.
 - `A Platonick discourse upon love`: `translation_reception_witness_acquired`; Thomas Stanley's 1651 English translation is available through the 1914 Gardner reprint OCR and should be collated against the Italian.
+
+## Jayne Translation Pass 015 Access Update
+
+- `Sears Jayne, Commentary on a Canzone of Benivieni`: `restricted_modern_translation_witness`; accessible through Internet Archive controlled digital lending, but no full transcript should be extracted into the repository. Use page-level notes, short quotation anchors, and collation observations.
