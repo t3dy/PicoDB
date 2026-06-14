@@ -9,6 +9,15 @@
     "source_artifact_id": "note_pico_bio_seed"
   },
   {
+    "id": "concept-pico-astrology-taxonomy",
+    "entity_type": "concept",
+    "title": "Astrology Taxonomy",
+    "subtitle": "Do not tag astrology alone",
+    "summary": "PicoDB now separates natural celestial influence, judicial astrology, astral magic, poetic astrology, Kabbalistic correspondences, biblical cosmology, anti-astrology, and reception.",
+    "status": "DRAFT",
+    "source_artifact_id": "concept_pico_astrology_taxonomy"
+  },
+  {
     "id": "concept-kabbalah",
     "entity_type": "concept",
     "title": "Christian Kabbalah in Pico",
@@ -90,6 +99,15 @@
     "source_artifact_id": "essay_pico_biography_scholar_synthesis"
   },
   {
+    "id": "essay-pico-astrology",
+    "entity_type": "essay",
+    "title": "Pico and Astrology",
+    "subtitle": "From celestial use to anti-divination",
+    "summary": "A new synthesis essay reads Pico's astrology developmentally: early celestial and poetic uses, Kabbalistic/magical contexts, late critique of divinatory astrology, and complex reception.",
+    "status": "DRAFT",
+    "source_artifact_id": "essay_pico_astrology_synthesis"
+  },
+  {
     "id": "ficino-pico-dispute",
     "entity_type": "essay",
     "title": "Pico's Dispute with Ficino",
@@ -133,6 +151,15 @@
     "summary": "The portal's governing historiographical correction: Pico cannot be reduced to a proto-modern Oration on dignity. The Oration must be read as preface, reception object, mystical text, and part of the 900 Conclusions crisis.",
     "status": "DRAFT",
     "source_artifact_id": "sp_copenhaver_magic_intro"
+  },
+  {
+    "id": "hist-pico-astrology-scholars",
+    "entity_type": "historiography",
+    "title": "Astrology Scholar Matrix",
+    "subtitle": "Akopyan, Rabin, Rutkin, Vanden Broecke",
+    "summary": "A new matrix assigns guide roles for Pico's astrology: developmental arc, historiography, early Commento evidence, reform/reception, transmission risk, Ficino relation, and Heptaplus cosmology.",
+    "status": "DRAFT",
+    "source_artifact_id": "hist_pico_astrology_scholar_matrix"
   },
   {
     "id": "hist-pico-biography-method",
@@ -268,6 +295,15 @@
     "summary": "A new source-gap packet marks the Borghesi Lettere for letter-by-letter summary and identifies Gianfrancesco's Vita, Capponi 235, the 1496 print tradition, PRDL titles, and the del Medigo letter as acquisition/control targets.",
     "status": "DRAFT",
     "source_artifact_id": "source_pico_biographical_source_gaps"
+  },
+  {
+    "id": "source-astrology-pass010",
+    "entity_type": "source_packet",
+    "title": "Astrology Source Packet",
+    "subtitle": "Six new astrology documents",
+    "summary": "The pass 010 source packet records Akopyan, Rabin, Rutkin, Vanden Broecke, and review materials newly copied from Downloads and ingested into PicoDB.",
+    "status": "DRAFT",
+    "source_artifact_id": "source_astrology_new_docs_pass010"
   },
   {
     "id": "source-black-heptaplus-structure",

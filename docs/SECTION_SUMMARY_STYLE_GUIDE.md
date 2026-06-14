@@ -138,3 +138,7 @@ When summarizing the Heptaplus or Crofton Black, add a Black overlay:
 - Distinguish Aquinas, Pseudo-Dionysius, Proclus, Arabic intellect tradition, Jewish exegesis, and Kabbalah.
 - State whether the passage repeats, recodes, or corrects a problem from the 900 Conclusions, Apology, Commento, or Oration.
 - Mark the kind of ascent: cosmological, anagogical, intellectual, mystical, or salvific.
+
+## Pass 010 Astrology Overlay
+
+When summarizing astrology passages, identify the astrology register, attitude status, causation model, chronology, and textual risk. Do not use "astrology" as a naked tag. Distinguish natural celestial influence, judicial/divinatory astrology, astral magic, poetic astrology, Kabbalistic-astral correspondence, biblical cosmology, anti-astrology, and reception.

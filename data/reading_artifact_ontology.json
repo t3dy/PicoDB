@@ -1,6 +1,6 @@
 {
   "id": "reading_artifact_ontology",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "purpose": "Markup and writing ontology for turning systematic readings into website cards, pages, timelines, maps, and scholarly syntheses.",
   "artifact_types": [
     {
@@ -246,6 +246,28 @@
       "intellect_felicitas",
       "bereshit_sabbath",
       "jewish_arabic_source_ecology"
+    ],
+    "Akopyan": [
+      "astrology_developmental_arc",
+      "disputationes_structure",
+      "natural_philosophy",
+      "astrology_reception"
+    ],
+    "Rabin": [
+      "astrology_historiography",
+      "burckhardt_cassirer_correction",
+      "yates_correction"
+    ],
+    "Rutkin": [
+      "early_astrology",
+      "commento_desire",
+      "astrology_magic_kabbalah_historiography"
+    ],
+    "Vanden Broecke": [
+      "astrological_boundary_work",
+      "louvain_reception",
+      "reform_vs_rejection",
+      "academic_astrology"
     ]
   },
   "kabbalah_reading_fields": [
@@ -373,5 +395,36 @@
     "table_needed",
     "next_close_reading_targets",
     "review_threshold"
-  ]
+  ],
+  "astrology_reading_fields": [
+    "pico_work",
+    "astrology_register",
+    "attitude_status",
+    "causation_model",
+    "scholar_governor",
+    "chronology",
+    "genre",
+    "textual_risk",
+    "reception_target",
+    "confidence"
+  ],
+  "astrology_taxonomy": [
+    "natural_celestial_influence",
+    "judicial_divinatory_astrology",
+    "astral_magic",
+    "poetic_astrology",
+    "kabbalistic_astral_correspondence",
+    "biblical_cosmology",
+    "anti_astrology",
+    "reception_astrology"
+  ],
+  "astrology_scholar_synthesis": {
+    "Akopyan": "developmental_arc_and_disputationes_structure",
+    "Rabin": "historiographical_myth_correction",
+    "Rutkin": "early_astrology_commento_desire",
+    "Vanden_Broecke": "reform_rejection_boundary_and_louvain_reception",
+    "Farmer": "posthumous_transmission_and_savonarolan_risk",
+    "Allen": "ficino_relation_and_platonic_natural_philosophy",
+    "Black": "heptaplus_celestial_cosmology_and_arabic_jewish_context"
+  }
 }

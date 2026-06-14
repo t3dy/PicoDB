@@ -428,6 +428,30 @@
       ]
     },
     {
+      "id": "I_Tatti_Studies_Essays_in_the_Renaissance_2018-mar_vol._21_iss._1_Giovanni_Pico_della_Mirandola__pdf_8bbca9be",
+      "title": "Giovanni Pico della Mirandola and Astrology (1486–1493): From Scientia Naturalis to the Disputationes adversus astrologiam",
+      "source_file": "[I Tatti Studies Essays in the Renaissance 2018-mar vol. 21 iss. 1] Giovanni Pico della Mirandola and Astrology (1486–1493)_ From Scientia Naturalis...{Akopyan, Ovanes}(2018 March)[10.1086_697034]{75613754} libgen.li.pdf",
+      "markdown_path": "C:\\Dev\\PicoDB\\Markdown\\I_Tatti_Studies_Essays_in_the_Renaissance_2018-mar_vol._21_iss._1_Giovanni_Pico_della_Mirandola__pdf_8bbca9be.md",
+      "document_type": "primary_or_edition",
+      "page_count": 20,
+      "word_count": 11519,
+      "duplicate_of": "I_Tatti_Studies_Essays_in_the_Renaissance_2018_mar_vol_21_iss_1_Akopyan_Ovanes_Giovanni_Pico_del_pdf_8bbca9be",
+      "themes": [
+        "kabbalah",
+        "magic",
+        "astrology",
+        "platonism",
+        "aristotelianism",
+        "theology",
+        "historiography"
+      ],
+      "pico_works_discussed": [
+        "900 Theses / Conclusiones",
+        "On Being and the One",
+        "Disputationes adversus astrologiam divinatricem"
+      ]
+    },
+    {
       "id": "Journal_of_the_Warburg_and_Courtauld_Institutes_vol_45_B_C_Novak_Giovanni_Pico_della_Mirandola_a_pdf_1d4475d0",
       "title": "Giovanni Pico della Mirandola and Jochanan Alemanno",
       "source_file": "Journal of the Warburg and Courtauld Institutes vol 45 B C Novak Giovanni Pico della Mirandola and Jochanan Alemanno 10 2307_750969 libgen li.pdf",
@@ -681,6 +705,28 @@
       "pico_works_discussed": [
         "900 Theses / Conclusiones",
         "Apologia",
+        "Commento / Commentary on Benivieni's Canzone"
+      ]
+    },
+    {
+      "id": "Studies_in_History_and_Philosophy_of_Science_Part_C__Studies_in_History_and_Philosophy_of_Biolog_pdf_8521a36b",
+      "title": "Mysteries of attraction: Giovanni Pico della Mirandola, astrology and desire",
+      "source_file": "[Studies in History and Philosophy of Science Part C_ Studies in History and Philosophy of Biological and Biomedical Sciences 2010-jun vol. 41 iss. 2] Mysteries of attraction_ Giovanni Pico della Mirandola, astrology .pdf",
+      "markdown_path": "C:\\Dev\\PicoDB\\Markdown\\Studies_in_History_and_Philosophy_of_Science_Part_C__Studies_in_History_and_Philosophy_of_Biolog_pdf_8521a36b.md",
+      "document_type": "primary_or_edition",
+      "page_count": 8,
+      "word_count": 10290,
+      "duplicate_of": null,
+      "themes": [
+        "kabbalah",
+        "magic",
+        "astrology",
+        "platonism",
+        "human_dignity",
+        "historiography"
+      ],
+      "pico_works_discussed": [
+        "Oration on the Dignity of Man",
         "Commento / Commentary on Benivieni's Canzone"
       ]
     },
@@ -1445,6 +1491,22 @@
       ]
     },
     {
+      "id": "Centaurus_2009-may_vol._51_iss._2_The_Limits_of_Influence__Pico_Louvain_and_the_Crisis_of_Renais_pdf_ec31da6e",
+      "title": "The Limits of Influence: Pico, Louvain, and the Crisis of Renaissance Astrology - by Steven Vanden Broecke",
+      "source_file": "[Centaurus 2009-may vol. 51 iss. 2] The Limits of Influence_ Pico, Louvain, and the Crisis of Renaissance Astrology - by Steven Vande...{Patrick J. Boner}(2009 May)[10.1111_j.1600-0498.2008.00135_2.x]{16533170} libgen.pdf",
+      "markdown_path": "C:\\Dev\\PicoDB\\Markdown\\Centaurus_2009-may_vol._51_iss._2_The_Limits_of_Influence__Pico_Louvain_and_the_Crisis_of_Renais_pdf_ec31da6e.md",
+      "document_type": "review",
+      "page_count": 2,
+      "word_count": 848,
+      "duplicate_of": null,
+      "themes": [
+        "astrology"
+      ],
+      "pico_works_discussed": [
+        "Disputationes adversus astrologiam divinatricem"
+      ]
+    },
+    {
       "id": "The_South_Central_Bulletin_vol_38_iss_1_Review_by__Dorothy_H_Brown_Pico_della_Mirandola_s__Hepta_pdf_cf5425dc",
       "title": "The South Central Bulletin vol 38 iss 1 Review by_ Dorothy H Brown Pico della Mirandola s _Heptaplus or Discourse on the Seven Days of Creation_by Jessie Brewer McGaw_ Pico della Mirandola 10 2307_318",
       "source_file": "The South Central Bulletin vol 38 iss 1 Review by_ Dorothy H Brown Pico della Mirandola s _Heptaplus or Discourse on the Seven Days of Creation_by Jessie Brewer McGaw_ Pico della Mirandola 10 2307_318.pdf",
@@ -1502,6 +1564,63 @@
       "pico_works_discussed": [
         "Commento / Commentary on Benivieni's Canzone"
       ]
+    },
+    {
+      "id": "Explorations_in_Renaissance_Culture_2010-dec_02_vol._36_iss._2_Pico_and_the_Historiography_of_Re_pdf_352c5bd9",
+      "title": "[Explorations in Renaissance Culture 2010-dec 02 vol. 36 iss. 2] Pico and the Historiography of Renaissance Astrology{Rabin, Sheila J.}(2010 December 02)[10.1163_23526963-90000391]{55202756} libgen.li",
+      "source_file": "[Explorations in Renaissance Culture 2010-dec 02 vol. 36 iss. 2] Pico and the Historiography of Renaissance Astrology{Rabin, Sheila J.}(2010 December 02)[10.1163_23526963-90000391]{55202756} libgen.li.pdf",
+      "markdown_path": "C:\\Dev\\PicoDB\\Markdown\\Explorations_in_Renaissance_Culture_2010-dec_02_vol._36_iss._2_Pico_and_the_Historiography_of_Re_pdf_352c5bd9.md",
+      "document_type": "primary_or_edition",
+      "page_count": 11,
+      "word_count": 4747,
+      "duplicate_of": null,
+      "themes": [
+        "kabbalah",
+        "magic",
+        "astrology",
+        "platonism",
+        "aristotelianism",
+        "human_dignity",
+        "concord",
+        "theology",
+        "historiography"
+      ],
+      "pico_works_discussed": [
+        "Oration on the Dignity of Man",
+        "900 Theses / Conclusiones",
+        "Heptaplus"
+      ]
+    },
+    {
+      "id": "Journal_for_the_History_of_Astronomy_2006-aug_vol._37_iss._3_Book_Review__Astrology_in_the_Low_C_pdf_bb5c281e",
+      "title": "[Journal for the History of Astronomy 2006-aug vol. 37 iss. 3] Book Review_ Astrology in the Low Countries_ The Limits of Influence_ Pico, Louvain, and the Cris...{Azzolini, M.}(2006 August)[10.1177_002182860603700309",
+      "source_file": "[Journal for the History of Astronomy 2006-aug vol. 37 iss. 3] Book Review_ Astrology in the Low Countries_ The Limits of Influence_ Pico, Louvain, and the Cris...{Azzolini, M.}(2006 August)[10.1177_002182860603700309.pdf",
+      "markdown_path": "C:\\Dev\\PicoDB\\Markdown\\Journal_for_the_History_of_Astronomy_2006-aug_vol._37_iss._3_Book_Review__Astrology_in_the_Low_C_pdf_bb5c281e.md",
+      "document_type": "review",
+      "page_count": 2,
+      "word_count": 994,
+      "duplicate_of": null,
+      "themes": [
+        "astrology"
+      ],
+      "pico_works_discussed": [
+        "Disputationes adversus astrologiam divinatricem"
+      ]
+    },
+    {
+      "id": "Medieval_and_early_modern_science_Broecke_Vanden_-_The_Limits_of_Influence__Pico_Louvain_and_the_pdf_0a6d0353",
+      "title": "[Medieval and early modern science] Broecke Vanden - The Limits of Influence_ Pico, Louvain, and the Crisis of Renaissance Astrology (2003, Brill) - libgen.li",
+      "source_file": "[Medieval and early modern science] Broecke Vanden - The Limits of Influence_ Pico, Louvain, and the Crisis of Renaissance Astrology (2003, Brill) - libgen.li.pdf",
+      "markdown_path": "C:\\Dev\\PicoDB\\Markdown\\Medieval_and_early_modern_science_Broecke_Vanden_-_The_Limits_of_Influence__Pico_Louvain_and_the_pdf_0a6d0353.md",
+      "document_type": "book",
+      "page_count": 345,
+      "word_count": 131171,
+      "duplicate_of": null,
+      "themes": [
+        "astrology",
+        "theology"
+      ],
+      "pico_works_discussed": []
     },
     {
       "id": "Notes_and_Queries_2014_apr_21_vol_61_iss_2_Albrecht_R_Pico_Della_Mirandola_and_Raymond_Llull_10__pdf_bb919319",

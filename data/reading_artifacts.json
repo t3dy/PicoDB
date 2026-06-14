@@ -36,6 +36,18 @@
     "updated_at": "2026-06-14T00:04:36"
   },
   {
+    "id": "concept_pico_astrology_taxonomy",
+    "artifact_type": "concept_dossier",
+    "title": "Pico and Astrology Taxonomy",
+    "path": "artifacts/concepts/pico_astrology_taxonomy_pass010.md",
+    "document_id": "Brill_s_Studies_in_Intellectual_History_325_Ovanes_Akopyan_Debating_the_Stars_in_the_Italian_Ren_pdf_c6917f0c",
+    "target_entity": "Pico astrology",
+    "status": "SOURCE_ANCHORED_DRAFT",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T10:29:48Z",
+    "updated_at": "2026-06-14T10:29:48Z"
+  },
+  {
     "id": "note_against_oration_only_pico",
     "artifact_type": "historiography_node",
     "title": "Against Oration Only Pico",
@@ -58,6 +70,18 @@
     "evidence_status": "likely",
     "created_at": "2026-06-14T10:04:38Z",
     "updated_at": "2026-06-14T10:04:38Z"
+  },
+  {
+    "id": "hist_pico_astrology_scholar_matrix",
+    "artifact_type": "historiography_node",
+    "title": "Pico and Astrology Scholar Matrix",
+    "path": "artifacts/historiography/pico_astrology_scholar_matrix.md",
+    "document_id": "Explorations_in_Renaissance_Culture_2010-dec_02_vol._36_iss._2_Pico_and_the_Historiography_of_Re_pdf_352c5bd9",
+    "target_entity": "Pico astrology historiography",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T10:29:48Z",
+    "updated_at": "2026-06-14T10:29:48Z"
   },
   {
     "id": "hist_kabbalah_scholar_synthesis",
@@ -334,6 +358,18 @@
     "evidence_status": "likely",
     "created_at": "2026-06-14T09:30:58Z",
     "updated_at": "2026-06-14T09:30:58Z"
+  },
+  {
+    "id": "summary_astrology_new_docs_pass010",
+    "artifact_type": "section_summary",
+    "title": "Astrology New Documents Chapter Summaries",
+    "path": "artifacts/section_summaries/astrology/astrology_new_documents_chapter_summaries_pass010.md",
+    "document_id": "Explorations_in_Renaissance_Culture_2010-dec_02_vol._36_iss._2_Pico_and_the_Historiography_of_Re_pdf_352c5bd9",
+    "target_entity": "Pico astrology scholarship",
+    "status": "SOURCE_ANCHORED_DRAFT",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T10:29:48Z",
+    "updated_at": "2026-06-14T10:29:48Z"
   },
   {
     "id": "summary_black_heptaplus_chapters",
@@ -660,6 +696,18 @@
     "updated_at": "2026-06-14T09:24:53Z"
   },
   {
+    "id": "source_astrology_new_docs_pass010",
+    "artifact_type": "source_packet",
+    "title": "New Astrology Documents Pass 010",
+    "path": "artifacts/source_packets/astrology_new_documents_pass010.md",
+    "document_id": "I_Tatti_Studies_Essays_in_the_Renaissance_2018-mar_vol._21_iss._1_Giovanni_Pico_della_Mirandola__pdf_8bbca9be",
+    "target_entity": "Pico astrology new documents",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T10:29:48Z",
+    "updated_at": "2026-06-14T10:29:48Z"
+  },
+  {
     "id": "sp_on_being_one_opening",
     "artifact_type": "source_packet",
     "title": "On Being and the One Opening",
@@ -790,6 +838,18 @@
     "evidence_status": "needs_review",
     "created_at": "2026-06-13T23:29:38",
     "updated_at": "2026-06-13T23:29:38"
+  },
+  {
+    "id": "essay_pico_astrology_synthesis",
+    "artifact_type": "website_page",
+    "title": "Pico and Astrology",
+    "path": "artifacts/essays/pico_astrology_synthesis_draft.md",
+    "document_id": "I_Tatti_Studies_Essays_in_the_Renaissance_2018-mar_vol._21_iss._1_Giovanni_Pico_della_Mirandola__pdf_8bbca9be",
+    "target_entity": "Pico astrology",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T10:29:48Z",
+    "updated_at": "2026-06-14T10:29:48Z"
   },
   {
     "id": "essay_pico_arab_intellect_felicitas",

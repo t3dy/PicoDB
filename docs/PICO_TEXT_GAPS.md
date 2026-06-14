@@ -24,3 +24,8 @@
 
 - Status: `metadata_needed`
 - Reason: Catalog editions, translations, and manuscript witnesses as they appear in scholarship.
+
+## Disputationes Primary Text Status Pass 010
+
+- Status: `secondary_and_reception_rich_primary_text_still_needs_control`
+- Reason: Akopyan, Vanden Broecke, Rabin, Rutkin, and related reviews are now ingested, but the project still needs a controlled standalone primary text / critical edition record for the *Disputationes adversus astrologiam divinatricem* and its posthumous publication history.
