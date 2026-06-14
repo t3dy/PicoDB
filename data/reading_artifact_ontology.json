@@ -1,6 +1,6 @@
 {
   "id": "reading_artifact_ontology",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "purpose": "Markup and writing ontology for turning systematic readings into website cards, pages, timelines, maps, and scholarly syntheses.",
   "artifact_types": [
     {
@@ -89,7 +89,8 @@
     "historiographical",
     "philological",
     "geographical",
-    "open_problem"
+    "open_problem",
+    "biographical_source_witness"
   ],
   "evidence_statuses": [
     "verified",
@@ -300,5 +301,45 @@
     "Edelheit": "scholastic_form_and_formation",
     "Dougherty": "corpus_genre_edition_collaboration",
     "Allen": "platonic_boundary_and_heptaplus_metaphysics"
+  },
+  "biographical_reading_fields": [
+    "date_range",
+    "place",
+    "life_register",
+    "source_witness",
+    "scholar_governor",
+    "intellectual_function",
+    "network_relation",
+    "work_relation",
+    "institutional_context",
+    "myth_risk",
+    "missing_source",
+    "confidence"
+  ],
+  "life_register_taxonomy": [
+    "family_status",
+    "education",
+    "travel",
+    "patronage",
+    "friendship",
+    "romance_scandal",
+    "correspondence",
+    "composition",
+    "publication",
+    "trial",
+    "imprisonment",
+    "pardon_reconciliation",
+    "reform",
+    "death",
+    "posthumous_memory"
+  ],
+  "biography_scholar_synthesis": {
+    "Howlett": "mobility_networks_and_st_pico_correction",
+    "Edelheit": "scholastic_formation_and_source_trace",
+    "Copenhaver": "trial_danger_and_oration_myth_correction",
+    "Dougherty_Borghesi": "life_in_works_letters_genre_and_edition",
+    "Farmer": "roman_debate_architecture",
+    "Busi_Wirszubski": "kabbalah_source_infrastructure",
+    "Allen": "ficino_affinity_and_dispute"
   }
 }

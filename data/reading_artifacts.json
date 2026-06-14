@@ -48,6 +48,18 @@
     "updated_at": "2026-06-14T00:04:36"
   },
   {
+    "id": "hist_pico_biography_scholar_method",
+    "artifact_type": "historiography_node",
+    "title": "Pico Biography Scholar Method Matrix",
+    "path": "artifacts/historiography/pico_biography_scholar_method_matrix.md",
+    "document_id": "Critical_Political_Theory_and_Radical_Practice_Sophia_Howlett_-_Re-evaluating_Pico__Aristotelian_pdf_3c6c4fa3",
+    "target_entity": "Pico biography method",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T10:04:38Z",
+    "updated_at": "2026-06-14T10:04:38Z"
+  },
+  {
     "id": "hist_kabbalah_scholar_synthesis",
     "artifact_type": "historiography_node",
     "title": "Pico and Kabbalah Scholar Synthesis Matrix",
@@ -636,6 +648,18 @@
     "updated_at": "2026-06-14T07:56:02Z"
   },
   {
+    "id": "source_pico_biographical_source_gaps",
+    "artifact_type": "source_packet",
+    "title": "Pico Biographical Source Gaps",
+    "path": "artifacts/source_packets/pico_biographical_source_gaps_pass008.md",
+    "document_id": "Giovanni_Pico_della_Mirandola_Lettere_libgen_li_pdf_5024cbf9",
+    "target_entity": "Pico biography source gaps",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T10:04:38Z",
+    "updated_at": "2026-06-14T10:04:38Z"
+  },
+  {
     "id": "sp_wirszubski_kabbalah_opening",
     "artifact_type": "source_packet",
     "title": "Wirszubski Kabbalah Opening",
@@ -658,6 +682,18 @@
     "evidence_status": "likely",
     "created_at": "2026-06-14T09:24:53Z",
     "updated_at": "2026-06-14T09:24:53Z"
+  },
+  {
+    "id": "essay_pico_biography_scholar_synthesis",
+    "artifact_type": "website_page",
+    "title": "Giovanni Pico Biography Scholar Synthesis",
+    "path": "artifacts/essays/pico_biography_scholar_synthesis_draft.md",
+    "document_id": "Critical_Political_Theory_and_Radical_Practice_Sophia_Howlett_-_Re-evaluating_Pico__Aristotelian_pdf_3c6c4fa3",
+    "target_entity": "Giovanni Pico della Mirandola",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T10:04:38Z",
+    "updated_at": "2026-06-14T10:04:38Z"
   },
   {
     "id": "note_pico_biography_pass002",

@@ -27,6 +27,15 @@
     "source_artifact_id": "sp_akopyan_astrology_structure"
   },
   {
+    "id": "essay-pico-biography-synthesis",
+    "entity_type": "essay",
+    "title": "Pico Biography",
+    "subtitle": "Scholar-synthesis draft",
+    "summary": "A new biographical essay treats Pico as a mobile noble scholar whose family privilege, universities, Florentine networks, Kabbalah infrastructure, Roman trial, French detention, and late Savonarolan proximity must be read together.",
+    "status": "DRAFT",
+    "source_artifact_id": "essay_pico_biography_scholar_synthesis"
+  },
+  {
     "id": "ficino-pico-dispute",
     "entity_type": "essay",
     "title": "Pico's Dispute with Ficino",
@@ -52,6 +61,15 @@
     "summary": "The portal's governing historiographical correction: Pico cannot be reduced to a proto-modern Oration on dignity. The Oration must be read as preface, reception object, mystical text, and part of the 900 Conclusions crisis.",
     "status": "DRAFT",
     "source_artifact_id": "sp_copenhaver_magic_intro"
+  },
+  {
+    "id": "hist-pico-biography-method",
+    "entity_type": "historiography",
+    "title": "Biography Method Matrix",
+    "subtitle": "How to write Pico's life",
+    "summary": "The biographical protocol assigns Howlett, Edelheit, Copenhaver, Dougherty/Borghesi, Farmer, Busi, Wirszubski, and Allen distinct roles in controlling life claims.",
+    "status": "DRAFT",
+    "source_artifact_id": "hist_pico_biography_scholar_method"
   },
   {
     "id": "hist-kabbalah-scholars",
@@ -160,6 +178,15 @@
     "summary": "Farmer restores the 900 Conclusions as a massive puzzle and oral-disputational project whose hidden connections structure Pico's Roman ambition.",
     "status": "DRAFT",
     "source_artifact_id": "sp_farmer_roman_debate"
+  },
+  {
+    "id": "source-pico-biography-gaps",
+    "entity_type": "source_gap",
+    "title": "Biography Source Gaps",
+    "subtitle": "Letters, Vita, witnesses",
+    "summary": "A new source-gap packet marks the Borghesi Lettere for letter-by-letter summary and identifies Gianfrancesco's Vita, Capponi 235, the 1496 print tradition, PRDL titles, and the del Medigo letter as acquisition/control targets.",
+    "status": "DRAFT",
+    "source_artifact_id": "source_pico_biographical_source_gaps"
   },
   {
     "id": "protocol-busi-wirszubski",
