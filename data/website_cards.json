@@ -90,6 +90,24 @@
     "source_artifact_id": "sp_farmer_roman_debate"
   },
   {
+    "id": "system-section-style",
+    "entity_type": "system",
+    "title": "Section Summary Style Guide",
+    "subtitle": "Arguments, references, coverage",
+    "summary": "PicoDB now has a formal style guide requiring every section summary to reconstruct argument moves, register references, extract claims, mark uncertainties, and name knowledge-product hooks.",
+    "status": "DRAFT",
+    "source_artifact_id": "sec_oration_001_wonder_indeterminacy"
+  },
+  {
+    "id": "system-coverage-protocol",
+    "entity_type": "system",
+    "title": "Summary Coverage Protocol",
+    "subtitle": "UNREAD to PROMOTED",
+    "summary": "The reading system now tracks coverage levels from unread catalog entries through source packets, section summaries, claims, cross-links, review, and website promotion.",
+    "status": "DRAFT",
+    "source_artifact_id": "sec_farmer_003_substance_accident"
+  },
+  {
     "id": "work-900",
     "entity_type": "work",
     "title": "900 Conclusions",

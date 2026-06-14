@@ -1,0 +1,104 @@
+[
+  {
+    "id": "sec_oration_001_wonder_indeterminacy",
+    "document_id": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776",
+    "work_or_book": "Oration on the Dignity of Man",
+    "section_title": "Oration 001: Wonder and Human Indeterminacy",
+    "page_range": "extracted pages 38-42",
+    "artifact_path": "artifacts/section_summaries/anthology/oration_001_wonder_indeterminacy.md",
+    "coverage_level": "SECTION_SUMMARIZED",
+    "argument_coverage": "complete_for_current_pass",
+    "reference_coverage": "registered_named_references_with_uncertainties",
+    "claim_count": 1,
+    "open_issues": [
+      "verify Latin/Greek/Hebrew terms against critical editions",
+      "cross-link references into future reference graph",
+      "audit against scholarship before REVIEWED status"
+    ]
+  },
+  {
+    "id": "sec_oration_002_disciplines_ladder",
+    "document_id": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776",
+    "work_or_book": "Oration on the Dignity of Man",
+    "section_title": "Oration 002: Angelic Models and the Ladder of Disciplines",
+    "page_range": "extracted pages 42-49",
+    "artifact_path": "artifacts/section_summaries/anthology/oration_002_disciplines_ladder.md",
+    "coverage_level": "SECTION_SUMMARIZED",
+    "argument_coverage": "complete_for_current_pass",
+    "reference_coverage": "registered_named_references_with_uncertainties",
+    "claim_count": 1,
+    "open_issues": [
+      "verify Latin/Greek/Hebrew terms against critical editions",
+      "cross-link references into future reference graph",
+      "audit against scholarship before REVIEWED status"
+    ]
+  },
+  {
+    "id": "sec_being_one_001_concord_problem",
+    "document_id": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776",
+    "work_or_book": "On Being and the One",
+    "section_title": "On Being and the One 001: Concord Problem and Plato",
+    "page_range": "extracted pages 72-76",
+    "artifact_path": "artifacts/section_summaries/anthology/being_one_001_concord_problem.md",
+    "coverage_level": "SECTION_SUMMARIZED",
+    "argument_coverage": "complete_for_current_pass",
+    "reference_coverage": "registered_named_references_with_uncertainties",
+    "claim_count": 1,
+    "open_issues": [
+      "verify Latin/Greek/Hebrew terms against critical editions",
+      "cross-link references into future reference graph",
+      "audit against scholarship before REVIEWED status"
+    ]
+  },
+  {
+    "id": "sec_heptaplus_001_moses_hidden_wisdom",
+    "document_id": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776",
+    "work_or_book": "Heptaplus",
+    "section_title": "Heptaplus 001: Moses and Hidden Wisdom",
+    "page_range": "extracted pages 101-106",
+    "artifact_path": "artifacts/section_summaries/anthology/heptaplus_001_moses_hidden_wisdom.md",
+    "coverage_level": "SECTION_SUMMARIZED",
+    "argument_coverage": "complete_for_current_pass",
+    "reference_coverage": "registered_named_references_with_uncertainties",
+    "claim_count": 1,
+    "open_issues": [
+      "verify Latin/Greek/Hebrew terms against critical editions",
+      "cross-link references into future reference graph",
+      "audit against scholarship before REVIEWED status"
+    ]
+  },
+  {
+    "id": "sec_heptaplus_002_four_worlds_allegory",
+    "document_id": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776",
+    "work_or_book": "Heptaplus",
+    "section_title": "Heptaplus 002: Four Worlds and Allegory",
+    "page_range": "extracted pages 110-114",
+    "artifact_path": "artifacts/section_summaries/anthology/heptaplus_002_four_worlds_allegory.md",
+    "coverage_level": "SECTION_SUMMARIZED",
+    "argument_coverage": "complete_for_current_pass",
+    "reference_coverage": "registered_named_references_with_uncertainties",
+    "claim_count": 1,
+    "open_issues": [
+      "verify Latin/Greek/Hebrew terms against critical editions",
+      "cross-link references into future reference graph",
+      "audit against scholarship before REVIEWED status"
+    ]
+  },
+  {
+    "id": "sec_farmer_003_substance_accident",
+    "document_id": "Medieval_Renaissance_Texts_Studies_167_Stephen_A_Farmer_Giovanni_Pico_Della_Mirandola_Syncretism_pdf_c99b971b",
+    "work_or_book": "900 Conclusions",
+    "section_title": "Farmer 003: Substance/Accident and Deciphering the 900 Theses",
+    "page_range": "extracted pages 115-120",
+    "artifact_path": "artifacts/section_summaries/farmer/farmer_003_deciphering_substance_accident.md",
+    "coverage_level": "SECTION_SUMMARIZED",
+    "argument_coverage": "complete_for_current_pass",
+    "reference_coverage": "registered_named_references_with_uncertainties",
+    "claim_count": 1,
+    "open_issues": [
+      "verify Latin/Greek/Hebrew terms against critical editions",
+      "cross-link references into future reference graph",
+      "audit against scholarship before REVIEWED status"
+    ]
+  }
+]

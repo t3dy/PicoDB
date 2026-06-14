@@ -43,3 +43,18 @@ The corpus is too rich to summarize directly into final essays. Each reading pas
 ## Review Discipline
 
 Every artifact has both a status and an evidence status. A useful draft is allowed, but final website prose should not erase the distinction between verified source fact, likely reconstruction, interpretation, and placeholder.
+
+## Section Summary Discipline
+
+Section summaries are the backbone of the project. They must follow `docs/SECTION_SUMMARY_STYLE_GUIDE.md` and include:
+
+- section function;
+- exhaustive argument summary;
+- argument map;
+- claims and subclaims;
+- reference register;
+- textual and philological notes;
+- knowledge product hooks;
+- open problems and follow-up tasks.
+
+No Pico work dossier or scholar profile should be considered complete until its underlying sections have been summarized to this standard.

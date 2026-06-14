@@ -1,6 +1,6 @@
 {
   "id": "reading_artifact_ontology",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "purpose": "Markup and writing ontology for turning systematic readings into website cards, pages, timelines, maps, and scholarly syntheses.",
   "artifact_types": [
     {
@@ -113,5 +113,48 @@
     "pico_work_dossier": "May promote when primary text structure, themes, editions, scholarship, and open problems are recorded.",
     "timeline_event": "May show publicly as DRAFT if evidence_status is likely or verified; provisional route events stay visually marked.",
     "location_record": "May show on map if coordinates are known; uncertain historical role must be labeled."
-  }
+  },
+  "coverage_levels": [
+    "UNREAD",
+    "SKIMMED",
+    "SOURCE_PACKETED",
+    "SECTION_SUMMARIZED",
+    "CLAIM_EXTRACTED",
+    "CROSS_LINKED",
+    "REVIEWED",
+    "PROMOTED"
+  ],
+  "section_summary_required_fields": [
+    "bibliographic_anchor",
+    "section_function",
+    "exhaustive_argument_summary",
+    "argument_map",
+    "claims_and_subclaims",
+    "reference_register",
+    "pico_texts_discussed",
+    "concepts_and_themes",
+    "named_persons_works_places",
+    "historiographical_position",
+    "textual_philological_notes",
+    "knowledge_product_hooks",
+    "open_problems",
+    "coverage_checklist"
+  ],
+  "argument_move_vocabulary": [
+    "defines",
+    "distinguishes",
+    "rejects",
+    "qualifies",
+    "reconciles",
+    "hierarchizes",
+    "allegorizes",
+    "historicizes",
+    "textualizes",
+    "philologizes",
+    "transmits",
+    "contests",
+    "appropriates",
+    "warns",
+    "opens_problem"
+  ]
 }

@@ -180,6 +180,78 @@
     "updated_at": "2026-06-13T23:29:38"
   },
   {
+    "id": "sec_farmer_003_substance_accident",
+    "artifact_type": "section_summary",
+    "title": "Farmer 003: Substance/Accident and Deciphering the 900 Theses",
+    "path": "artifacts/section_summaries/farmer/farmer_003_deciphering_substance_accident.md",
+    "document_id": "Medieval_Renaissance_Texts_Studies_167_Stephen_A_Farmer_Giovanni_Pico_Della_Mirandola_Syncretism_pdf_c99b971b",
+    "target_entity": "900 Conclusions",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:15:23Z",
+    "updated_at": "2026-06-14T09:15:23Z"
+  },
+  {
+    "id": "sec_heptaplus_001_moses_hidden_wisdom",
+    "artifact_type": "section_summary",
+    "title": "Heptaplus 001: Moses and Hidden Wisdom",
+    "path": "artifacts/section_summaries/anthology/heptaplus_001_moses_hidden_wisdom.md",
+    "document_id": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776",
+    "target_entity": "Heptaplus",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:15:23Z",
+    "updated_at": "2026-06-14T09:15:23Z"
+  },
+  {
+    "id": "sec_heptaplus_002_four_worlds_allegory",
+    "artifact_type": "section_summary",
+    "title": "Heptaplus 002: Four Worlds and Allegory",
+    "path": "artifacts/section_summaries/anthology/heptaplus_002_four_worlds_allegory.md",
+    "document_id": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776",
+    "target_entity": "Heptaplus",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:15:23Z",
+    "updated_at": "2026-06-14T09:15:23Z"
+  },
+  {
+    "id": "sec_being_one_001_concord_problem",
+    "artifact_type": "section_summary",
+    "title": "On Being and the One 001: Concord Problem and Plato",
+    "path": "artifacts/section_summaries/anthology/being_one_001_concord_problem.md",
+    "document_id": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776",
+    "target_entity": "On Being and the One",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:15:23Z",
+    "updated_at": "2026-06-14T09:15:23Z"
+  },
+  {
+    "id": "sec_oration_001_wonder_indeterminacy",
+    "artifact_type": "section_summary",
+    "title": "Oration 001: Wonder and Human Indeterminacy",
+    "path": "artifacts/section_summaries/anthology/oration_001_wonder_indeterminacy.md",
+    "document_id": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776",
+    "target_entity": "Oration on the Dignity of Man",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:15:23Z",
+    "updated_at": "2026-06-14T09:15:23Z"
+  },
+  {
+    "id": "sec_oration_002_disciplines_ladder",
+    "artifact_type": "section_summary",
+    "title": "Oration 002: Angelic Models and the Ladder of Disciplines",
+    "path": "artifacts/section_summaries/anthology/oration_002_disciplines_ladder.md",
+    "document_id": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776",
+    "target_entity": "Oration on the Dignity of Man",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:15:23Z",
+    "updated_at": "2026-06-14T09:15:23Z"
+  },
+  {
     "id": "sp_akopyan_astrology_structure",
     "artifact_type": "source_packet",
     "title": "Akopyan Astrology Structure",

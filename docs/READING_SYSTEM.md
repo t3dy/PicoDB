@@ -23,6 +23,12 @@ This project treats the local corpus as the source of truth for a Pico della Mir
 
 The markup and note-taking system is defined in `docs/ARTIFACT_SYSTEM.md` and `data/reading_artifact_ontology.json`.
 
+The section-summary standard is defined in:
+
+- `docs/SECTION_SUMMARY_STYLE_GUIDE.md`
+- `docs/ARGUMENT_REFERENCE_STYLE_GUIDE.md`
+- `docs/SUMMARY_COVERAGE_PROTOCOL.md`
+
 Working artifacts live in:
 
 - `artifacts/source_packets/`
@@ -51,3 +57,5 @@ Database-backed artifacts live in:
 - Every interpretive paragraph intended for the website must be traceable back to at least one claim, source packet, section summary, or dossier.
 - Distinguish bibliographic fact, direct textual claim, scholarly interpretation, and portal synthesis.
 - Do not collapse debates about magic, Kabbalah, concordism, or human dignity into a single consensus position.
+- Section summaries must include argument moves and a reference register before they are marked `SECTION_SUMMARIZED`.
+- A summary is incomplete if it states conclusions without explaining the sequence of reasoning, authorities, examples, and references by which the section proceeds.
