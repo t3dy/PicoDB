@@ -109,6 +109,26 @@
       ]
     },
     {
+      "id": "Pico_Stanley_Platonick_Discourse_1914_IA_fulltext_txt_6a4507d9",
+      "title": "A Platonick discourse upon love",
+      "source_file": "Pico_Stanley_Platonick_Discourse_1914_IA_fulltext.txt",
+      "markdown_path": "C:\\Dev\\PicoDB\\Markdown\\Pico_Stanley_Platonick_Discourse_1914_IA_fulltext_txt_6a4507d9.md",
+      "document_type": "translation_reception_witness",
+      "page_count": 6,
+      "word_count": 15222,
+      "duplicate_of": null,
+      "themes": [
+        "Commento",
+        "Platonic love",
+        "early modern English reception",
+        "Thomas Stanley",
+        "Benivieni"
+      ],
+      "pico_works_discussed": [
+        "Commento sopra una canzone d'amore"
+      ]
+    },
+    {
       "id": "Benivieni_Girolamo_Two_Poems_on_Spiritual_Renewal_libgen_li_pdf_1b3a3930",
       "title": "Benivieni Girolamo Two Poems on Spiritual Renewal libgen li",
       "source_file": "Benivieni Girolamo Two Poems on Spiritual Renewal libgen li.pdf",
@@ -218,6 +238,27 @@
       ],
       "pico_works_discussed": [
         "900 Theses / Conclusiones"
+      ]
+    },
+    {
+      "id": "Pico_Commento_BibliotecaItaliana_TEI_bibit000827_xml_2e50ef08",
+      "title": "Commento sopra una canzone d'amore di Girolamo Benivieni",
+      "source_file": "Pico_Commento_BibliotecaItaliana_TEI_bibit000827.xml",
+      "markdown_path": "C:\\Dev\\PicoDB\\Markdown\\Pico_Commento_BibliotecaItaliana_TEI_bibit000827_xml_2e50ef08.md",
+      "document_type": "primary_text",
+      "page_count": 57,
+      "word_count": 60489,
+      "duplicate_of": null,
+      "themes": [
+        "Commento",
+        "Platonic love",
+        "Ficino dispute",
+        "Benivieni",
+        "poetic theology",
+        "Platonism"
+      ],
+      "pico_works_discussed": [
+        "Commento sopra una canzone d'amore"
       ]
     },
     {

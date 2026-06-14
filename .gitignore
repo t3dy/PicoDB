@@ -16,6 +16,8 @@ Thumbs.db
 *.mobi
 *.azw3
 sources/**/*.txt
+sources/**/*.xml
+sources/**/*.json
 
 # Local editor state
 .vscode/

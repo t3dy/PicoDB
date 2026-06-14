@@ -36,6 +36,15 @@
     "source_artifact_id": "sp_wirszubski_kabbalah_opening"
   },
   {
+    "id": "concept-commento-reading-ontology",
+    "entity_type": "concept",
+    "title": "Commento Reading Ontology",
+    "subtitle": "Love, beauty, hierarchy, Ficino",
+    "summary": "A new ontology layer tells future summaries what to mark in every Commento chapter and stanza.",
+    "status": "DRAFT",
+    "source_artifact_id": "concept_commento_reading_ontology"
+  },
+  {
     "id": "concept-pico-corpus-control-dashboard",
     "entity_type": "concept",
     "title": "Corpus Control Dashboard",
@@ -106,6 +115,15 @@
     "summary": "The updated Heptaplus essay reads Genesis as a structured anagogical system involving Aquinas, Dionysius, Arabic intellect theory, Jewish exegesis, Kabbalah, and the 900 Conclusions.",
     "status": "DRAFT",
     "source_artifact_id": "essay_heptaplus_black_biblical_hermeneutics"
+  },
+  {
+    "id": "essay-commento-reading-plan",
+    "entity_type": "essay",
+    "title": "How We Can Now Read the Commento",
+    "subtitle": "Controlled text, translation witness, close reading",
+    "summary": "A new essay plan turns the acquired Commento into work on Ficino, love, poetic theology, astrology, hierarchy, and English reception.",
+    "status": "DRAFT",
+    "source_artifact_id": "essay_commento_control_and_reading_plan"
   },
   {
     "id": "essay-900-source-networks",
@@ -387,6 +405,15 @@
     "source_artifact_id": "source_black_heptaplus_structure"
   },
   {
+    "id": "source-commento-control-pass014",
+    "entity_type": "source_packet",
+    "title": "Commento Full Text Acquired",
+    "subtitle": "Biblioteca Italiana TEI",
+    "summary": "The Commento is now a controlled primary text in Markdown and SQLite, sectioned by paratext, books, chapters, and stanza commentary.",
+    "status": "DRAFT",
+    "source_artifact_id": "source_commento_control_pass014"
+  },
+  {
     "id": "source-more-life-pico-pass013",
     "entity_type": "source_packet",
     "title": "More's Life of Pico Acquired",
@@ -403,6 +430,15 @@
     "summary": "The pass 012 source packet records reviews of the Basel Opera Omnia, Speyer's Carmina latina, and the Mirandola congress volumes.",
     "status": "DRAFT",
     "source_artifact_id": "source_opera_reviews_pass012"
+  },
+  {
+    "id": "source-stanley-platonick-pass014",
+    "entity_type": "source_packet",
+    "title": "Stanley's Platonick Discourse",
+    "subtitle": "1651 English reception witness",
+    "summary": "Thomas Stanley's early modern English translation of Pico's Commento is now available for collation through the 1914 Gardner reprint.",
+    "status": "DRAFT",
+    "source_artifact_id": "source_stanley_platonick_discourse_pass014"
   },
   {
     "id": "protocol-busi-wirszubski",

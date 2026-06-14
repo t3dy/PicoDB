@@ -47,3 +47,8 @@
 - `Commento`: `public_digital_text_identified_download_retry_needed`; Bibliotecaitaliana page identified, automated download failed.
 - `Disputationes`: `primary_witness_leads_identified_full_control_needed`; Noscemus/Bologna lead identified; modern web translation lead is not yet an ingestible scholarly base.
 - `De imaginatione`: `related_non_giovanni_text`; correct previous wording that implied a missing Giovanni text.
+
+## Commento Pass 014 Gap Update
+
+- `Commento sopra una canzone d'amore`: `controlled_primary_text_needs_close_reading`; Biblioteca Italiana TEI/XML has been ingested and sectioned by dedication, canzone, books, chapters, and stanza commentary.
+- `A Platonick discourse upon love`: `translation_reception_witness_acquired`; Thomas Stanley's 1651 English translation is available through the 1914 Gardner reprint OCR and should be collated against the Italian.

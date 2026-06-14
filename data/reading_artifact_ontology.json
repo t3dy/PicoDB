@@ -1,6 +1,6 @@
 {
   "id": "reading_artifact_ontology",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "purpose": "Markup and writing ontology for turning systematic readings into website cards, pages, timelines, maps, and scholarly syntheses.",
   "artifact_types": [
     {
@@ -314,6 +314,16 @@
       "english_reception",
       "life_of_pico",
       "translation_witness"
+    ],
+    "Thomas Stanley": [
+      "commento_reception",
+      "early_modern_translation",
+      "english_platonism"
+    ],
+    "Sears Jayne": [
+      "ficino_english_platonism",
+      "modern_commento_translation",
+      "translation_history"
     ]
   },
   "kabbalah_reading_fields": [
@@ -554,10 +564,32 @@
     "licensing_unclear"
   ],
   "corpus_control_rules": [
-    "Separate a missing Giovanni text from a related Gianfrancesco or reception text.",
-    "Treat early Opera OCR as a search and inventory witness until image checks and modern editions confirm readings.",
+    "A TEI primary text can upgrade a work from public-digital-lead to controlled-primary-text, but only section summaries and witness comparison make it research-ready.",
+    "Early modern translations should be tagged as reception witnesses and collated rather than silently substituted for Pico's Italian.",
     "Promote a work from gap to controlled only after full text, edition metadata, section plan, and source-risk notes are present.",
     "Record licensing and access status separately from bibliographic existence.",
+    "Separate a missing Giovanni text from a related Gianfrancesco or reception text.",
+    "Treat early Opera OCR as a search and inventory witness until image checks and modern editions confirm readings.",
     "When an early table of contents lists a work, create acquisition tasks for the work and for the edition frame that transmits it."
+  ],
+  "commento_close_reading_fields": [
+    "witness",
+    "book_or_stanza",
+    "chapter",
+    "argument_function",
+    "being_mode",
+    "hierarchy_level",
+    "love_doctrine",
+    "beauty_doctrine",
+    "mind_soul_body_relation",
+    "angelic_or_intelligible_reference",
+    "ficino_agreement_or_correction",
+    "platonic_source",
+    "aristotelian_or_arabic_source",
+    "dionysian_or_christian_theological_control",
+    "poetic_theology_claim",
+    "biblical_or_kabbalistic_hint",
+    "translation_reception_difference",
+    "open_problem"
   ]
 }

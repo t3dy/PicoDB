@@ -154,3 +154,7 @@ When summarizing reviews, editions, or source surveys, extract every work-title,
 ## Pass 013 Missing-Writings Overlay
 
 When summarizing a text from an early Opera witness, begin with a witness note: edition, source, OCR/image status, authorial boundary, posthumous frame, and whether the passage is Giovanni Pico, Gianfrancesco Pico, papal/editorial apparatus, or later reception. Every section summary must separate textual content from edition history and must mark whether the evidence is safe for quotation, safe only for search, or only a bibliographic lead.
+
+## Pass 014 Commento Overlay
+
+For the Commento, summarize at chapter or stanza level. Each summary must state the section's role in the poem-commentary structure, reconstruct the argument, register Ficino agreement or correction, identify Platonist/Aristotelian/Arabic/Dionysian sources where visible, and mark whether love, beauty, desire, celestial causality, angelic/intelligible hierarchy, poetic theology, or biblical/Kabbalistic hints are active.
