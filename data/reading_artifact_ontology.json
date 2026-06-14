@@ -1,6 +1,6 @@
 {
   "id": "reading_artifact_ontology",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "purpose": "Markup and writing ontology for turning systematic readings into website cards, pages, timelines, maps, and scholarly syntheses.",
   "artifact_types": [
     {
@@ -662,5 +662,24 @@
     "heptaplus_pater_noster_adjacent_exegesis_update",
     "scholar_profile_expansion",
     "900_conclusions_thesis_tables"
+  ],
+  "ficino_relationship_fields": [
+    "anti_ficinian_correction",
+    "commentary_as_original_treatise",
+    "direct_ficino_influence",
+    "ficinian_love_platonism",
+    "literary_popularization",
+    "mediated_ficino_influence",
+    "pico_as_mediator",
+    "reader_marginalia",
+    "selective_reception"
+  ],
+  "commento_comparison_fields": [
+    "ficino_de_amore_as_comparator",
+    "love_theory_dispute",
+    "methodology_dispute",
+    "mythology_dispute",
+    "pico_commento_as_rival_commentary",
+    "poetic_theology_project"
   ]
 }

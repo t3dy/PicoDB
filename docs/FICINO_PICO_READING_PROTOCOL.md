@@ -44,3 +44,9 @@ Read the metaphysical conclusions as a compressed system of Platonic and Aristot
 ### Heptaplus
 
 Use Allen with Busi and Wirszubski. Allen highlights Ficinian and Neoplatonic structures: mutual containment, Idea of Man, Christ as perfect man, and the world as great man. Busi and Wirszubski govern Kabbalistic source-control and praxis questions.
+
+## Pass 019 Jayne Reception Overlay
+
+Add Sears Jayne as a secondary guide for mediated Ficinian influence, love Platonism, and reception. Jayne's rule for PicoDB: Ficino's influence is often strongest when transformed by mediators. Do not equate reading, praise, marginalia, or shared sources with discipleship.
+
+When comparing Ficino's *De amore* and Pico's *Commento*, mark both works as commentaries that exceed their occasions. Ficino uses Plato's *Symposium* to construct a doctrine of cosmic and personal love; Pico uses Benivieni's canzone to construct poetic theology, love metaphysics, and anti-Ficinian correction.

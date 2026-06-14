@@ -63,6 +63,15 @@
     "source_artifact_id": "concept_pico_corpus_control_dashboard"
   },
   {
+    "id": "concept-jayne-ficino-love-platonism-pass019",
+    "entity_type": "concept",
+    "title": "Ficinian Love Platonism",
+    "subtitle": "Direct, mediated, and contested",
+    "summary": "Jayne helps PicoDB distinguish Ficino as translator, Ficino as source of love Platonism, and Pico as a mediator/corrector.",
+    "status": "DRAFT",
+    "source_artifact_id": "concept_jayne_ficino_love_platonism_pass019"
+  },
+  {
     "id": "concept-pico-missing-writings",
     "entity_type": "concept",
     "title": "Missing Writings Taxonomy",
@@ -387,6 +396,15 @@
     "source_artifact_id": "profile_olga_zorzi_pugliese_pass018"
   },
   {
+    "id": "profile-sears-jayne-pass019",
+    "entity_type": "scholar_profile",
+    "title": "Sears Jayne",
+    "subtitle": "Ficino, Pico, and reception",
+    "summary": "Jayne is now a guide for Ficino's De amore, Pico's Commento translation history, Colet marginalia, and mediated Platonist influence.",
+    "status": "DRAFT",
+    "source_artifact_id": "profile_sears_jayne_pass019"
+  },
+  {
     "id": "source-pico-biography-gaps",
     "entity_type": "source_gap",
     "title": "Biography Source Gaps",
@@ -457,6 +475,15 @@
     "summary": "Jayne's modern English translation is registered for page-level notes and collation, not full-text transcription.",
     "status": "DRAFT",
     "source_artifact_id": "source_jayne_commento_translation_access_pass015"
+  },
+  {
+    "id": "source-jayne-ficino-pico-pass019",
+    "entity_type": "source_packet",
+    "title": "Jayne on Ficino and Pico",
+    "subtitle": "Mediated influence and love Platonism",
+    "summary": "A new source packet uses Jayne and reviewers to sharpen Ficino's mediated influence, Pico's Commento, and rival love commentaries.",
+    "status": "DRAFT",
+    "source_artifact_id": "source_jayne_ficino_pico_pass019"
   },
   {
     "id": "source-more-life-pico-pass013",
