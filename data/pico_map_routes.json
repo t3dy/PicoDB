@@ -1,0 +1,56 @@
+[
+  {
+    "id": "italy_france_corridor",
+    "title": "Italy-France Corridor",
+    "summary": "A broad map corridor for travel and trouble between Italy and France; several waypoints remain provisional until close reading confirms exact itinerary.",
+    "evidence_status": "needs_review",
+    "sequence": [
+      "florence",
+      "arezzo",
+      "perugia",
+      "rome",
+      "aix_en_provence",
+      "grenoble",
+      "lyon",
+      "paris",
+      "vincennes"
+    ]
+  },
+  {
+    "id": "late_florence_route",
+    "title": "Late Florentine Religious World",
+    "summary": "The late-life triangle of Medici/Platonic, Florentine, and Dominican-Savonarolan settings.",
+    "evidence_status": "likely",
+    "sequence": [
+      "florence",
+      "fiesole_careggi",
+      "san_marco_florence"
+    ]
+  },
+  {
+    "id": "roman_crisis_route",
+    "title": "Roman Crisis and Flight",
+    "summary": "A schematic route for the 1486-88 public disputation, papal case, French detention, and return under Medici protection.",
+    "evidence_status": "likely",
+    "sequence": [
+      "florence",
+      "rome",
+      "vincennes",
+      "florence"
+    ]
+  },
+  {
+    "id": "student_circuit",
+    "title": "Student and University Circuit",
+    "summary": "A working route for Pico's educational and intellectual formation across northern Italy and Florence.",
+    "evidence_status": "likely",
+    "sequence": [
+      "mirandola",
+      "bologna",
+      "ferrara",
+      "padua",
+      "pavia",
+      "florence"
+    ]
+  }
+]

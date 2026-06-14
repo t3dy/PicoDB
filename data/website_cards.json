@@ -1,0 +1,65 @@
+[
+  {
+    "id": "bio-pico",
+    "entity_type": "biography",
+    "title": "Giovanni Pico della Mirandola",
+    "subtitle": "1463-1494",
+    "summary": "Prodigy, count, disputant, theologian-philosopher, and unstable emblem of Renaissance dignity. The portal treats Pico as a figure whose short life moved between university scholasticism, Florentine Platonism, Hebrew/Kabbalistic study, papal trouble, and late Savonarolan religion.",
+    "status": "DRAFT",
+    "source_artifact_id": "note_pico_bio_seed"
+  },
+  {
+    "id": "bio-copenhaver",
+    "entity_type": "scholar",
+    "title": "Brian P. Copenhaver",
+    "subtitle": "Renaissance philosophy, magic, Pico reception",
+    "summary": "Copenhaver is a central modern interpreter for this portal because his corpus here ties Pico's Oration to magic, Kabbalah, modern memory, and the scholastic-juridical details of the Roman heresy case.",
+    "status": "DRAFT",
+    "source_artifact_id": "note_copenhaver_profile_seed"
+  },
+  {
+    "id": "bio-howlett",
+    "entity_type": "scholar",
+    "title": "Sophia Howlett",
+    "subtitle": "Aristotelianism, Kabbalism, Platonism",
+    "summary": "Howlett re-enters Pico studies from Ficino studies and frames Pico as a contested site whose allure depends on the interplay of exceptionalism, Kabbalah, Aristotelianism, Platonism, and modern scholarly shifts away from an Oration-only Pico.",
+    "status": "DRAFT",
+    "source_artifact_id": "note_howlett_profile_seed"
+  },
+  {
+    "id": "work-900",
+    "entity_type": "work",
+    "title": "900 Conclusions",
+    "subtitle": "Concordist disputation program",
+    "summary": "The 900 Conclusions are the structural engine behind Pico's Roman crisis: a massive public program of philosophical and theological theses whose condemned subset produced the trial archive.",
+    "status": "DRAFT",
+    "source_artifact_id": "note_900_seed"
+  },
+  {
+    "id": "work-disputationes",
+    "entity_type": "work",
+    "title": "Disputationes adversus astrologiam divinatricem",
+    "subtitle": "Anti-astrology and late Savonarolan proximity",
+    "summary": "The anti-astrology work belongs to Pico's late Florentine years and is central for mapping the divergence from Ficino and the shared terrain with Savonarola.",
+    "status": "DRAFT",
+    "source_artifact_id": "note_disputationes_seed"
+  },
+  {
+    "id": "work-heptaplus",
+    "entity_type": "work",
+    "title": "Heptaplus",
+    "subtitle": "Genesis, creation, biblical hermeneutics",
+    "summary": "Heptaplus shifts Pico away from a simplified secular dignity myth and toward biblical exegesis, creation theology, and the problem of posthumous textual transmission.",
+    "status": "DRAFT",
+    "source_artifact_id": "note_heptaplus_seed"
+  },
+  {
+    "id": "work-oration",
+    "entity_type": "work",
+    "title": "Oration on the Dignity of Man",
+    "subtitle": "Roman disputation preface turned modern emblem",
+    "summary": "The Oration must be treated both as a text attached to the failed 900 Theses debate and as a later object of modern memory, humanist canonization, and debate over dignity, freedom, magic, and Kabbalah.",
+    "status": "DRAFT",
+    "source_artifact_id": "note_oration_seed"
+  }
+]

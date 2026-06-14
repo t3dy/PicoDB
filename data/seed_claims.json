@@ -1,0 +1,80 @@
+[
+  {
+    "id": "claim_copenhaver_001",
+    "artifact_id": "note_copenhaver_profile_seed",
+    "document_id": "Brian_P_Copenhaver_Magic_and_the_Dignity_of_Man__Pico_della_Mirandola_and_His_Oration_in_Modern__pdf_f7f272e1",
+    "claim_text": "Copenhaver's 2019 book treats the Oration through modern memory, dignity, magic, Kabbalah, and reception history.",
+    "claim_type": "historiographical",
+    "theme": "historiography",
+    "target_entity": "Oration reception",
+    "evidence_page": "contents",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": ""
+  },
+  {
+    "id": "claim_copenhaver_002",
+    "artifact_id": "note_copenhaver_profile_seed",
+    "document_id": "Brian_P_Copenhaver_Pico_della_Mirandola_on_Trial__Heresy_Freedom_and_Philosophy_libgen_li_pdf_753eb1fa",
+    "claim_text": "Copenhaver's 2022 book focuses on the heresy case, scholastic semantics, theological logic, and the thirteen conclusions.",
+    "claim_type": "historiographical",
+    "theme": "heresy",
+    "target_entity": "Pico trial",
+    "evidence_page": "contents",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": ""
+  },
+  {
+    "id": "claim_howlett_001",
+    "artifact_id": "note_howlett_profile_seed",
+    "document_id": "Critical_Political_Theory_and_Radical_Practice_Sophia_Howlett_-_Re-evaluating_Pico__Aristotelian_pdf_3c6c4fa3",
+    "claim_text": "Howlett presents recent Pico studies as moving away from an Oration-centered approach and toward Kabbalism and source multiplicity.",
+    "claim_type": "historiographical",
+    "theme": "historiography",
+    "target_entity": "Pico Studies",
+    "evidence_page": "preface",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": ""
+  },
+  {
+    "id": "claim_walden_001",
+    "artifact_id": "note_walden_savonarola_profile_seed",
+    "document_id": "An_Anatomy_of_Influence_Savonarola_and_P_pdf_2910b592",
+    "claim_text": "Pico and Savonarola probably first overlapped in the late 1470s at Bologna and a few years later at Ferrara.",
+    "claim_type": "historical",
+    "theme": "biography",
+    "target_entity": "Pico-Savonarola relationship",
+    "evidence_page": "pp. 2-3",
+    "confidence": "medium",
+    "review_status": "DRAFT",
+    "notes": "Needs exact page verification against PDF pagination."
+  },
+  {
+    "id": "claim_walden_002",
+    "artifact_id": "note_walden_savonarola_profile_seed",
+    "document_id": "An_Anatomy_of_Influence_Savonarola_and_P_pdf_2910b592",
+    "claim_text": "Pico began attending Savonarola's sermons in 1490 and remained close to him until Pico's death.",
+    "claim_type": "historical",
+    "theme": "religion",
+    "target_entity": "Pico late Florence",
+    "evidence_page": "p. 2",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": ""
+  },
+  {
+    "id": "claim_walden_003",
+    "artifact_id": "note_walden_savonarola_profile_seed",
+    "document_id": "An_Anatomy_of_Influence_Savonarola_and_P_pdf_2910b592",
+    "claim_text": "Savonarola assisted Pico in compiling the anti-astrology work in 1493.",
+    "claim_type": "historical",
+    "theme": "astrology",
+    "target_entity": "Disputationes",
+    "evidence_page": "p. 3",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": ""
+  }
+]

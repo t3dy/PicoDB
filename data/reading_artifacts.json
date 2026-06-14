@@ -1,0 +1,98 @@
+[
+  {
+    "id": "note_conclusions_900_seed",
+    "artifact_type": "pico_work_dossier",
+    "title": "Conclusions 900 Seed",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\website_notes\\works\\conclusions_900_seed.md",
+    "document_id": null,
+    "target_entity": "conclusions_900_seed",
+    "status": "DRAFT",
+    "evidence_status": "needs_review",
+    "created_at": "2026-06-13T23:29:38",
+    "updated_at": "2026-06-13T23:29:38"
+  },
+  {
+    "id": "note_disputationes_seed",
+    "artifact_type": "pico_work_dossier",
+    "title": "Disputationes Seed",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\website_notes\\works\\disputationes_seed.md",
+    "document_id": null,
+    "target_entity": "disputationes_seed",
+    "status": "DRAFT",
+    "evidence_status": "needs_review",
+    "created_at": "2026-06-13T23:29:38",
+    "updated_at": "2026-06-13T23:29:38"
+  },
+  {
+    "id": "note_heptaplus_seed",
+    "artifact_type": "pico_work_dossier",
+    "title": "Heptaplus Seed",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\website_notes\\works\\heptaplus_seed.md",
+    "document_id": null,
+    "target_entity": "heptaplus_seed",
+    "status": "DRAFT",
+    "evidence_status": "needs_review",
+    "created_at": "2026-06-13T23:29:38",
+    "updated_at": "2026-06-13T23:29:38"
+  },
+  {
+    "id": "note_oration_seed",
+    "artifact_type": "pico_work_dossier",
+    "title": "Oration Seed",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\website_notes\\works\\oration_seed.md",
+    "document_id": null,
+    "target_entity": "oration_seed",
+    "status": "DRAFT",
+    "evidence_status": "needs_review",
+    "created_at": "2026-06-13T23:29:38",
+    "updated_at": "2026-06-13T23:29:38"
+  },
+  {
+    "id": "note_copenhaver_profile_seed",
+    "artifact_type": "scholar_profile",
+    "title": "Copenhaver Profile Seed",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\website_notes\\scholars\\copenhaver_profile_seed.md",
+    "document_id": null,
+    "target_entity": "copenhaver_profile_seed",
+    "status": "DRAFT",
+    "evidence_status": "needs_review",
+    "created_at": "2026-06-13T23:29:38",
+    "updated_at": "2026-06-13T23:29:38"
+  },
+  {
+    "id": "note_howlett_profile_seed",
+    "artifact_type": "scholar_profile",
+    "title": "Howlett Profile Seed",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\website_notes\\scholars\\howlett_profile_seed.md",
+    "document_id": null,
+    "target_entity": "howlett_profile_seed",
+    "status": "DRAFT",
+    "evidence_status": "needs_review",
+    "created_at": "2026-06-13T23:29:38",
+    "updated_at": "2026-06-13T23:29:38"
+  },
+  {
+    "id": "note_walden_savonarola_profile_seed",
+    "artifact_type": "scholar_profile",
+    "title": "Walden Savonarola Profile Seed",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\website_notes\\scholars\\walden_savonarola_profile_seed.md",
+    "document_id": null,
+    "target_entity": "walden_savonarola_profile_seed",
+    "status": "DRAFT",
+    "evidence_status": "needs_review",
+    "created_at": "2026-06-13T23:29:38",
+    "updated_at": "2026-06-13T23:29:38"
+  },
+  {
+    "id": "note_pico_biography_seed",
+    "artifact_type": "website_page",
+    "title": "Pico Biography Seed",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\website_notes\\biographies\\pico_biography_seed.md",
+    "document_id": null,
+    "target_entity": "pico_biography_seed",
+    "status": "DRAFT",
+    "evidence_status": "needs_review",
+    "created_at": "2026-06-13T23:29:38",
+    "updated_at": "2026-06-13T23:29:38"
+  }
+]

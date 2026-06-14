@@ -17,6 +17,13 @@
     "tradition",
     "controversy",
     "reception_event"
+    ,
+    "source_packet",
+    "website_card",
+    "website_page",
+    "timeline_event",
+    "location_record",
+    "map_route"
   ],
   "themes": [
     "kabbalah",
@@ -44,7 +51,12 @@
     "condemns",
     "defends",
     "classifies_as_magic",
-    "classifies_as_kabbalah"
+    "classifies_as_kabbalah",
+    "anchors_claim",
+    "promotes_to",
+    "located_at",
+    "belongs_to_route",
+    "supplies_timeline_event"
   ],
   "evidence_statuses": [
     "verified",

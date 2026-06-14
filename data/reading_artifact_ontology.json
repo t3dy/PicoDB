@@ -1,0 +1,117 @@
+{
+  "id": "reading_artifact_ontology",
+  "version": "0.2.0",
+  "purpose": "Markup and writing ontology for turning systematic readings into website cards, pages, timelines, maps, and scholarly syntheses.",
+  "artifact_types": [
+    {
+      "id": "source_packet",
+      "label": "Source Packet",
+      "description": "Smallest verified source unit: document id, page range, extracted passage summary, key names, and claim candidates.",
+      "file_pattern": "artifacts/source_packets/{document_id}/{section}.md",
+      "promotes_to": "claims"
+    },
+    {
+      "id": "section_summary",
+      "label": "Section Summary",
+      "description": "Exhaustive summary of a section/chapter/page range with claims, concepts, persons, and evidence anchors.",
+      "file_pattern": "artifacts/section_summaries/{document_id}/{section}.md",
+      "promotes_to": "website_pages"
+    },
+    {
+      "id": "claim_record",
+      "label": "Claim Record",
+      "description": "Atomic historical, textual, bibliographic, or interpretive assertion with evidence and review status.",
+      "file_pattern": "db.claims",
+      "promotes_to": "website_cards"
+    },
+    {
+      "id": "scholar_profile",
+      "label": "Scholar Profile",
+      "description": "Biography, corpus works, arguments, historiographical position, contribution to Pico/Renaissance/magic studies.",
+      "file_pattern": "artifacts/scholar_profiles/{scholar_id}.md",
+      "promotes_to": "website_pages"
+    },
+    {
+      "id": "pico_work_dossier",
+      "label": "Pico Work Dossier",
+      "description": "Aggregated notes on a Pico primary text, including structure, themes, debates, editions, and open problems.",
+      "file_pattern": "artifacts/pico_work_dossiers/{work_id}.md",
+      "promotes_to": "website_pages"
+    },
+    {
+      "id": "concept_dossier",
+      "label": "Concept Dossier",
+      "description": "Concept history and usage across Pico and scholarship, with debate map and related terms.",
+      "file_pattern": "artifacts/concepts/{concept_id}.md",
+      "promotes_to": "website_pages"
+    },
+    {
+      "id": "historiography_node",
+      "label": "Historiography Node",
+      "description": "Named debate or interpretive position with scholars, claims, tensions, and revisions.",
+      "file_pattern": "artifacts/historiography/{node_id}.md",
+      "promotes_to": "website_pages"
+    },
+    {
+      "id": "timeline_event",
+      "label": "Timeline Event",
+      "description": "Life, publication, controversy, travel, reception, or scholarship event with date/place/source note.",
+      "file_pattern": "db.timeline_events",
+      "promotes_to": "timeline"
+    },
+    {
+      "id": "location_record",
+      "label": "Location Record",
+      "description": "Geocoded place tied to Pico's life, education, travel, trouble, publication, or reception.",
+      "file_pattern": "db.locations",
+      "promotes_to": "map"
+    },
+    {
+      "id": "website_card",
+      "label": "Website Card",
+      "description": "Short browsable card for the public site.",
+      "file_pattern": "db.website_cards",
+      "promotes_to": "site"
+    },
+    {
+      "id": "website_page",
+      "label": "Website Page",
+      "description": "Long-form reviewed essay/page for the public site.",
+      "file_pattern": "artifacts/pages/{entity_id}.md",
+      "promotes_to": "site"
+    }
+  ],
+  "claim_types": [
+    "historical",
+    "bibliographic",
+    "textual",
+    "interpretive",
+    "historiographical",
+    "philological",
+    "geographical",
+    "open_problem"
+  ],
+  "evidence_statuses": [
+    "verified",
+    "likely",
+    "interpretive",
+    "needs_review",
+    "placeholder",
+    "contradicted"
+  ],
+  "review_statuses": [
+    "DRAFT",
+    "SOURCE_ANCHORED",
+    "REVIEWED",
+    "PROMOTED",
+    "RETIRED"
+  ],
+  "promotion_rules": {
+    "source_packet": "May produce claims and section summaries only after page anchors are recorded.",
+    "section_summary": "May promote to website page when every claim has a source page and confidence.",
+    "scholar_profile": "May promote when biography, corpus works, arguments, and historiographical position are separated.",
+    "pico_work_dossier": "May promote when primary text structure, themes, editions, scholarship, and open problems are recorded.",
+    "timeline_event": "May show publicly as DRAFT if evidence_status is likely or verified; provisional route events stay visually marked.",
+    "location_record": "May show on map if coordinates are known; uncertain historical role must be labeled."
+  }
+}

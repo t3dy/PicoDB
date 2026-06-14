@@ -1,0 +1,182 @@
+[
+  {
+    "id": "aix_en_provence",
+    "name": "Aix-en-Provence",
+    "modern_country": "France",
+    "latitude": 43.5297,
+    "longitude": 5.4474,
+    "location_type": "route_region",
+    "pico_role": "Southern France/provençal travel context pending direct evidence.",
+    "evidence_status": "needs_review"
+  },
+  {
+    "id": "arezzo",
+    "name": "Arezzo",
+    "modern_country": "Italy",
+    "latitude": 43.4633,
+    "longitude": 11.8796,
+    "location_type": "route_stop",
+    "pico_role": "Tuscan route context; used here as a tentative travel node pending source confirmation.",
+    "evidence_status": "needs_review"
+  },
+  {
+    "id": "bologna",
+    "name": "Bologna",
+    "modern_country": "Italy",
+    "latitude": 44.4949,
+    "longitude": 11.3426,
+    "location_type": "university_city",
+    "pico_role": "Early legal/university studies; later remembered as part of Pico and Savonarola's overlapping educational world.",
+    "evidence_status": "likely"
+  },
+  {
+    "id": "ferrara",
+    "name": "Ferrara",
+    "modern_country": "Italy",
+    "latitude": 44.8381,
+    "longitude": 11.6198,
+    "location_type": "court_university_city",
+    "pico_role": "Este court and educational setting where Pico and Savonarola are said to have crossed paths.",
+    "evidence_status": "likely"
+  },
+  {
+    "id": "fiesole_careggi",
+    "name": "Fiesole / Careggi",
+    "modern_country": "Italy",
+    "latitude": 43.806,
+    "longitude": 11.2931,
+    "location_type": "villa_milieu",
+    "pico_role": "Florentine villa/intellectual setting associated with Ficino and Medici Platonism.",
+    "evidence_status": "likely"
+  },
+  {
+    "id": "florence",
+    "name": "Florence",
+    "modern_country": "Italy",
+    "latitude": 43.7696,
+    "longitude": 11.2558,
+    "location_type": "patronage_city",
+    "pico_role": "Medici city, Ficinian/Platonic milieu, later Savonarolan context, and Pico's final residence.",
+    "evidence_status": "likely"
+  },
+  {
+    "id": "grenoble",
+    "name": "Grenoble",
+    "modern_country": "France",
+    "latitude": 45.1885,
+    "longitude": 5.7245,
+    "location_type": "route_city",
+    "pico_role": "Alpine route node between France and Italy pending direct evidence.",
+    "evidence_status": "needs_review"
+  },
+  {
+    "id": "lyon",
+    "name": "Lyon",
+    "modern_country": "France",
+    "latitude": 45.764,
+    "longitude": 4.8357,
+    "location_type": "route_city",
+    "pico_role": "Major France-Italy route node; included for map routing pending direct evidence.",
+    "evidence_status": "needs_review"
+  },
+  {
+    "id": "mirandola",
+    "name": "Mirandola",
+    "modern_country": "Italy",
+    "latitude": 44.8896,
+    "longitude": 11.0667,
+    "location_type": "birthplace_lordship",
+    "pico_role": "Pico's family lordship and birthplace; later a site of civic memory and commemoration.",
+    "evidence_status": "likely"
+  },
+  {
+    "id": "modena",
+    "name": "Modena",
+    "modern_country": "Italy",
+    "latitude": 44.6471,
+    "longitude": 10.9252,
+    "location_type": "regional_center",
+    "pico_role": "Este-region political and ecclesiastical context near Mirandola.",
+    "evidence_status": "likely"
+  },
+  {
+    "id": "padua",
+    "name": "Padua",
+    "modern_country": "Italy",
+    "latitude": 45.4064,
+    "longitude": 11.8768,
+    "location_type": "university_city",
+    "pico_role": "Major Aristotelian university context for Pico's philosophical education.",
+    "evidence_status": "likely"
+  },
+  {
+    "id": "paris",
+    "name": "Paris",
+    "modern_country": "France",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "location_type": "university_city",
+    "pico_role": "Scholastic university center associated with Pico's northern studies and French intellectual ambit.",
+    "evidence_status": "likely"
+  },
+  {
+    "id": "pavia",
+    "name": "Pavia",
+    "modern_country": "Italy",
+    "latitude": 45.1847,
+    "longitude": 9.1582,
+    "location_type": "university_city",
+    "pico_role": "Northern Italian scholastic/university context relevant to Pico's legal and philosophical formation.",
+    "evidence_status": "likely"
+  },
+  {
+    "id": "perugia",
+    "name": "Perugia",
+    "modern_country": "Italy",
+    "latitude": 43.1107,
+    "longitude": 12.3908,
+    "location_type": "study_city",
+    "pico_role": "Central Italian study and travel context often associated with Pico's language and philosophical formation.",
+    "evidence_status": "likely"
+  },
+  {
+    "id": "reggio_emilia",
+    "name": "Reggio Emilia",
+    "modern_country": "Italy",
+    "latitude": 44.6983,
+    "longitude": 10.6312,
+    "location_type": "encounter_site",
+    "pico_role": "Reported Dominican chapter/disputation context for a young Pico encountering Savonarola.",
+    "evidence_status": "likely"
+  },
+  {
+    "id": "rome",
+    "name": "Rome",
+    "modern_country": "Italy",
+    "latitude": 41.9028,
+    "longitude": 12.4964,
+    "location_type": "papal_city",
+    "pico_role": "Site of Pico's planned disputation, papal scrutiny, condemnation of theses, and later absolution politics.",
+    "evidence_status": "likely"
+  },
+  {
+    "id": "san_marco_florence",
+    "name": "San Marco, Florence",
+    "modern_country": "Italy",
+    "latitude": 43.7787,
+    "longitude": 11.2598,
+    "location_type": "religious_site",
+    "pico_role": "Dominican convent/library connected with Savonarola, Pico's late religious circle, burial, and posthumous memory.",
+    "evidence_status": "likely"
+  },
+  {
+    "id": "vincennes",
+    "name": "Vincennes",
+    "modern_country": "France",
+    "latitude": 48.8478,
+    "longitude": 2.4392,
+    "location_type": "detention_site",
+    "pico_role": "Traditional location associated with Pico's detention after the papal case; verify exact imprisonment details in Copenhaver/trial literature.",
+    "evidence_status": "likely"
+  }
+]
