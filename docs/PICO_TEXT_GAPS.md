@@ -56,3 +56,8 @@
 ## Jayne Translation Pass 015 Access Update
 
 - `Sears Jayne, Commentary on a Canzone of Benivieni`: `restricted_modern_translation_witness`; accessible through Internet Archive controlled digital lending, but no full transcript should be extracted into the repository. Use page-level notes, short quotation anchors, and collation observations.
+
+## Pass 017 Pater Noster Gap Update
+
+- `Expositio singularis in Orationem Dominicam / Pater Noster commentary`: `new_primary_text_acquisition_priority`; Pugliese identifies Benivieni's unpublished vernacular translation and three manuscript witnesses/locations that may affect reconstruction of Pico's text.
+- `Commento sopra una canzone d'amore`: `transmission_warning_reinforced`; Pugliese supports treating Benivieni as a mediator who could alter Pico's text to soften criticism of Ficino.

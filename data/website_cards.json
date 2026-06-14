@@ -378,6 +378,15 @@
     "source_artifact_id": "source_pico_biographical_source_gaps"
   },
   {
+    "id": "gap-pico-pater-noster-pass017",
+    "entity_type": "source_gap",
+    "title": "Pico's Pater Noster Commentary",
+    "subtitle": "New acquisition priority",
+    "summary": "Pugliese adds Pico's Pater Noster commentary and Benivieni's unpublished vernacular translation to the primary-text queue.",
+    "status": "DRAFT",
+    "source_artifact_id": "gap_pico_pater_noster_pugliese_pass017"
+  },
+  {
     "id": "source-pico-angelology-map",
     "entity_type": "source_packet",
     "title": "Angelology Source Map",
@@ -450,6 +459,15 @@
     "source_artifact_id": "source_opera_reviews_pass012"
   },
   {
+    "id": "source-pugliese-benivieni-pass017",
+    "entity_type": "source_packet",
+    "title": "Pugliese on Benivieni and Pico",
+    "subtitle": "Commento mediation and Pater Noster translation",
+    "summary": "Pugliese strengthens Benivieni's role as Pico's collaborator, Commento mediator, and translator of Pico's Pater Noster commentary.",
+    "status": "DRAFT",
+    "source_artifact_id": "source_pugliese_benivieni_pass017"
+  },
+  {
     "id": "source-stanley-platonick-pass014",
     "entity_type": "source_packet",
     "title": "Stanley's Platonick Discourse",
@@ -493,6 +511,15 @@
     "summary": "The reading system now tracks coverage levels from unread catalog entries through source packets, section summaries, claims, cross-links, review, and website promotion.",
     "status": "DRAFT",
     "source_artifact_id": "sec_farmer_003_substance_accident"
+  },
+  {
+    "id": "transmission-commento-pugliese-pass017",
+    "entity_type": "textual_transmission",
+    "title": "Commento Softening Problem",
+    "subtitle": "Benivieni, Ficino, and textual mediation",
+    "summary": "A new transmission note links Pugliese to Allen: Benivieni may have softened Pico's criticism of Ficino's theory of love.",
+    "status": "DRAFT",
+    "source_artifact_id": "transmission_commento_pugliese_pass017"
   },
   {
     "id": "translation-commento-opening-pass016",

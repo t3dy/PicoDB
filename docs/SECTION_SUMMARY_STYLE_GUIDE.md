@@ -162,3 +162,7 @@ For the Commento, summarize at chapter or stanza level. Each summary must state 
 ## Pass 016 Commento Translation Overlay
 
 When translating the Commento, keep translation, summary, and collation separate. Translation artifacts should render the Italian into readable scholarly English; section summaries should reconstruct the argument; collation notes should compare Stanley and Jayne only where they clarify reception or terminology.
+
+## Pass 017 Pugliese Commento Transmission Overlay
+
+When summarizing Commento passages involving Ficino, love theory, Venus, beauty, Mind, or the canzone/commentary relation, mark whether the point depends on Pico's own argument, Benivieni's poetic pretext, later Benivieni mediation, or a softened publication frame. Use Pugliese with Allen for transmission cautions.

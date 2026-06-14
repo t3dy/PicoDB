@@ -1456,6 +1456,58 @@
     "notes": "Pass 005 ontology claim."
   },
   {
+    "id": "claim_pugliese_017_001",
+    "artifact_id": "source_pugliese_benivieni_pass017",
+    "document_id": "Bibliothèque_d_Humanisme_et_Renaissance_vol_65_iss_2_Olga_Zorzi_Pugliese_GIROLAMO_BENIVIENI_AMIC_pdf_80f46aa9",
+    "claim_text": "Pugliese treats Benivieni as a close collaborator and posthumous mediator of Pico, not merely as the poet whose canzone occasioned the Commento.",
+    "claim_type": "historiographical",
+    "theme": "Benivieni",
+    "target_entity": "Pico-Benivieni collaboration",
+    "evidence_page": "pp. 347-351",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": "Pass 017."
+  },
+  {
+    "id": "claim_pugliese_017_002",
+    "artifact_id": "transmission_commento_pugliese_pass017",
+    "document_id": "Bibliothèque_d_Humanisme_et_Renaissance_vol_65_iss_2_Olga_Zorzi_Pugliese_GIROLAMO_BENIVIENI_AMIC_pdf_80f46aa9",
+    "claim_text": "Pugliese says Benivieni introduced changes into Pico's Commento in order to soften criticism of Ficino's theory of love.",
+    "claim_type": "textual_transmission",
+    "theme": "Commento",
+    "target_entity": "Ficino softening",
+    "evidence_page": "p. 351",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": "Pass 017."
+  },
+  {
+    "id": "claim_pugliese_017_003",
+    "artifact_id": "source_pugliese_benivieni_pass017",
+    "document_id": "Bibliothèque_d_Humanisme_et_Renaissance_vol_65_iss_2_Olga_Zorzi_Pugliese_GIROLAMO_BENIVIENI_AMIC_pdf_80f46aa9",
+    "claim_text": "Pugliese argues that Benivieni's canzone and Pico's prose commentary do not fully coincide doctrinally, making the poem partly a pretext for Pico's own theory of love.",
+    "claim_type": "interpretive",
+    "theme": "Commento",
+    "target_entity": "poem-commentary relation",
+    "evidence_page": "p. 351",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": "Pass 017."
+  },
+  {
+    "id": "claim_pugliese_017_004",
+    "artifact_id": "gap_pico_pater_noster_pugliese_pass017",
+    "document_id": "Bibliothèque_d_Humanisme_et_Renaissance_vol_65_iss_2_Olga_Zorzi_Pugliese_GIROLAMO_BENIVIENI_AMIC_pdf_80f46aa9",
+    "claim_text": "Pugliese identifies Benivieni's unpublished Florentine vernacular translation of Pico's Pater Noster commentary and argues that it may affect reconstruction of Pico's Latin text.",
+    "claim_type": "bibliographic",
+    "theme": "Pater Noster",
+    "target_entity": "Expositio singularis in Orationem Dominicam",
+    "evidence_page": "pp. 352-359",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": "Pass 017."
+  },
+  {
     "id": "claim_sec_being_001",
     "artifact_id": "sec_being_one_001_concord_problem",
     "document_id": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776",

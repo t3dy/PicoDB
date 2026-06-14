@@ -1,6 +1,6 @@
 {
   "id": "reading_artifact_ontology",
-  "version": "0.15.0",
+  "version": "0.16.0",
   "purpose": "Markup and writing ontology for turning systematic readings into website cards, pages, timelines, maps, and scholarly syntheses.",
   "artifact_types": [
     {
@@ -618,5 +618,17 @@
     "jayne_comparison_if_available",
     "doctrinal_stakes",
     "revision_status"
+  ],
+  "commento_transmission_fields": [
+    "authorial_revision",
+    "benivieni_mediation",
+    "ficino_softening",
+    "manuscript_witness_needed",
+    "poem_commentary_noncoincidence",
+    "publication_frame",
+    "related_pico_devotional_work"
+  ],
+  "pico_primary_text_acquisition_queue": [
+    "Expositio singularis in Orationem Dominicam / Pater Noster commentary: Latin witnesses and Benivieni vernacular translation"
   ]
 }
