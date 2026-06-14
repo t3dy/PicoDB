@@ -1,57 +1,23 @@
-# Scholar Profile: Olga Zorzi Pugliese
+---
+artifact_id: profile_pugliese
+type: scholar_profile
+scholar: Olga Zorzi Pugliese
+status: DRAFT_ESSAY
+key_work: "Scholarship on Benivieni and the Commento tradition"
+---
 
-- Artifact ID: `profile_olga_zorzi_pugliese_pass018`
-- Type: scholar profile
-- Status: SOURCE_ANCHORED_DRAFT
-- Evidence status: high
-- Governing artifact: `source_pugliese_benivieni_pass017`
+# Olga Zorzi Pugliese
 
-## Scholarly Identity
+Olga Zorzi Pugliese is a scholar of Italian Renaissance literature and vernacular humanism whose work has made a distinctive contribution to Pico studies not through the analysis of Pico's Latin philosophical writings but through sustained attention to their material and collaborative conditions. Her 2003 article published in *Bibliothèque d'Humanisme et Renaissance* — "Girolamo Benivieni, amico e collaboratore di Giovanni Pico della Mirandola: la sua traduzione inedita del commento al Pater noster" — exemplifies this approach: rather than treating the *Commento* as a self-contained philosophical document, Pugliese recovers the human relationship and textual collaboration that brought it into existence and sustained its transmission across the decades following Pico's death. In doing so, she has established Girolamo Benivieni not merely as the occasion for one of Pico's most celebrated works but as an active intellectual partner, a vernacular mediator, and a posthumous guardian of Pico's reputation whose interventions shaped the *Commento* that has come down to us.
 
-Olga Zorzi Pugliese is a guide for PicoDB's Benivieni, Commento, vernacular-translation, and transmission-history problems. Her value is not that she replaces Allen, Busi, Wirszubski, Black, or Howlett as an interpreter of Pico's philosophy. Her value is that she makes the Pico-Benivieni collaboration materially visible and shows that the history of Pico's texts includes friends, translators, editors, publishers, manuscripts, and posthumous softening.
+The figure of Girolamo Benivieni (1453–1542) occupies an unusual position in the history of Florentine Neoplatonism. As a poet, he was recognized in his own time as one of the more accomplished practitioners of vernacular philosophical verse, a genre that sought to compress the metaphysical vocabulary of Ficino's circle into lyric form. His *Canzone dello amor celeste e divino* — the poem that prompted Pico's *Commento* — was not merely decorative philosophical verse but a serious attempt to render in the octosyllabic stanzas of the Tuscan lyric tradition the Neoplatonic account of love as cosmic ascent, beauty as divine radiance, and the soul's movement toward reunion with the One. The poem was deeply marked by Ficino's influence, reflecting the love metaphysics that had circulated in the Laurentian circle since the late 1460s. Yet Benivieni was not a simple disciple of Ficino: he was a Savonarolan, a religious reformer, and a figure whose intellectual loyalties cut across the divisions that separated Ficino's philosophical Platonism from the devotional intensity of Dominican spirituality. This complexity is part of what makes him, in Pugliese's account, such a revealing lens through which to examine the *Commento* and its circumstances.
 
-## Core Contributions for PicoDB
+Pugliese's article reconstructs the Pico-Benivieni friendship with scholarly care and real admiring detail. The two men met when Pico arrived in Florence, and what began as an association in the cultural circles around Lorenzo de' Medici and the library of San Marco quickly deepened into an intimacy that left traces across both men's writings. Pico entrusted to Benivieni the distribution of charitable alms during his absences from Florence, a gesture that Benivieni himself and Pico's nephew Gianfrancesco both recorded as evidence of the particular confidence Pico placed in him. Benivieni wrote sonnets lamenting Pico's departures from the city, introduced him as an interlocutor in his eclogues, and defined him in his 1500 commentary on his own poems as "unico veramente et singulare ornamento de la nostra età" — the unique and singular ornament of his age — while describing Pico's early death as one of the present afflictions of all Italy. After Pico's death, Benivieni wrote sonnets in Pico's voice calling for a better burial and succeeded in having his remains moved to San Marco, where Benivieni himself was ultimately interred in the same tomb, with an epitaph of his own composition insisting that the place of burial should not separate what love had joined in life: "ne disiunctus post mortem locus ossa separet quorum animos in vita coniunxit amor." The friendship was, as Pugliese demonstrates, not merely personal but intellectually constitutive: it shaped what each man wrote, what each man published, and how the documentary record of both has come down to posterity.
 
-Pugliese strengthens Benivieni as an active collaborator and mediator. Benivieni should be tagged as the poet whose canzone occasions Pico's *Commento*, but also as a friend, promoter, translator, and possible reviser of Pico-related texts.
+The *Commento* itself, Pugliese shows, is the most philosophically substantial product of this intellectual partnership, and it needs to be understood as a genuinely collaborative document rather than a philosophical treatise that merely happens to take a friend's poem as its occasion. Benivieni composed the *Canzone* before 1478, and the poem circulated in manuscript for some years before Pico chose to comment on it. In a letter of 1486, Pico described the poem as extremely difficult to understand, filled with the mysteries of ancient secret philosophy — a description that already implies a hermeneutic distance between the poem's apparent surface and its philosophical depths. What Pico's *Commento* then does is expand that depth vastly beyond anything the poem itself explicitly contains, using Benivieni's canzone as a pretext — in the precise etymological sense of a text placed before — for Pico's own systematic treatment of Neoplatonic love, the three worlds, the angelic intellect, and the metaphysics of beauty. Pugliese is precise about what this means: the poem and the commentary do not share a single doctrine. The ideas in Benivieni's verse and the ideas in Pico's prose are not identical, and in important respects they diverge. The canzone reflects Ficino's account of love; the *Commento* develops a theory of love that implicitly corrects Ficino's. The two contributions are related but independent, and treating the *Commento* as a simple elaboration of Benivieni's poem — or Benivieni's poem as a simple summary of the *Commento*'s argument — misrepresents both.
 
-For the *Commento sopra una canzone d'amore*, Pugliese helps PicoDB avoid two simplifications. First, Benivieni's canzone and Pico's prose commentary are not doctrinally identical; the poem can function as the occasion for Pico's independent love theory. Second, the transmitted *Commento* belongs to a history of mediation in which Benivieni may soften Pico's criticism of Ficino's theory of love.
+This point about the independence of the two contributions leads to one of Pugliese's most important findings about the transmission of the *Commento*. Benivieni was not merely the occasion for the work; he became its posthumous editor and transmitter. When he published Pico's *Commento* in the volume of his own *Opere* in 1519, he introduced changes into the text — changes that, Pugliese argues, had the effect of softening Pico's criticism of Ficino's love theory. The precise locations and mechanisms of this textual softening remain a matter for further philological investigation, but the principle Pugliese establishes is clear and consequential: the *Commento* that later scholars and translators have worked from is not necessarily the text exactly as Pico left it. It is the text as Benivieni chose to transmit it, filtered through a friendship that remained devoted to Pico's memory while also remaining committed, in ways that Pico himself perhaps was not, to maintaining a certain peace with the Ficinian tradition that had shaped Benivieni's own intellectual formation. Any scholar working on the *Commento* must reckon with the possibility that what reads as Pico's position on a given point has been modulated by the man who loved him most.
 
-Pugliese also adds a major source gap: Pico's *Expositio singularis in Orationem Dominicam* / Pater Noster commentary and Benivieni's unpublished Florentine vernacular translation. This makes late piety, prayer, vernacular reception, and manuscript control more important for future biography and biblical-hermeneutics work.
+Pugliese's article also recovers a significant source gap in Pico studies: Benivieni's previously unpublished vernacular translation of Pico's *Expositio in Orationem Dominicam*, a commentary on the Lord's Prayer that belongs to the last period of Pico's life and represents the religious intensity that Savonarola's influence was drawing out of him. The translation, discovered by Pugliese in the autograph manuscript MS 55 of the Fondo Acquisti e Doni at the Biblioteca Medicea Laurenziana in Florence, was prepared by Benivieni for a grandniece about to enter the convent of San Gaggio. In the prefatory letter, Benivieni explains his purpose in terms that illuminate his broader activity as a vernacular mediator: he wished to make available to readers who lacked Latin the teachings of texts that contained saving truths, removing the linguistic obstacle that prevented the broad public from drawing from the original font. This documentary vernacularization of Pico's late religious prose shows a dimension of the Pico-Benivieni relationship that the *Commento* alone does not reveal — a dimension in which Benivieni acts as a translator and propagator of Pico's devotional thought for audiences outside the Latin-literate humanist circle.
 
-## Historiographical Position
-
-Pugliese's PicoDB value is infrastructural and transmission-centered. She teaches the project to treat collaboration and reception as part of intellectual history. A philosophical claim does not move from Pico's mind to modern scholarship without textual agents. Benivieni can be a poetic partner, a reader of Pico's love theory, a translator of Pico's devotional prose, and a posthumous mediator whose interventions change the shape of the record.
-
-## Use in PicoDB
-
-Use Pugliese when a passage involves:
-
-- Benivieni's relation to Pico;
-- the *Commento* as a collaborative or mediated text;
-- Pico's criticism of Ficino's love theory and its possible softening;
-- the canzone/commentary relation;
-- vernacular translation of Pico's Latin writings;
-- Pater Noster commentary acquisition;
-- Florentine posthumous reception and devotional mediation.
-
-Do not use Pugliese as the governing authority for Pico's Kabbalah, metaphysics, or angelology. Use her to mark Benivieni's reception and mediation around those fields. Busi and Wirszubski remain the source-control guides for Kabbalah; Allen remains the main guide for Pico's relation to Ficino; Black remains the guide for the *Heptaplus*.
-
-## Ontology Consequences
-
-Future notes should tag:
-
-- `collaborator`
-- `poetic_occasion`
-- `vernacular_translator`
-- `posthumous_mediator`
-- `textual_softening`
-- `ficino_dispute_reception`
-- `pater_noster_gap`
-- `manuscript_witness_needed`
-
-## Open Problems
-
-- Acquire or inspect the Pater Noster Latin witnesses and Benivieni's vernacular translation.
-- Build a Commento witness matrix that compares Italian TEI, early print/OCR witnesses, Stanley/Gardner, Jayne, and future manuscript evidence.
-- Test where exactly Benivieni's softening of Ficino criticism appears in the transmitted *Commento*.
-- Separate Benivieni's own doctrine from Pico's prose doctrine in every Commento section summary.
+Pugliese's scholarly contribution thus operates at several levels simultaneously. She is a guide to Benivieni as a literary figure in his own right — a poet of philosophical verse, a Savonarolan reformer, and a self-commentator who revised his own amorous poetry to give it an explicitly Christian meaning. She is a guide to the *Commento* as a collaborative and mediated text whose transmission history is as philosophically significant as its philosophical content. And she is a guide to the broader question of what it means to treat intellectual history through the lens of friendship, collaboration, and textual agency, rather than through the lens of individual authorship and unmediated doctrinal transmission. The *Commento* did not travel from Pico's manuscript to modern scholarship in a sealed vessel; it traveled through Benivieni, who loved Pico, shared his piety, diverged from his anti-Ficinianism, and made choices about what the text should look like in print that scholars are still working to fully reconstruct. Pugliese's scholarship makes those choices visible and gives them the analytical weight they deserve.
