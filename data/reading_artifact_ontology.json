@@ -1,6 +1,6 @@
 {
   "id": "reading_artifact_ontology",
-  "version": "0.14.0",
+  "version": "0.15.0",
   "purpose": "Markup and writing ontology for turning systematic readings into website cards, pages, timelines, maps, and scholarly syntheses.",
   "artifact_types": [
     {
@@ -566,7 +566,9 @@
   "corpus_control_rules": [
     "A TEI primary text can upgrade a work from public-digital-lead to controlled-primary-text, but only section summaries and witness comparison make it research-ready.",
     "Controlled digital loans and copyrighted modern translations must be represented as bibliographic/access stubs plus notes, not as repository transcripts.",
+    "Each original translation section should preserve technical vocabulary and link to section-summary, glossary, and witness-collation artifacts.",
     "Early modern translations should be tagged as reception witnesses and collated rather than silently substituted for Pico's Italian.",
+    "Original project translations must be made from controlled source-language witnesses, not reconstructed from copyrighted or reception translations.",
     "Promote a work from gap to controlled only after full text, edition metadata, section plan, and source-risk notes are present.",
     "Record licensing and access status separately from bibliographic existence.",
     "Restricted translation witnesses can guide collation and terminology, but the controlling full text must remain a lawfully stored primary-text witness.",
@@ -605,5 +607,16 @@
     "doctrinal_stakes",
     "short_quote_if_needed",
     "rights_note"
+  ],
+  "commento_original_translation_fields": [
+    "source_section",
+    "italian_witness",
+    "english_translation",
+    "technical_terms",
+    "translator_notes",
+    "stanley_comparison",
+    "jayne_comparison_if_available",
+    "doctrinal_stakes",
+    "revision_status"
   ]
 }

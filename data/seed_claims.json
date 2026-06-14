@@ -1534,6 +1534,32 @@
     "notes": "Pass 004 section summary claim."
   },
   {
+    "id": "claim_translation_016_001",
+    "artifact_id": "translation_policy_commento_original_english",
+    "document_id": "Pico_Commento_BibliotecaItaliana_TEI_bibit000827_xml_2e50ef08",
+    "claim_text": "PicoDB can create an original English translation of the Commento from the controlled Italian TEI witness without reconstructing the text from Stanley or Jayne.",
+    "claim_type": "methodological",
+    "theme": "translation",
+    "target_entity": "Commento",
+    "evidence_page": "Pass 016 translation policy",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": "Pass 016."
+  },
+  {
+    "id": "claim_translation_016_002",
+    "artifact_id": "translation_commento_opening_pass016",
+    "document_id": "Pico_Commento_BibliotecaItaliana_TEI_bibit000827_xml_2e50ef08",
+    "claim_text": "The opening paratexts frame the Commento as a posthumous, partially reluctant publication whose Platonic doctrine is explicitly subordinated to Christian truth.",
+    "claim_type": "interpretive",
+    "theme": "Commento",
+    "target_entity": "Bonacursius and Benivieni",
+    "evidence_page": "Opening translation",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": "Pass 016."
+  },
+  {
     "id": "claim_walden_001",
     "artifact_id": "note_walden_savonarola_profile_seed",
     "document_id": "An_Anatomy_of_Influence_Savonarola_and_P_pdf_2910b592",

@@ -972,6 +972,42 @@
     "updated_at": "2026-06-14T09:24:53Z"
   },
   {
+    "id": "translation_commento_opening_pass016",
+    "artifact_type": "translation",
+    "title": "Commento Opening: Original English Translation",
+    "path": "artifacts/translations/commento/commento_original_translation_opening_pass016.md",
+    "document_id": "Pico_Commento_BibliotecaItaliana_TEI_bibit000827_xml_2e50ef08",
+    "target_entity": "Commento opening paratexts",
+    "status": "DRAFT_TRANSLATION",
+    "evidence_status": "source_governed",
+    "created_at": "2026-06-14T20:27:52Z",
+    "updated_at": "2026-06-14T20:27:52Z"
+  },
+  {
+    "id": "translation_policy_commento_original_english",
+    "artifact_type": "translation_policy",
+    "title": "Commento Original Translation Policy",
+    "path": "artifacts/translations/commento/commento_original_translation_policy.md",
+    "document_id": "Pico_Commento_BibliotecaItaliana_TEI_bibit000827_xml_2e50ef08",
+    "target_entity": "Commento",
+    "status": "ACTIVE",
+    "evidence_status": "source_governed",
+    "created_at": "2026-06-14T20:27:52Z",
+    "updated_at": "2026-06-14T20:27:52Z"
+  },
+  {
+    "id": "translation_queue_commento_pass016",
+    "artifact_type": "translation_queue",
+    "title": "Commento Translation Queue",
+    "path": "artifacts/translations/commento/commento_translation_queue_pass016.md",
+    "document_id": "Pico_Commento_BibliotecaItaliana_TEI_bibit000827_xml_2e50ef08",
+    "target_entity": "Commento",
+    "status": "ACTIVE",
+    "evidence_status": "source_governed",
+    "created_at": "2026-06-14T20:27:52Z",
+    "updated_at": "2026-06-14T20:27:52Z"
+  },
+  {
     "id": "essay_being_unity_aquinas_dionysius",
     "artifact_type": "website_page",
     "title": "Aquinas and Dionysius in On Being and Unity",

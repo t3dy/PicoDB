@@ -158,3 +158,7 @@ When summarizing a text from an early Opera witness, begin with a witness note: 
 ## Pass 014 Commento Overlay
 
 For the Commento, summarize at chapter or stanza level. Each summary must state the section's role in the poem-commentary structure, reconstruct the argument, register Ficino agreement or correction, identify Platonist/Aristotelian/Arabic/Dionysian sources where visible, and mark whether love, beauty, desire, celestial causality, angelic/intelligible hierarchy, poetic theology, or biblical/Kabbalistic hints are active.
+
+## Pass 016 Commento Translation Overlay
+
+When translating the Commento, keep translation, summary, and collation separate. Translation artifacts should render the Italian into readable scholarly English; section summaries should reconstruct the argument; collation notes should compare Stanley and Jayne only where they clarify reception or terminology.

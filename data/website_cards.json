@@ -468,6 +468,15 @@
     "source_artifact_id": "concept_kabbalah_protocol_seed"
   },
   {
+    "id": "translation-policy-commento-original",
+    "entity_type": "system",
+    "title": "Commento Translation Policy",
+    "subtitle": "Italian TEI controls the translation",
+    "summary": "A translation protocol keeps our original English rendering distinct from Stanley, Jayne, summaries, and collation notes.",
+    "status": "ACTIVE",
+    "source_artifact_id": "translation_policy_commento_original_english"
+  },
+  {
     "id": "system-section-style",
     "entity_type": "system",
     "title": "Section Summary Style Guide",
@@ -484,6 +493,15 @@
     "summary": "The reading system now tracks coverage levels from unread catalog entries through source packets, section summaries, claims, cross-links, review, and website promotion.",
     "status": "DRAFT",
     "source_artifact_id": "sec_farmer_003_substance_accident"
+  },
+  {
+    "id": "translation-commento-opening-pass016",
+    "entity_type": "translation",
+    "title": "Commento Opening Translation",
+    "subtitle": "Original English from the Italian TEI",
+    "summary": "PicoDB has begun its own English translation of the Commento from the Italian, starting with the title, Bonacursius dedication, and Benivieni's reader address.",
+    "status": "DRAFT",
+    "source_artifact_id": "translation_commento_opening_pass016"
   },
   {
     "id": "work-900",
