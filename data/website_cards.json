@@ -9,6 +9,33 @@
     "source_artifact_id": "note_pico_bio_seed"
   },
   {
+    "id": "concept-kabbalah",
+    "entity_type": "concept",
+    "title": "Christian Kabbalah in Pico",
+    "subtitle": "Mithridates, Hebrew, 900 Conclusions",
+    "summary": "Pico's Kabbalah depends on translation, Hebrew aspiration, Christian interpretation, and the ambitious integration of Jewish mystical materials into concordist philosophy.",
+    "status": "DRAFT",
+    "source_artifact_id": "sp_wirszubski_kabbalah_opening"
+  },
+  {
+    "id": "concept-astrology",
+    "entity_type": "concept",
+    "title": "Pico and Astrology",
+    "subtitle": "From scientia naturalis to Disputationes",
+    "summary": "Pico's anti-astrology polemic must be studied as a development from earlier natural philosophy and celestial/Kabbalistic interests into late Florentine anti-divinatory critique.",
+    "status": "DRAFT",
+    "source_artifact_id": "sp_akopyan_astrology_structure"
+  },
+  {
+    "id": "hist-oration-only",
+    "entity_type": "historiography",
+    "title": "Against the Oration-Only Pico",
+    "subtitle": "Copenhaver, Farmer, Howlett, Walden",
+    "summary": "The portal's governing historiographical correction: Pico cannot be reduced to a proto-modern Oration on dignity. The Oration must be read as preface, reception object, mystical text, and part of the 900 Conclusions crisis.",
+    "status": "DRAFT",
+    "source_artifact_id": "sp_copenhaver_magic_intro"
+  },
+  {
     "id": "bio-copenhaver",
     "entity_type": "scholar",
     "title": "Brian P. Copenhaver",
@@ -18,6 +45,24 @@
     "source_artifact_id": "note_copenhaver_profile_seed"
   },
   {
+    "id": "bio-wirszubski",
+    "entity_type": "scholar",
+    "title": "Chaim Wirszubski",
+    "subtitle": "Pico and Jewish mysticism",
+    "summary": "Wirszubski clarifies the sources, manuscripts, translations, and Christianizing shape of Pico's Kabbalah, making him essential for any serious portal treatment of Pico's Hebrew and Kabbalistic materials.",
+    "status": "DRAFT",
+    "source_artifact_id": "sp_wirszubski_kabbalah_opening"
+  },
+  {
+    "id": "bio-akopyan",
+    "entity_type": "scholar",
+    "title": "Ovanes Akopyan",
+    "subtitle": "Pico and astrology",
+    "summary": "Akopyan supplies the main structure for reading Pico's Disputationes, its prehistory, sources, natural philosophy, and pro/contra afterlife.",
+    "status": "DRAFT",
+    "source_artifact_id": "sp_akopyan_astrology_structure"
+  },
+  {
     "id": "bio-howlett",
     "entity_type": "scholar",
     "title": "Sophia Howlett",
@@ -25,6 +70,15 @@
     "summary": "Howlett re-enters Pico studies from Ficino studies and frames Pico as a contested site whose allure depends on the interplay of exceptionalism, Kabbalah, Aristotelianism, Platonism, and modern scholarly shifts away from an Oration-only Pico.",
     "status": "DRAFT",
     "source_artifact_id": "note_howlett_profile_seed"
+  },
+  {
+    "id": "bio-farmer",
+    "entity_type": "scholar",
+    "title": "Stephen A. Farmer",
+    "subtitle": "900 Theses and syncretic systems",
+    "summary": "Farmer restores the 900 Conclusions as a massive puzzle and oral-disputational project whose hidden connections structure Pico's Roman ambition.",
+    "status": "DRAFT",
+    "source_artifact_id": "sp_farmer_roman_debate"
   },
   {
     "id": "work-900",

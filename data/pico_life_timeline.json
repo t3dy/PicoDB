@@ -156,6 +156,19 @@
     "importance": 2
   },
   {
+    "id": "tl_064",
+    "start_date": "1482",
+    "end_date": null,
+    "date_label": "Autumn 1482",
+    "title": "Studies at Pavia",
+    "summary": "Howlett places Pico at Pavia University from autumn 1482 into 1483; Pavia is important for logic, mathematics, and scholastic philosophy.",
+    "location_id": "pavia",
+    "category": "education",
+    "evidence_status": "likely",
+    "source_note": "Howlett, Life and Works, extracted p. 24.",
+    "importance": 4
+  },
+  {
     "id": "tl_013",
     "start_date": "1483",
     "end_date": null,
@@ -221,6 +234,19 @@
     "importance": 4
   },
   {
+    "id": "tl_065",
+    "start_date": "1485",
+    "end_date": null,
+    "date_label": "Summer 1485",
+    "title": "Goes to Paris",
+    "summary": "Wirszubski notes that Pico went to Paris in summer 1485 and returned to Italy in March 1486.",
+    "location_id": "paris",
+    "category": "education",
+    "evidence_status": "likely",
+    "source_note": "Wirszubski, ch. 1, extracted p. 17.",
+    "importance": 4
+  },
+  {
     "id": "tl_018",
     "start_date": "1486",
     "end_date": null,
@@ -260,6 +286,71 @@
     "importance": 4
   },
   {
+    "id": "tl_066",
+    "start_date": "1486-03",
+    "end_date": null,
+    "date_label": "March 1486",
+    "title": "Returns from Paris to Italy",
+    "summary": "Pico returns to Italy from Paris, entering the decisive year of Arezzo, Perugia/La Fratta, Hebrew/Kabbalah study, and the 900 Conclusions.",
+    "location_id": "florence",
+    "category": "travel",
+    "evidence_status": "likely",
+    "source_note": "Wirszubski, ch. 1, extracted p. 17.",
+    "importance": 4
+  },
+  {
+    "id": "tl_067",
+    "start_date": "1486-05",
+    "end_date": null,
+    "date_label": "May 1486",
+    "title": "Arezzo abduction scandal",
+    "summary": "Howlett records Pico's attempt to abduct Margherita de' Medici at Arezzo, after which he was caught, she was rescued, and Pico was disgraced.",
+    "location_id": "arezzo",
+    "category": "trouble",
+    "evidence_status": "likely",
+    "source_note": "Howlett, Life and Works, extracted p. 27.",
+    "importance": 5
+  },
+  {
+    "id": "tl_068",
+    "start_date": "1486-07",
+    "end_date": null,
+    "date_label": "July 1486",
+    "title": "Elijah del Medigo joins Pico",
+    "summary": "Howlett notes that Pico's old teacher Elijah del Medigo came to him while he was preparing the debate project.",
+    "location_id": "perugia",
+    "category": "network",
+    "evidence_status": "likely",
+    "source_note": "Howlett, Life and Works, extracted p. 27.",
+    "importance": 3
+  },
+  {
+    "id": "tl_069",
+    "start_date": "1486-08",
+    "end_date": null,
+    "date_label": "Summer 1486",
+    "title": "Mithridates translations flow in",
+    "summary": "Wirszubski identifies summer 1486 as the period when Flavius Mithridates' Kabbalistic translations for Pico flowed in great profusion.",
+    "location_id": "la_frata",
+    "category": "translation",
+    "evidence_status": "likely",
+    "source_note": "Wirszubski, ch. 1, extracted pp. 17-18.",
+    "importance": 5
+  },
+  {
+    "id": "tl_070",
+    "start_date": "1486-10-15",
+    "end_date": null,
+    "date_label": "15 October 1486",
+    "title": "Pico at Perugia",
+    "summary": "Wirszubski uses a dated letter to Andrea Corneo to place Pico at Perugia on 15 October 1486.",
+    "location_id": "perugia",
+    "category": "travel",
+    "evidence_status": "verified",
+    "source_note": "Wirszubski, ch. 1, extracted p. 16.",
+    "importance": 4
+  },
+  {
     "id": "tl_021",
     "start_date": "1486-12",
     "end_date": null,
@@ -271,6 +362,19 @@
     "evidence_status": "likely",
     "source_note": "Copenhaver/Farmer to verify exact date.",
     "importance": 4
+  },
+  {
+    "id": "tl_071",
+    "start_date": "1486-12-07",
+    "end_date": null,
+    "date_label": "7 December 1486",
+    "title": "900 Theses printed in Rome",
+    "summary": "Farmer states that the text of the 900 Theses was printed by Eucharius Silber in Rome on 7 December 1486.",
+    "location_id": "rome",
+    "category": "publication",
+    "evidence_status": "verified",
+    "source_note": "Farmer, Roman Debate, extracted p. 21.",
+    "importance": 5
   },
   {
     "id": "tl_022",
@@ -401,6 +505,19 @@
     "evidence_status": "interpretive",
     "source_note": "Walden, pp. 2-3.",
     "importance": 4
+  },
+  {
+    "id": "tl_072",
+    "start_date": "1488",
+    "end_date": null,
+    "date_label": "1488",
+    "title": "Vincennes as royal-protective detention",
+    "summary": "Howlett reports that Pico was imprisoned at the royal palace of Vincennes, away from papal nuncios; this suggests detention under French royal protection as well as confinement.",
+    "location_id": "vincennes",
+    "category": "trouble",
+    "evidence_status": "likely",
+    "source_note": "Howlett, Life and Works, extracted p. 30.",
+    "importance": 5
   },
   {
     "id": "tl_032",

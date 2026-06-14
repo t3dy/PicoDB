@@ -70,6 +70,16 @@
     "evidence_status": "needs_review"
   },
   {
+    "id": "la_frata",
+    "name": "La Fratta",
+    "modern_country": "Italy",
+    "latitude": 43.167,
+    "longitude": 12.133,
+    "location_type": "retreat_site",
+    "pico_role": "Pico's country retreat near Perugia where he worked in autumn 1486 while preparing the Roman debate and studying languages/Kabbalah; coordinate approximate and needs review.",
+    "evidence_status": "needs_review"
+  },
+  {
     "id": "lyon",
     "name": "Lyon",
     "modern_country": "France",
@@ -78,6 +88,16 @@
     "location_type": "route_city",
     "pico_role": "Major France-Italy route node; included for map routing pending direct evidence.",
     "evidence_status": "needs_review"
+  },
+  {
+    "id": "milan",
+    "name": "Milan",
+    "modern_country": "Italy",
+    "latitude": 45.4642,
+    "longitude": 9.19,
+    "location_type": "power_network",
+    "pico_role": "Sforza/Visconti power network involved in Pico's diplomatic rescue after the French detention.",
+    "evidence_status": "likely"
   },
   {
     "id": "mirandola",

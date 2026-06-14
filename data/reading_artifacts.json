@@ -1,5 +1,41 @@
 [
   {
+    "id": "note_christian_kabbalah_seed",
+    "artifact_type": "concept_dossier",
+    "title": "Christian Kabbalah Seed",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\website_notes\\concepts\\christian_kabbalah_seed.md",
+    "document_id": null,
+    "target_entity": "christian_kabbalah_seed",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T00:04:36",
+    "updated_at": "2026-06-14T00:04:36"
+  },
+  {
+    "id": "note_pico_astrology_seed",
+    "artifact_type": "concept_dossier",
+    "title": "Pico Astrology Seed",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\website_notes\\concepts\\pico_astrology_seed.md",
+    "document_id": null,
+    "target_entity": "pico_astrology_seed",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T00:04:36",
+    "updated_at": "2026-06-14T00:04:36"
+  },
+  {
+    "id": "note_against_oration_only_pico",
+    "artifact_type": "historiography_node",
+    "title": "Against Oration Only Pico",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\website_notes\\historiography\\against_oration_only_pico.md",
+    "document_id": null,
+    "target_entity": "against_oration_only_pico",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T00:04:36",
+    "updated_at": "2026-06-14T00:04:36"
+  },
+  {
     "id": "note_conclusions_900_seed",
     "artifact_type": "pico_work_dossier",
     "title": "Conclusions 900 Seed",
@@ -82,6 +118,90 @@
     "evidence_status": "needs_review",
     "created_at": "2026-06-13T23:29:38",
     "updated_at": "2026-06-13T23:29:38"
+  },
+  {
+    "id": "sp_akopyan_astrology_structure",
+    "artifact_type": "source_packet",
+    "title": "Akopyan Astrology Structure",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\source_packets\\akopyan_astrology_structure.md",
+    "document_id": null,
+    "target_entity": "akopyan_astrology_structure",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T00:04:36",
+    "updated_at": "2026-06-14T00:04:36"
+  },
+  {
+    "id": "sp_copenhaver_magic_intro",
+    "artifact_type": "source_packet",
+    "title": "Copenhaver Magic Intro",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\source_packets\\copenhaver_magic_intro.md",
+    "document_id": null,
+    "target_entity": "copenhaver_magic_intro",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T00:04:36",
+    "updated_at": "2026-06-14T00:04:36"
+  },
+  {
+    "id": "sp_copenhaver_trial_intro",
+    "artifact_type": "source_packet",
+    "title": "Copenhaver Trial Intro",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\source_packets\\copenhaver_trial_intro.md",
+    "document_id": null,
+    "target_entity": "copenhaver_trial_intro",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T00:04:36",
+    "updated_at": "2026-06-14T00:04:36"
+  },
+  {
+    "id": "sp_farmer_roman_debate",
+    "artifact_type": "source_packet",
+    "title": "Farmer Roman Debate",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\source_packets\\farmer_roman_debate.md",
+    "document_id": null,
+    "target_entity": "farmer_roman_debate",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T00:04:36",
+    "updated_at": "2026-06-14T00:04:36"
+  },
+  {
+    "id": "sp_howlett_intro_life",
+    "artifact_type": "source_packet",
+    "title": "Howlett Intro Life",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\source_packets\\howlett_intro_life.md",
+    "document_id": null,
+    "target_entity": "howlett_intro_life",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T00:04:36",
+    "updated_at": "2026-06-14T00:04:36"
+  },
+  {
+    "id": "sp_wirszubski_kabbalah_opening",
+    "artifact_type": "source_packet",
+    "title": "Wirszubski Kabbalah Opening",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\source_packets\\wirszubski_kabbalah_opening.md",
+    "document_id": null,
+    "target_entity": "wirszubski_kabbalah_opening",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T00:04:36",
+    "updated_at": "2026-06-14T00:04:36"
+  },
+  {
+    "id": "note_pico_biography_pass002",
+    "artifact_type": "website_page",
+    "title": "Pico Biography Pass002",
+    "path": "C:\\Dev\\PicoDB\\artifacts\\website_notes\\biographies\\pico_biography_pass002.md",
+    "document_id": null,
+    "target_entity": "pico_biography_pass002",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T00:04:36",
+    "updated_at": "2026-06-14T00:04:36"
   },
   {
     "id": "note_pico_biography_seed",
