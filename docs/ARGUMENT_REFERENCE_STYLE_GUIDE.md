@@ -95,3 +95,8 @@ Always track references in these zones:
 - Renaissance network: Ficino, Poliziano, Lorenzo de' Medici, Benivieni, Savonarola, Gianfrancesco Pico.
 - Modern scholarship: Copenhaver, Farmer, Wirszubski, Kristeller, Howlett, Akopyan, Allen, Edelheit, Dougherty, Crofton Black.
 
+## Pass 005 Scholarly Values Overlay
+
+Every argument and reference summary must now name its governing scholarly values. Use Copenhaver for anti-mythic Oration/trial readings, Edelheit for scholastic source-tracing, Dougherty for corpus/genre/edition awareness, Howlett for three-pillar concord and exceptionalist ascent, Wirszubski for Kabbalistic source control, and Busi for Kabbalah as praxis, correspondence, and symbolic operation.
+
+For Kabbalah, magic, and hidden biblical wisdom, follow `docs/KABBALAH_READING_PROTOCOL.md` before promoting any claim above DRAFT.

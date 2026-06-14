@@ -27,6 +27,15 @@
     "source_artifact_id": "sp_akopyan_astrology_structure"
   },
   {
+    "id": "ficino-pico-dispute",
+    "entity_type": "essay",
+    "title": "Pico's Dispute with Ficino",
+    "subtitle": "Longform essay draft",
+    "summary": "A new longform essay seed frames the Pico-Ficino dispute through the Commento, On Being and Unity, Oration, 900 Conclusions, and Heptaplus.",
+    "status": "DRAFT",
+    "source_artifact_id": "essay_pico_ficino_dispute_draft"
+  },
+  {
     "id": "hist-oration-only",
     "entity_type": "historiography",
     "title": "Against the Oration-Only Pico",
@@ -45,6 +54,15 @@
     "source_artifact_id": "sp_farmer_disputationes_tampering"
   },
   {
+    "id": "values-allen",
+    "entity_type": "scholar",
+    "title": "Allen's Ficino-Pico Protocol",
+    "subtitle": "Contentious co-Platonism",
+    "summary": "Michael J. B. Allen now anchors the portal's treatment of Pico and Ficino: shared Platonism, pointed correction, textual concealment, and technical disputes over One, being, Mind, Soul, Ideas, and the Idea of Man.",
+    "status": "DRAFT",
+    "source_artifact_id": "profile_allen_values"
+  },
+  {
     "id": "bio-copenhaver",
     "entity_type": "scholar",
     "title": "Brian P. Copenhaver",
@@ -61,6 +79,42 @@
     "summary": "Wirszubski clarifies the sources, manuscripts, translations, and Christianizing shape of Pico's Kabbalah, making him essential for any serious portal treatment of Pico's Hebrew and Kabbalistic materials.",
     "status": "DRAFT",
     "source_artifact_id": "sp_wirszubski_kabbalah_opening"
+  },
+  {
+    "id": "values-copenhaver",
+    "entity_type": "scholar",
+    "title": "Copenhaver's Scholarly Values",
+    "subtitle": "Anti-myth, trial, technical danger",
+    "summary": "Copenhaver now anchors the portal's resistance to the modern dignity myth and its close attention to the Oration as a whole, the Apology, scholastic Latin, and heresy stakes.",
+    "status": "DRAFT",
+    "source_artifact_id": "profile_copenhaver_values"
+  },
+  {
+    "id": "values-dougherty",
+    "entity_type": "scholar",
+    "title": "Dougherty's Corpus Standard",
+    "subtitle": "Genre, editions, collaboration",
+    "summary": "Dougherty now supplies the corpus-wide discipline for PicoDB: every reading must know its genre, edition status, translation status, reception frame, and specialist needs.",
+    "status": "DRAFT",
+    "source_artifact_id": "profile_dougherty_values"
+  },
+  {
+    "id": "values-edelheit",
+    "entity_type": "scholar",
+    "title": "Edelheit's Scholastic Trace Method",
+    "subtitle": "Beyond reductive isms",
+    "summary": "Edelheit now governs the portal's scholastic-source tagging: Padua, Paris, teachers, school traditions, and the Renaissance scholasticism that keeps Pico from collapsing into a single label.",
+    "status": "DRAFT",
+    "source_artifact_id": "profile_edelheit_values"
+  },
+  {
+    "id": "values-howlett",
+    "entity_type": "scholar",
+    "title": "Howlett's Three-Pillar Re-evaluation",
+    "subtitle": "Aristotle, Plato, Kabbalah",
+    "summary": "Howlett now shapes readings of Pico as a coherent contested site where Aristotelianism, Platonism, and Jewish Kabbalism converge, succeed, and sometimes expose real differences.",
+    "status": "DRAFT",
+    "source_artifact_id": "profile_howlett_values"
   },
   {
     "id": "bio-akopyan",
@@ -88,6 +142,15 @@
     "summary": "Farmer restores the 900 Conclusions as a massive puzzle and oral-disputational project whose hidden connections structure Pico's Roman ambition.",
     "status": "DRAFT",
     "source_artifact_id": "sp_farmer_roman_debate"
+  },
+  {
+    "id": "protocol-busi-wirszubski",
+    "entity_type": "system",
+    "title": "Busi-Wirszubski Kabbalah Protocol",
+    "subtitle": "Source control plus praxis",
+    "summary": "PicoDB now has a Kabbalah protocol for Oration, 900 Conclusions, and Heptaplus readings: Wirszubski governs source precision, while Busi governs praxis, correspondences, and Mithridates' formative mediation.",
+    "status": "DRAFT",
+    "source_artifact_id": "concept_kabbalah_protocol_seed"
   },
   {
     "id": "system-section-style",
@@ -153,6 +216,15 @@
     "source_artifact_id": "sp_heptaplus_proems"
   },
   {
+    "id": "being-one-allen",
+    "entity_type": "work",
+    "title": "On Being and Unity: Ficino Controversy",
+    "subtitle": "Parmenides, Sophist, One",
+    "summary": "The On Being and Unity dossier now treats the work as both concordist metaphysics and a polemical correction of Ficino's Proclean Plato.",
+    "status": "DRAFT",
+    "source_artifact_id": "sec_being_one_002_allen_reread"
+  },
+  {
     "id": "work-being-one-primary",
     "entity_type": "work",
     "title": "On Being and the One",
@@ -178,5 +250,14 @@
     "summary": "The Oration's famous opening is a disciplined program of self-shaping, angelic imitation, philosophical purgation, and ascent to union with God.",
     "status": "DRAFT",
     "source_artifact_id": "sp_oration_opening_ascent"
+  },
+  {
+    "id": "oration-allen-metaphysics",
+    "entity_type": "work",
+    "title": "Oration: Indeterminate Adam",
+    "subtitle": "Philebus and Idea of Man",
+    "summary": "Allen's metaphysical reread turns the Oration opening from a modern freedom slogan into a Platonic problem of potentiality, form, whole-in-part logic, and Christological anthropology.",
+    "status": "DRAFT",
+    "source_artifact_id": "sec_oration_003_allen_metaphysics"
   }
 ]

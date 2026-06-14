@@ -114,3 +114,17 @@ A section summary can support a public website page only when:
 - Uncertainties are marked.
 - The summary says how the section contributes to larger PicoDB products.
 
+## Pass 005 Scholarly Values Overlay
+
+Each section summary must include a short Scholarly Values Overlay:
+
+- guide scholars applied;
+- myth or label being tested;
+- technical terms and source languages to check;
+- scholastic, Kabbalistic, Platonic, Aristotelian, magical, biblical, or juridical register;
+- concord outcome: success, failure, unresolved tension, or forced synthesis;
+- Kabbalah protocol fields when relevant.
+
+## Pass 006 Ficino-Pico Overlay
+
+When a section touches Ficino or Platonism, include: Ficino relation, Platonic dialogue source, Neoplatonic structure, Pico transformation, dispute status, edition/witness issue, Christian transformation, and concord outcome. See `docs/FICINO_PICO_READING_PROTOCOL.md`.

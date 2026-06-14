@@ -12,6 +12,18 @@
     "updated_at": "2026-06-14T00:04:36"
   },
   {
+    "id": "concept_kabbalah_protocol_seed",
+    "artifact_type": "concept_dossier",
+    "title": "Kabbalah Reading Protocol Seed",
+    "path": "artifacts/concepts/kabbalah_reading_protocol_seed.md",
+    "document_id": "Chaim_Wirszubski_Paul_Oskar_Kristeller_Pico_della_Mirandola_s_Encounter_with_Jewish_Mysticism_Ha_pdf_cd8c112f",
+    "target_entity": "Kabbalah reading protocol",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:24:53Z",
+    "updated_at": "2026-06-14T09:24:53Z"
+  },
+  {
     "id": "note_pico_astrology_seed",
     "artifact_type": "concept_dossier",
     "title": "Pico Astrology Seed",
@@ -34,6 +46,18 @@
     "evidence_status": "SOURCE_ANCHORED_DRAFT",
     "created_at": "2026-06-14T00:04:36",
     "updated_at": "2026-06-14T00:04:36"
+  },
+  {
+    "id": "hist_scholarly_values_matrix",
+    "artifact_type": "historiography_node",
+    "title": "Scholarly Values Matrix",
+    "path": "artifacts/historiography/scholarly_values_matrix.md",
+    "document_id": null,
+    "target_entity": "Pico studies methodology",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:24:53Z",
+    "updated_at": "2026-06-14T09:24:53Z"
   },
   {
     "id": "hist-textual-tampering",
@@ -144,6 +168,42 @@
     "updated_at": "2026-06-14T07:56:02Z"
   },
   {
+    "id": "profile_edelheit_values",
+    "artifact_type": "scholar_profile",
+    "title": "Amos Edelheit Values Profile",
+    "path": "artifacts/scholar_profiles/edelheit_values_profile.md",
+    "document_id": "Amos_Edelheit_Maynooth_University_-_A_Philosopher_at_the_Crossroads_Giovanni_Pico_Della_Mirandol_pdf_dd0f01e6",
+    "target_entity": "Amos Edelheit",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:24:53Z",
+    "updated_at": "2026-06-14T09:24:53Z"
+  },
+  {
+    "id": "profile_copenhaver_values",
+    "artifact_type": "scholar_profile",
+    "title": "Brian P. Copenhaver Values Profile",
+    "path": "artifacts/scholar_profiles/copenhaver_values_profile.md",
+    "document_id": "Brian_P_Copenhaver_Magic_and_the_Dignity_of_Man__Pico_della_Mirandola_and_His_Oration_in_Modern__pdf_f7f272e1",
+    "target_entity": "Brian P. Copenhaver",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:24:53Z",
+    "updated_at": "2026-06-14T09:24:53Z"
+  },
+  {
+    "id": "profile_wirszubski_values",
+    "artifact_type": "scholar_profile",
+    "title": "Chaim Wirszubski Values Profile",
+    "path": "artifacts/scholar_profiles/wirszubski_values_profile.md",
+    "document_id": "Chaim_Wirszubski_Paul_Oskar_Kristeller_Pico_della_Mirandola_s_Encounter_with_Jewish_Mysticism_Ha_pdf_cd8c112f",
+    "target_entity": "Chaim Wirszubski",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:24:53Z",
+    "updated_at": "2026-06-14T09:24:53Z"
+  },
+  {
     "id": "note_copenhaver_profile_seed",
     "artifact_type": "scholar_profile",
     "title": "Copenhaver Profile Seed",
@@ -154,6 +214,18 @@
     "evidence_status": "needs_review",
     "created_at": "2026-06-13T23:29:38",
     "updated_at": "2026-06-13T23:29:38"
+  },
+  {
+    "id": "profile_busi_values",
+    "artifact_type": "scholar_profile",
+    "title": "Giulio Busi Values Profile",
+    "path": "artifacts/scholar_profiles/busi_values_profile.md",
+    "document_id": "Giulio_Busi_Raphael_Ebgi_Giovanni_Pico_della_Mirandola_Mito_magia_Qabbalah_Einaudi_pdf_c382f352",
+    "target_entity": "Giulio Busi",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:24:53Z",
+    "updated_at": "2026-06-14T09:24:53Z"
   },
   {
     "id": "note_howlett_profile_seed",
@@ -168,6 +240,42 @@
     "updated_at": "2026-06-13T23:29:38"
   },
   {
+    "id": "profile_dougherty_values",
+    "artifact_type": "scholar_profile",
+    "title": "M. V. Dougherty Values Profile",
+    "path": "artifacts/scholar_profiles/dougherty_values_profile.md",
+    "document_id": "M_V_Dougherty_Pico_della_Mirandola__New_Essays_libgen_li_pdf_78172345",
+    "target_entity": "M. V. Dougherty",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:24:53Z",
+    "updated_at": "2026-06-14T09:24:53Z"
+  },
+  {
+    "id": "profile_allen_values",
+    "artifact_type": "scholar_profile",
+    "title": "Michael J. B. Allen Values Profile",
+    "path": "artifacts/scholar_profiles/allen_values_profile.md",
+    "document_id": "Studies_in_the_Platonism_of_Marsilio_Ficino_and_Giovanni_PicoMichael_J._B._AllenRoutledge1080299_epub_65585d05",
+    "target_entity": "Michael J. B. Allen",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:30:58Z",
+    "updated_at": "2026-06-14T09:30:58Z"
+  },
+  {
+    "id": "profile_howlett_values",
+    "artifact_type": "scholar_profile",
+    "title": "Sophia Howlett Values Profile",
+    "path": "artifacts/scholar_profiles/howlett_values_profile.md",
+    "document_id": "Critical_Political_Theory_and_Radical_Practice_Sophia_Howlett_-_Re-evaluating_Pico__Aristotelian_pdf_3c6c4fa3",
+    "target_entity": "Sophia Howlett",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:24:53Z",
+    "updated_at": "2026-06-14T09:24:53Z"
+  },
+  {
     "id": "note_walden_savonarola_profile_seed",
     "artifact_type": "scholar_profile",
     "title": "Walden Savonarola Profile Seed",
@@ -178,6 +286,18 @@
     "evidence_status": "needs_review",
     "created_at": "2026-06-13T23:29:38",
     "updated_at": "2026-06-13T23:29:38"
+  },
+  {
+    "id": "sec_conclusions_004_allen_metaphysics",
+    "artifact_type": "section_summary",
+    "title": "900 Conclusions 004: Allen-Farmer Metaphysics Reread",
+    "path": "artifacts/section_summaries/farmer/conclusions_004_allen_metaphysics.md",
+    "document_id": "Medieval_Renaissance_Texts_Studies_167_Stephen_A_Farmer_Giovanni_Pico_Della_Mirandola_Syncretism_pdf_c99b971b",
+    "target_entity": "900 Conclusions",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:30:58Z",
+    "updated_at": "2026-06-14T09:30:58Z"
   },
   {
     "id": "sec_farmer_003_substance_accident",
@@ -216,6 +336,18 @@
     "updated_at": "2026-06-14T09:15:23Z"
   },
   {
+    "id": "sec_being_one_002_allen_reread",
+    "artifact_type": "section_summary",
+    "title": "On Being and Unity 002: Allen-Ficino Reread",
+    "path": "artifacts/section_summaries/anthology/being_one_002_allen_reread.md",
+    "document_id": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776",
+    "target_entity": "On Being and Unity",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:30:58Z",
+    "updated_at": "2026-06-14T09:30:58Z"
+  },
+  {
     "id": "sec_being_one_001_concord_problem",
     "artifact_type": "section_summary",
     "title": "On Being and the One 001: Concord Problem and Plato",
@@ -252,6 +384,18 @@
     "updated_at": "2026-06-14T09:15:23Z"
   },
   {
+    "id": "sec_oration_003_allen_metaphysics",
+    "artifact_type": "section_summary",
+    "title": "Oration 003: Allen Metaphysics Reread",
+    "path": "artifacts/section_summaries/anthology/oration_003_allen_metaphysics.md",
+    "document_id": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776",
+    "target_entity": "Oration",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:30:58Z",
+    "updated_at": "2026-06-14T09:30:58Z"
+  },
+  {
     "id": "sp_akopyan_astrology_structure",
     "artifact_type": "source_packet",
     "title": "Akopyan Astrology Structure",
@@ -262,6 +406,54 @@
     "evidence_status": "SOURCE_ANCHORED_DRAFT",
     "created_at": "2026-06-14T00:04:36",
     "updated_at": "2026-06-14T00:04:36"
+  },
+  {
+    "id": "sp_allen_cultura_hominis",
+    "artifact_type": "source_packet",
+    "title": "Allen: Cultura Hominis",
+    "path": "artifacts/source_packets/allen_cultura_hominis.md",
+    "document_id": "Studies_in_the_Platonism_of_Marsilio_Ficino_and_Giovanni_PicoMichael_J._B._AllenRoutledge1080299_epub_65585d05",
+    "target_entity": "Oration and Heptaplus metaphysics",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:30:58Z",
+    "updated_at": "2026-06-14T09:30:58Z"
+  },
+  {
+    "id": "sp_allen_second_ficino_pico",
+    "artifact_type": "source_packet",
+    "title": "Allen: Second Ficino-Pico Controversy",
+    "path": "artifacts/source_packets/allen_second_ficino_pico_controversy.md",
+    "document_id": "Studies_in_the_Platonism_of_Marsilio_Ficino_and_Giovanni_PicoMichael_J._B._AllenRoutledge1080299_epub_65585d05",
+    "target_entity": "On Being and Unity",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:30:58Z",
+    "updated_at": "2026-06-14T09:30:58Z"
+  },
+  {
+    "id": "sp_allen_birth_day_venus",
+    "artifact_type": "source_packet",
+    "title": "Allen: The Birth Day of Venus",
+    "path": "artifacts/source_packets/allen_birth_day_venus.md",
+    "document_id": "M_V_Dougherty_Pico_della_Mirandola__New_Essays_libgen_li_pdf_78172345",
+    "target_entity": "Commento and Heptaplus",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:30:58Z",
+    "updated_at": "2026-06-14T09:30:58Z"
+  },
+  {
+    "id": "sp_busi_qabbalah_method",
+    "artifact_type": "source_packet",
+    "title": "Busi's Qabbalah Method",
+    "path": "artifacts/source_packets/busi_qabbalah_method.md",
+    "document_id": "Giulio_Busi_Raphael_Ebgi_Giovanni_Pico_della_Mirandola_Mito_magia_Qabbalah_Einaudi_pdf_c382f352",
+    "target_entity": "Kabbalah method",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:24:53Z",
+    "updated_at": "2026-06-14T09:24:53Z"
   },
   {
     "id": "sp_copenhaver_magic_intro",
@@ -286,6 +478,42 @@
     "evidence_status": "SOURCE_ANCHORED_DRAFT",
     "created_at": "2026-06-14T00:04:36",
     "updated_at": "2026-06-14T00:04:36"
+  },
+  {
+    "id": "sp_copenhaver_scholarly_values",
+    "artifact_type": "source_packet",
+    "title": "Copenhaver's Scholarly Values",
+    "path": "artifacts/source_packets/copenhaver_scholarly_values.md",
+    "document_id": "Brian_P_Copenhaver_Magic_and_the_Dignity_of_Man__Pico_della_Mirandola_and_His_Oration_in_Modern__pdf_f7f272e1",
+    "target_entity": "Copenhaver method",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:24:53Z",
+    "updated_at": "2026-06-14T09:24:53Z"
+  },
+  {
+    "id": "sp_dougherty_scholarly_values",
+    "artifact_type": "source_packet",
+    "title": "Dougherty's Scholarly Values",
+    "path": "artifacts/source_packets/dougherty_scholarly_values.md",
+    "document_id": "M_V_Dougherty_Pico_della_Mirandola__New_Essays_libgen_li_pdf_78172345",
+    "target_entity": "Dougherty method",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:24:53Z",
+    "updated_at": "2026-06-14T09:24:53Z"
+  },
+  {
+    "id": "sp_edelheit_scholarly_values",
+    "artifact_type": "source_packet",
+    "title": "Edelheit's Scholarly Values",
+    "path": "artifacts/source_packets/edelheit_scholarly_values.md",
+    "document_id": "Amos_Edelheit_Maynooth_University_-_A_Philosopher_at_the_Crossroads_Giovanni_Pico_Della_Mirandol_pdf_dd0f01e6",
+    "target_entity": "Edelheit method",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:24:53Z",
+    "updated_at": "2026-06-14T09:24:53Z"
   },
   {
     "id": "sp_farmer_deciphering_900",
@@ -360,6 +588,18 @@
     "updated_at": "2026-06-14T00:04:36"
   },
   {
+    "id": "sp_howlett_scholarly_values",
+    "artifact_type": "source_packet",
+    "title": "Howlett's Scholarly Values",
+    "path": "artifacts/source_packets/howlett_scholarly_values.md",
+    "document_id": "Critical_Political_Theory_and_Radical_Practice_Sophia_Howlett_-_Re-evaluating_Pico__Aristotelian_pdf_3c6c4fa3",
+    "target_entity": "Howlett method",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:24:53Z",
+    "updated_at": "2026-06-14T09:24:53Z"
+  },
+  {
     "id": "sp_on_being_one_opening",
     "artifact_type": "source_packet",
     "title": "On Being and the One Opening",
@@ -396,6 +636,18 @@
     "updated_at": "2026-06-14T00:04:36"
   },
   {
+    "id": "sp_wirszubski_kabbalah_method",
+    "artifact_type": "source_packet",
+    "title": "Wirszubski's Kabbalah Method",
+    "path": "artifacts/source_packets/wirszubski_kabbalah_method.md",
+    "document_id": "Chaim_Wirszubski_Paul_Oskar_Kristeller_Pico_della_Mirandola_s_Encounter_with_Jewish_Mysticism_Ha_pdf_cd8c112f",
+    "target_entity": "Kabbalah method",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T09:24:53Z",
+    "updated_at": "2026-06-14T09:24:53Z"
+  },
+  {
     "id": "note_pico_biography_pass002",
     "artifact_type": "website_page",
     "title": "Pico Biography Pass002",
@@ -418,5 +670,17 @@
     "evidence_status": "needs_review",
     "created_at": "2026-06-13T23:29:38",
     "updated_at": "2026-06-13T23:29:38"
+  },
+  {
+    "id": "essay_pico_ficino_dispute_draft",
+    "artifact_type": "website_page",
+    "title": "Pico's Dispute with Ficino Longform Draft",
+    "path": "artifacts/essays/pico_ficino_dispute_longform_draft.md",
+    "document_id": "Studies_in_the_Platonism_of_Marsilio_Ficino_and_Giovanni_PicoMichael_J._B._AllenRoutledge1080299_epub_65585d05",
+    "target_entity": "Pico-Ficino dispute",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T09:30:58Z",
+    "updated_at": "2026-06-14T09:30:58Z"
   }
 ]
