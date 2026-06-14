@@ -1,6 +1,6 @@
 {
   "id": "reading_artifact_ontology",
-  "version": "0.16.0",
+  "version": "0.17.0",
   "purpose": "Markup and writing ontology for turning systematic readings into website cards, pages, timelines, maps, and scholarly syntheses.",
   "artifact_types": [
     {
@@ -630,5 +630,37 @@
   ],
   "pico_primary_text_acquisition_queue": [
     "Expositio singularis in Orationem Dominicam / Pater Noster commentary: Latin witnesses and Benivieni vernacular translation"
+  ],
+  "revision_audit_fields": [
+    "affected_artifact",
+    "affected_theme",
+    "governing_scholar",
+    "new_source_anchor",
+    "required_new_artifact",
+    "revision_priority",
+    "stale_claim",
+    "status_after_revision",
+    "website_destination"
+  ],
+  "commento_benivieni_fields": [
+    "benivieni_mediation",
+    "commentary_independence",
+    "ficino_softening",
+    "poetic_occasion",
+    "posthumous_publication_frame",
+    "translation_witness_status",
+    "vernacular_translation"
+  ],
+  "priority_revision_queue": [
+    "missing_writings_status_correction",
+    "ficino_dispute_benivieni_pugliese_expansion",
+    "commento_section_summary_witness_matrix",
+    "biography_benivieni_pater_noster_update",
+    "astrology_benivieni_disputationes_update",
+    "platonism_aristotelianism_commento_update",
+    "kabbalah_benivieni_reception_update",
+    "heptaplus_pater_noster_adjacent_exegesis_update",
+    "scholar_profile_expansion",
+    "900_conclusions_thesis_tables"
   ]
 }

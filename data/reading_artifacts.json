@@ -108,6 +108,18 @@
     "updated_at": "2026-06-14T10:29:48Z"
   },
   {
+    "id": "audit_pico_writing_update_pass018",
+    "artifact_type": "editorial_audit",
+    "title": "Writing Audit After Commento, Jayne, Translation, and Pugliese Passes",
+    "path": "artifacts/audits/pico_writing_update_audit_pass018.md",
+    "document_id": null,
+    "target_entity": "PicoDB writing system",
+    "status": "ACTIONABLE_AUDIT",
+    "evidence_status": "high",
+    "created_at": "2026-06-14T20:47:41Z",
+    "updated_at": "2026-06-14T20:47:41Z"
+  },
+  {
     "id": "note_against_oration_only_pico",
     "artifact_type": "historiography_node",
     "title": "Against Oration Only Pico",
@@ -394,6 +406,18 @@
     "evidence_status": "likely",
     "created_at": "2026-06-14T09:30:58Z",
     "updated_at": "2026-06-14T09:30:58Z"
+  },
+  {
+    "id": "profile_olga_zorzi_pugliese_pass018",
+    "artifact_type": "scholar_profile",
+    "title": "Olga Zorzi Pugliese",
+    "path": "artifacts/scholar_profiles/olga_zorzi_pugliese_profile_pass018.md",
+    "document_id": "BibliothÃ¨que_d_Humanisme_et_Renaissance_vol_65_iss_2_Olga_Zorzi_Pugliese_GIROLAMO_BENIVIENI_AMIC_pdf_80f46aa9",
+    "target_entity": "Pugliese",
+    "status": "SOURCE_ANCHORED_DRAFT",
+    "evidence_status": "high",
+    "created_at": "2026-06-14T20:47:41Z",
+    "updated_at": "2026-06-14T20:47:41Z"
   },
   {
     "id": "profile_howlett_values",

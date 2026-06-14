@@ -81,6 +81,15 @@
     "source_artifact_id": "sp_akopyan_astrology_structure"
   },
   {
+    "id": "audit-pico-writing-update-pass018",
+    "entity_type": "editorial_audit",
+    "title": "PicoDB Writing Audit",
+    "subtitle": "What the latest passes add",
+    "summary": "An actionable audit maps Commento, Jayne, translation, and Pugliese findings onto every major essay, summary, profile, and source gap.",
+    "status": "DRAFT",
+    "source_artifact_id": "audit_pico_writing_update_pass018"
+  },
+  {
     "id": "essay-being-unity-aquinas-dionysius",
     "entity_type": "essay",
     "title": "Aquinas and Dionysius",
@@ -367,6 +376,15 @@
     "summary": "Farmer restores the 900 Conclusions as a massive puzzle and oral-disputational project whose hidden connections structure Pico's Roman ambition.",
     "status": "DRAFT",
     "source_artifact_id": "sp_farmer_roman_debate"
+  },
+  {
+    "id": "profile-olga-zorzi-pugliese-pass018",
+    "entity_type": "scholar_profile",
+    "title": "Olga Zorzi Pugliese",
+    "subtitle": "Benivieni and transmission",
+    "summary": "Pugliese becomes the guide scholar for Benivieni as collaborator, translator, Commento mediator, and Pater Noster source-gap witness.",
+    "status": "DRAFT",
+    "source_artifact_id": "profile_olga_zorzi_pugliese_pass018"
   },
   {
     "id": "source-pico-biography-gaps",

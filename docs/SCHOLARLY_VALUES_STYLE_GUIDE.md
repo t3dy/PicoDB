@@ -47,3 +47,9 @@ Every Pico primary-text section summary must now include a **Scholarly Values Ov
 Add Allen as the guide scholar for Pico's relationship to Ficino. Use him whenever a passage involves Ficino, Platonic exegesis, the Commento, On Being and Unity, the Idea of Man, poetic theology, or Neoplatonic structures behind the Oration, 900 Conclusions, and Heptaplus.
 
 Allen's core warning: do not reduce Pico to Ficino's disciple, Ficino's enemy, or a non-Platonic scholastic. Pico is a contentious co-Platonist who uses Ficino's recovered Plato and then revises it.
+
+## Pass 018 Revision-Audit Overlay
+
+Every major new reading pass must now ask what existing writing it changes. Record stale claims, newly anchored claims, affected essays, affected scholar profiles, required section-summary updates, and website destinations. A source packet is incomplete if it does not tell us which earlier essays, summaries, profiles, or source gaps should be revised.
+
+Add Olga Zorzi Pugliese as the guide scholar for Benivieni as collaborator, vernacular translator, Commento mediator, and Pater Noster source-gap witness. Use her with Allen for the Ficino softening problem, with Dougherty for corpus/edition awareness, and with biography work for late Florentine reception.

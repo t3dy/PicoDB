@@ -325,6 +325,45 @@
     "notes": "Pass 010."
   },
   {
+    "id": "claim_audit_018_001",
+    "artifact_id": "audit_pico_writing_update_pass018",
+    "document_id": null,
+    "claim_text": "PicoDB's missing-writings essay must be corrected because the Commento is now acquired in a controlled Italian witness and the Pater Noster commentary is the stronger new acquisition priority.",
+    "claim_type": "editorial",
+    "theme": "source gaps",
+    "target_entity": "Pico writings queue",
+    "evidence_page": "Pass 018 audit",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": "Derived from passes 014-017."
+  },
+  {
+    "id": "claim_audit_018_002",
+    "artifact_id": "audit_pico_writing_update_pass018",
+    "document_id": "BibliothÃ¨que_d_Humanisme_et_Renaissance_vol_65_iss_2_Olga_Zorzi_Pugliese_GIROLAMO_BENIVIENI_AMIC_pdf_80f46aa9",
+    "claim_text": "The Ficino dispute essay should add a Pugliese-Allen synthesis because Benivieni's mediation and softening of the Commento confirms that Pico-Ficino conflict was partly reshaped in transmission.",
+    "claim_type": "editorial",
+    "theme": "Ficino",
+    "target_entity": "Ficino dispute essay",
+    "evidence_page": "Pass 018 audit",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": "Derived from Allen and Pugliese artifacts."
+  },
+  {
+    "id": "claim_audit_018_003",
+    "artifact_id": "audit_pico_writing_update_pass018",
+    "document_id": "BibliothÃ¨que_d_Humanisme_et_Renaissance_vol_65_iss_2_Olga_Zorzi_Pugliese_GIROLAMO_BENIVIENI_AMIC_pdf_80f46aa9",
+    "claim_text": "Benivieni must be added to the biography as collaborator, posthumous mediator, vernacular translator, and reception agent rather than only as the poet whose canzone Pico commented on.",
+    "claim_type": "editorial",
+    "theme": "biography",
+    "target_entity": "Pico biography",
+    "evidence_page": "Pass 018 audit",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": "Derived from Pugliese pass 017."
+  },
+  {
     "id": "claim_being_001",
     "artifact_id": "sp_on_being_one_opening",
     "document_id": "Heptaplus_Pico_della_Mirandola_On_the_Dignity_of_Man_Being_and_One_pdf_29945776",
@@ -1441,6 +1480,19 @@
     "confidence": "high",
     "review_status": "DRAFT",
     "notes": ""
+  },
+  {
+    "id": "claim_profile_pugliese_018_001",
+    "artifact_id": "profile_olga_zorzi_pugliese_pass018",
+    "document_id": "BibliothÃ¨que_d_Humanisme_et_Renaissance_vol_65_iss_2_Olga_Zorzi_Pugliese_GIROLAMO_BENIVIENI_AMIC_pdf_80f46aa9",
+    "claim_text": "Pugliese's main PicoDB value is transmission-centered: she makes Benivieni visible as collaborator, translator, mediator, and possible reviser of Pico-related texts.",
+    "claim_type": "historiographical",
+    "theme": "scholar profile",
+    "target_entity": "Pugliese",
+    "evidence_page": "Pass 018 profile",
+    "confidence": "high",
+    "review_status": "DRAFT",
+    "notes": "Profile synthesis from pass 017."
   },
   {
     "id": "claim_protocol_001",

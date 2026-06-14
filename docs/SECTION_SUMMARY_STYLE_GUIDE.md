@@ -166,3 +166,7 @@ When translating the Commento, keep translation, summary, and collation separate
 ## Pass 017 Pugliese Commento Transmission Overlay
 
 When summarizing Commento passages involving Ficino, love theory, Venus, beauty, Mind, or the canzone/commentary relation, mark whether the point depends on Pico's own argument, Benivieni's poetic pretext, later Benivieni mediation, or a softened publication frame. Use Pugliese with Allen for transmission cautions.
+
+## Pass 018 Audit-to-Revision Rule
+
+Every section summary should include an `Updates Existing Writing` note when a passage changes a prior essay, scholar profile, source gap, timeline event, or website page. This keeps close reading tied to the writing system instead of producing isolated notes.
