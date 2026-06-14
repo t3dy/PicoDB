@@ -34,3 +34,14 @@
 
 - Status: `primary_loci_identified_passage_table_needed`
 - Reason: Oration and Heptaplus primary passages are locally available, and Farmer/Wirszubski/Black/Copenhaver/Allen give strong scholarly controls. The project still needs a thesis-by-thesis angelology table for the 900 Conclusions, especially for Michael, Metatron, mundane angels, six-winged angels, Dionysian hierarchy, first created mind, angelic intellect, and Arabic Active Intellect/conjunction claims.
+
+## Opera Reviews Pass 012 Gap Update
+
+- `Basel 1557/1573 Opera Omnia`: `early_print_reprint_needed_for_corpus_control`; useful long-used Opera witness, but incomplete and not a substitute for critical editions.
+- `Bologna 1496 posthumous collection`: `early_print_needed`; needed for Gianfrancesco's corpus-making and posthumous Pico.
+- `Commento sopra una canzone d'amore`: `high_priority_full_primary_text_and_witness_control`; needed for Ficino dispute, poetic theology, love, Venus, Mind, and suppression/recovery history.
+- `Disputationes adversus astrologiam divinatricem`: `high_priority_full_primary_text`; scholarship is strong, but primary-text and posthumous-edition control remain inadequate.
+- `De imaginatione`: `not_identified_high_priority`; needed for imagination, magic, psychology, images, and Ficinian boundary questions.
+- `Carmina latina / Latin poems`: `partial_secondary_and_review_control_manuscripts_needed`; Speyer/Kristeller and manuscript witnesses must be mapped poem by poem.
+- `Lettere`: `primary_present_letter_by_letter_summary_needed`; use Borghesi edition for chronology, network, works, and biographical claims.
+- `Gianfrancesco Vita and Thomas More Life`: `reception_witnesses_needed`; needed for saintly Pico, Anglophone reception, and corpus formation.

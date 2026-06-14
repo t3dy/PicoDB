@@ -1,6 +1,6 @@
 {
   "id": "reading_artifact_ontology",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "purpose": "Markup and writing ontology for turning systematic readings into website cards, pages, timelines, maps, and scholarly syntheses.",
   "artifact_types": [
     {
@@ -285,6 +285,23 @@
       "angelic_mind",
       "correlative_hierarchy",
       "first_created_mind"
+    ],
+    "Garin": [
+      "concord_as_dialogue",
+      "critical_editions",
+      "historical_context",
+      "opera_e_pensiero"
+    ],
+    "Kristeller": [
+      "humanist_sources",
+      "latin_poems",
+      "manuscript_lists",
+      "source_survey"
+    ],
+    "Speyer": [
+      "carmina_latina",
+      "poem_witnesses",
+      "poetic_collection_structure"
     ]
   },
   "kabbalah_reading_fields": [
@@ -476,5 +493,40 @@
     "Copenhaver": "oration_angelic_transformation_and_dionysian_darkness",
     "Edelheit": "scholastic_theological_controls",
     "Salas": "thomistic_being_unity_and_created_intellect"
-  }
+  },
+  "primary_text_acquisition_fields": [
+    "work_title",
+    "genre",
+    "current_access_status",
+    "edition_priority",
+    "reason_needed",
+    "known_witness_or_edition",
+    "next_action",
+    "scholar_governor",
+    "risk",
+    "confidence"
+  ],
+  "primary_text_access_statuses": [
+    "full_primary",
+    "partial_primary",
+    "anthology_excerpt",
+    "secondary_only",
+    "review_only",
+    "early_print_needed",
+    "manuscript_needed",
+    "not_identified",
+    "section_summary_needed"
+  ],
+  "missing_writings_priority_queue": [
+    "Basel_1557_1573_Opera_Omnia",
+    "Bologna_1496_posthumous_collection",
+    "Commento_on_Benivieni",
+    "Disputationes_adversus_astrologiam_divinatricem",
+    "De_imaginatione",
+    "Carmina_latina_and_poem_witnesses",
+    "Lettere_letter_by_letter",
+    "Apologia_condemned_theses",
+    "Gianfrancesco_Vita_and_More_Life",
+    "source_ecology_Averroes_Recanati_Lull_Cusa_Chaldean_Orphic"
+  ]
 }

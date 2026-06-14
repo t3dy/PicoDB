@@ -146,3 +146,7 @@ When summarizing astrology passages, identify the astrology register, attitude s
 ## Pass 011 Angelology Overlay
 
 When summarizing angelology passages, identify the angelology register, source family, authority named, metaphysical level, function in the argument, transformation status, and textual risk. Do not use "angelology" as a naked tag. Separate angelic imitation, angelic hierarchy, angelic/intellectual world, angelic mind, Kabbalistic angels, Arabic intellect, Ficinian/Neoplatonic mediation, Thomistic separate substances, Christological access, and demonic boundary questions. See `docs/ANGELOLOGY_READING_PROTOCOL.md`.
+
+## Pass 012 Corpus-Control Overlay
+
+When summarizing reviews, editions, or source surveys, extract every work-title, edition, manuscript witness, early print, reception text, and source-family clue. Mark whether the passage changes access status, edition priority, source ecology, or corpus-formation risk. See `docs/PICO_PRIMARY_TEXT_ACQUISITION_PROTOCOL.md`.

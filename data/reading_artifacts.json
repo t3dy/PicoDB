@@ -48,6 +48,18 @@
     "updated_at": "2026-06-14T00:04:36"
   },
   {
+    "id": "concept_pico_missing_writings_taxonomy",
+    "artifact_type": "concept_dossier",
+    "title": "Pico Missing Writings Taxonomy",
+    "path": "artifacts/concepts/pico_missing_writings_taxonomy_pass012.md",
+    "document_id": "Renaissance_Quarterly_vol._20_iss._1_L_and__039_Opera_e_il_pensiero_di_Giovanni_Pico_della_Miran_pdf_f27cfe43",
+    "target_entity": "Pico missing writings",
+    "status": "SOURCE_ANCHORED_DRAFT",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T10:48:56Z",
+    "updated_at": "2026-06-14T10:48:56Z"
+  },
+  {
     "id": "concept_pico_astrology_taxonomy",
     "artifact_type": "concept_dossier",
     "title": "Pico and Astrology Taxonomy",
@@ -468,6 +480,18 @@
     "updated_at": "2026-06-14T09:15:23Z"
   },
   {
+    "id": "summary_opera_reviews_pass012",
+    "artifact_type": "section_summary",
+    "title": "Opera Reviews Section Summaries",
+    "path": "artifacts/section_summaries/opera_reviews/opera_reviews_section_summaries_pass012.md",
+    "document_id": "Romanische_Forschungen_vol._78_iss._1_Carmina_latinaby_Giovanni_Pico_Della_Mirandola__Wolfgang_S_pdf_27cec604",
+    "target_entity": "Pico Opera reviews",
+    "status": "SOURCE_ANCHORED_DRAFT",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T10:48:56Z",
+    "updated_at": "2026-06-14T10:48:56Z"
+  },
+  {
     "id": "sec_oration_001_wonder_indeterminacy",
     "artifact_type": "section_summary",
     "title": "Oration 001: Wonder and Human Indeterminacy",
@@ -756,6 +780,18 @@
     "updated_at": "2026-06-14T07:56:02Z"
   },
   {
+    "id": "source_opera_reviews_pass012",
+    "artifact_type": "source_packet",
+    "title": "Opera Reviews Pass 012 Source Packet",
+    "path": "artifacts/source_packets/opera_reviews_pass012_source_packet.md",
+    "document_id": "Mediaevistik_vol._20_Giovanni_Pico_della_Mirandola_Gian_Francesco_Pico_Opera_Omniaby_Cesare_Vaso_pdf_70455a35",
+    "target_entity": "Pico Opera reviews",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T10:48:56Z",
+    "updated_at": "2026-06-14T10:48:56Z"
+  },
+  {
     "id": "sp_oration_opening_ascent",
     "artifact_type": "source_packet",
     "title": "Oration Opening and Ascent Sequence",
@@ -886,6 +922,18 @@
     "evidence_status": "needs_review",
     "created_at": "2026-06-13T23:29:38",
     "updated_at": "2026-06-13T23:29:38"
+  },
+  {
+    "id": "essay_pico_missing_writings_next_steps",
+    "artifact_type": "website_page",
+    "title": "Pico Writings We Still Need",
+    "path": "artifacts/essays/pico_missing_writings_next_steps_draft.md",
+    "document_id": "Mediaevistik_vol._20_Giovanni_Pico_della_Mirandola_Gian_Francesco_Pico_Opera_Omniaby_Cesare_Vaso_pdf_70455a35",
+    "target_entity": "Pico missing writings",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T10:48:56Z",
+    "updated_at": "2026-06-14T10:48:56Z"
   },
   {
     "id": "essay_pico_astrology_synthesis",

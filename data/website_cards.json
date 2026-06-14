@@ -36,6 +36,15 @@
     "source_artifact_id": "sp_wirszubski_kabbalah_opening"
   },
   {
+    "id": "concept-pico-missing-writings",
+    "entity_type": "concept",
+    "title": "Missing Writings Taxonomy",
+    "subtitle": "Primary access versus corpus control",
+    "summary": "PicoDB now separates full primary text, partial primary text, secondary-rich gaps, review-only evidence, early-print needs, manuscript needs, and reception witnesses.",
+    "status": "DRAFT",
+    "source_artifact_id": "concept_pico_missing_writings_taxonomy"
+  },
+  {
     "id": "concept-astrology",
     "entity_type": "concept",
     "title": "Pico and Astrology",
@@ -106,6 +115,15 @@
     "summary": "A new biographical essay treats Pico as a mobile noble scholar whose family privilege, universities, Florentine networks, Kabbalah infrastructure, Roman trial, French detention, and late Savonarolan proximity must be read together.",
     "status": "DRAFT",
     "source_artifact_id": "essay_pico_biography_scholar_synthesis"
+  },
+  {
+    "id": "essay-pico-missing-writings",
+    "entity_type": "essay",
+    "title": "Pico Writings We Still Need",
+    "subtitle": "Next primary-text acquisitions",
+    "summary": "A new essay uses Opera reviews to prioritize missing or undercontrolled Pico writings: Basel Opera, Commento, Disputationes, De imaginatione, Carmina, letters, Apologia, Vita/More, and source ecology texts.",
+    "status": "DRAFT",
+    "source_artifact_id": "essay_pico_missing_writings_next_steps"
   },
   {
     "id": "essay-pico-astrology",
@@ -349,6 +367,15 @@
     "summary": "A source packet maps Black's chapter structure and makes it the control frame for future section summaries of Pico's Heptaplus.",
     "status": "DRAFT",
     "source_artifact_id": "source_black_heptaplus_structure"
+  },
+  {
+    "id": "source-opera-reviews-pass012",
+    "entity_type": "source_packet",
+    "title": "Opera Reviews Source Packet",
+    "subtitle": "Six new reviews ingested",
+    "summary": "The pass 012 source packet records reviews of the Basel Opera Omnia, Speyer's Carmina latina, and the Mirandola congress volumes.",
+    "status": "DRAFT",
+    "source_artifact_id": "source_opera_reviews_pass012"
   },
   {
     "id": "protocol-busi-wirszubski",
