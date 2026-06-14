@@ -1018,6 +1018,46 @@
       ]
     },
     {
+      "id": "Sixteenth_Century_Journal_2008-oct_01_vol._39_iss._3_Pico_and__039_s_Heptaplus_and_Biblical_Herm_pdf_22679f7f",
+      "title": "Pico's Heptaplus and Biblical Hermeneutics by Crofton Black",
+      "source_file": "[Sixteenth Century Journal 2008-oct 01 vol. 39 iss. 3] Pico&_039_s Heptaplus and Biblical Hermeneuticsby Crofton Black{Review by_ Jon Balserak}(2008 October 01)[10.2307_20479021]{33968679} libgen.li.pdf",
+      "markdown_path": "C:\\Dev\\PicoDB\\Markdown\\Sixteenth_Century_Journal_2008-oct_01_vol._39_iss._3_Pico_and__039_s_Heptaplus_and_Biblical_Herm_pdf_22679f7f.md",
+      "document_type": "review",
+      "page_count": 3,
+      "word_count": 1119,
+      "duplicate_of": null,
+      "themes": [
+        "kabbalah",
+        "platonism",
+        "aristotelianism",
+        "philology",
+        "theology"
+      ],
+      "pico_works_discussed": [
+        "Heptaplus"
+      ]
+    },
+    {
+      "id": "The_Journal_of_Ecclesiastical_History_2008-oct_17_vol._59_iss._4_Pico_and__039_s_Heptaplus_and_b_pdf_29364950",
+      "title": "Pico's Heptaplus and biblical hermeneutics. By Crofton Black. (Studies in Medieval and Reformation Traditions. History, Culture, Religion, Ideas, 116.) Pp. xiii+270. Leiden–Boston: Brill, 2006. €103. 13 978 90 04 15315 8; 10 90 04 15315 2; 1573 4188",
+      "source_file": "[The Journal of Ecclesiastical History 2008-oct 17 vol. 59 iss. 4] Pico&_039_s Heptaplus and biblical hermeneutics. By Crofton Black. (Studies in Medieval and Reformatio...{Aranoff, Deena}(2008 October 17)[10.1017_S00.pdf",
+      "markdown_path": "C:\\Dev\\PicoDB\\Markdown\\The_Journal_of_Ecclesiastical_History_2008-oct_17_vol._59_iss._4_Pico_and__039_s_Heptaplus_and_b_pdf_29364950.md",
+      "document_type": "primary_or_edition",
+      "page_count": 3,
+      "word_count": 1220,
+      "duplicate_of": null,
+      "themes": [
+        "kabbalah",
+        "magic",
+        "platonism",
+        "philology",
+        "theology"
+      ],
+      "pico_works_discussed": [
+        "Heptaplus"
+      ]
+    },
+    {
       "id": "Journal_of_Forensic_and_Legal_Medicine_2018_may_vol_56_Gallello_Gianni__Cilli_Elisabetta__Bartol_pdf_0ccfcb8c",
       "title": "Poisoning histories in the Italian renaissance: The case of Pico Della Mirandola and Angelo Poliziano",
       "source_file": "Journal of Forensic and Legal Medicine 2018 may vol 56 Gallello Gianni_ Cilli Elisabetta_ Bartoli Fulvio_ Andretta Poisoning histories in the Italian renaissance_ The case of Pico Della Mirandola and Angelo P.pdf",
@@ -1114,6 +1154,27 @@
       ],
       "pico_works_discussed": [
         "900 Theses / Conclusiones",
+        "Heptaplus",
+        "Commento / Commentary on Benivieni's Canzone"
+      ]
+    },
+    {
+      "id": "Studies_in_Medieval_and_Reformation_Traditions_66_Crofton_Black_-_Picos_Heptaplus_and_Biblical_H_pdf_98e6bcc6",
+      "title": "SMRT-116-black.qxd",
+      "source_file": "[Studies in Medieval and Reformation Traditions 66] Crofton Black - Pico's Heptaplus and Biblical Hermeneutics (2006, BRILL) - libgen.li.pdf",
+      "markdown_path": "C:\\Dev\\PicoDB\\Markdown\\Studies_in_Medieval_and_Reformation_Traditions_66_Crofton_Black_-_Picos_Heptaplus_and_Biblical_H_pdf_98e6bcc6.md",
+      "document_type": "primary_or_edition",
+      "page_count": 285,
+      "word_count": 123140,
+      "duplicate_of": null,
+      "themes": [
+        "kabbalah",
+        "platonism",
+        "philology",
+        "theology"
+      ],
+      "pico_works_discussed": [
+        "Apologia",
         "Heptaplus",
         "Commento / Commentary on Benivieni's Canzone"
       ]
@@ -1254,6 +1315,28 @@
       "document_type": "book",
       "page_count": 312,
       "word_count": 158747,
+      "duplicate_of": null,
+      "themes": [
+        "magic",
+        "platonism",
+        "concord",
+        "philology",
+        "theology",
+        "historiography"
+      ],
+      "pico_works_discussed": [
+        "Heptaplus",
+        "Commento / Commentary on Benivieni's Canzone"
+      ]
+    },
+    {
+      "id": "Studies_in_the_Platonism_of_Marsilio_Ficino_and_Giovanni_PicoMichael_J._B._AllenRoutledge1080299_epub_65585d05",
+      "title": "Studies in the Platonism of Marsilio Ficino and Giovanni Pico",
+      "source_file": "Studies in the Platonism of Marsilio Ficino and Giovanni Pico{Michael J. B. Allen}(Routledge){108029946} libgen.li.epub",
+      "markdown_path": "C:\\Dev\\PicoDB\\Markdown\\Studies_in_the_Platonism_of_Marsilio_Ficino_and_Giovanni_PicoMichael_J._B._AllenRoutledge1080299_epub_65585d05.md",
+      "document_type": "primary_or_edition",
+      "page_count": 28,
+      "word_count": 160429,
       "duplicate_of": null,
       "themes": [
         "magic",

@@ -27,6 +27,60 @@
     "source_artifact_id": "sp_akopyan_astrology_structure"
   },
   {
+    "id": "essay-being-unity-aquinas-dionysius",
+    "entity_type": "essay",
+    "title": "Aquinas and Dionysius",
+    "subtitle": "On Being and Unity",
+    "summary": "A new essay seed frames On Being and Unity as Pico's Christian metaphysical control of Ficinian-Proclean transcendence through Aquinas and Dionysius.",
+    "status": "DRAFT",
+    "source_artifact_id": "essay_being_unity_aquinas_dionysius"
+  },
+  {
+    "id": "essay-arab-intellect",
+    "entity_type": "essay",
+    "title": "Arabic Intellect Tradition",
+    "subtitle": "Felicitas and ascent",
+    "summary": "A new essay seed follows Black's path from Averroes, Avicenna, Al-Farabi, Ibn Bajja, and Maimonides into Pico's Heptaplus and 900 Conclusions.",
+    "status": "DRAFT",
+    "source_artifact_id": "essay_pico_arab_intellect_felicitas"
+  },
+  {
+    "id": "essay-dionysian-anagogy",
+    "entity_type": "essay",
+    "title": "Dionysian Anagogy",
+    "subtitle": "Hierarchy, symbols, ascent",
+    "summary": "A new essay seed treats Pseudo-Dionysius as a bridge between Platonism, Christian theology, biblical hermeneutics, and Pico's ascent model.",
+    "status": "DRAFT",
+    "source_artifact_id": "essay_pico_dionysian_anagogy"
+  },
+  {
+    "id": "essay-heptaplus-after-oration",
+    "entity_type": "essay",
+    "title": "Heptaplus After the Oration",
+    "subtitle": "Post-trial recoding",
+    "summary": "A new essay seed reads the Heptaplus as Pico's post-Oration recoding of concord, ascent, Kabbalah, and source density through Genesis.",
+    "status": "DRAFT",
+    "source_artifact_id": "essay_heptaplus_after_oration"
+  },
+  {
+    "id": "essay-heptaplus-black",
+    "entity_type": "essay",
+    "title": "Heptaplus and Hermeneutics",
+    "subtitle": "Black-guided essay draft",
+    "summary": "The updated Heptaplus essay reads Genesis as a structured anagogical system involving Aquinas, Dionysius, Arabic intellect theory, Jewish exegesis, Kabbalah, and the 900 Conclusions.",
+    "status": "DRAFT",
+    "source_artifact_id": "essay_heptaplus_black_biblical_hermeneutics"
+  },
+  {
+    "id": "essay-900-source-networks",
+    "entity_type": "essay",
+    "title": "Neoplatonists and Arabs",
+    "subtitle": "Source networks in the 900",
+    "summary": "A new essay seed maps Proclus, Iamblichus, Pseudo-Dionysius, Averroes, Avicenna, Al-Farabi, and Ibn Bajja as structured source fields in the 900 Conclusions.",
+    "status": "DRAFT",
+    "source_artifact_id": "essay_900_neoplatonist_arab_authors"
+  },
+  {
     "id": "essay-pico-biography-synthesis",
     "entity_type": "essay",
     "title": "Pico Biography",
@@ -52,6 +106,24 @@
     "summary": "A new longform essay seed synthesizes Wirszubski, Busi, Copenhaver, Farmer, Howlett, Edelheit, Dougherty, and Allen into a working account of Pico's Kabbalah as source tradition, praxis, apologetics, magic, thesis system, and historiographical problem.",
     "status": "DRAFT",
     "source_artifact_id": "essay_pico_kabbalah_synthesis_draft"
+  },
+  {
+    "id": "essay-900-own-opinion",
+    "entity_type": "essay",
+    "title": "Pico's Own-Opinion Theses",
+    "subtitle": "The 900 as Pico's architecture",
+    "summary": "A new essay seed starts a table-driven project for all theses secundum opinionem propriam, tracking source family, doctrine, transformation, danger, and cross-links.",
+    "status": "DRAFT",
+    "source_artifact_id": "essay_900_own_opinion_theses"
+  },
+  {
+    "id": "essay-plato-aristotle-concord",
+    "entity_type": "essay",
+    "title": "Plato and Aristotle in Pico",
+    "subtitle": "Concord as controlled instability",
+    "summary": "A new essay seed treats Pico's concord as a method of testing, correcting, and hierarchizing Aristotle and Plato rather than as easy harmony.",
+    "status": "DRAFT",
+    "source_artifact_id": "essay_pico_plato_aristotle_concord"
   },
   {
     "id": "hist-oration-only",
@@ -126,6 +198,15 @@
     "source_artifact_id": "profile_copenhaver_values"
   },
   {
+    "id": "scholar-crofton-black",
+    "entity_type": "scholar",
+    "title": "Crofton Black",
+    "subtitle": "Heptaplus and biblical hermeneutics",
+    "summary": "Black now anchors PicoDB's Heptaplus readings: structure, Genesis, esotericism, Dionysian anagogy, intellect, felicitas, Bereshit, sabbath, and the forty-nine gates.",
+    "status": "DRAFT",
+    "source_artifact_id": "scholar_crofton_black_values"
+  },
+  {
     "id": "values-dougherty",
     "entity_type": "scholar",
     "title": "Dougherty's Corpus Standard",
@@ -187,6 +268,15 @@
     "summary": "A new source-gap packet marks the Borghesi Lettere for letter-by-letter summary and identifies Gianfrancesco's Vita, Capponi 235, the 1496 print tradition, PRDL titles, and the del Medigo letter as acquisition/control targets.",
     "status": "DRAFT",
     "source_artifact_id": "source_pico_biographical_source_gaps"
+  },
+  {
+    "id": "source-black-heptaplus-structure",
+    "entity_type": "source_packet",
+    "title": "Black's Heptaplus Structure",
+    "subtitle": "Seven-part guide to the work",
+    "summary": "A source packet maps Black's chapter structure and makes it the control frame for future section summaries of Pico's Heptaplus.",
+    "status": "DRAFT",
+    "source_artifact_id": "source_black_heptaplus_structure"
   },
   {
     "id": "protocol-busi-wirszubski",

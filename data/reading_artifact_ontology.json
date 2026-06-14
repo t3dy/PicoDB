@@ -1,6 +1,6 @@
 {
   "id": "reading_artifact_ontology",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "purpose": "Markup and writing ontology for turning systematic readings into website cards, pages, timelines, maps, and scholarly syntheses.",
   "artifact_types": [
     {
@@ -238,6 +238,14 @@
       "poetic_theology",
       "commento_textual_history",
       "being_one_controversy"
+    ],
+    "Black": [
+      "heptaplus_structure",
+      "biblical_hermeneutics",
+      "dionysian_anagogy",
+      "intellect_felicitas",
+      "bereshit_sabbath",
+      "jewish_arabic_source_ecology"
     ]
   },
   "kabbalah_reading_fields": [
@@ -341,5 +349,29 @@
     "Farmer": "roman_debate_architecture",
     "Busi_Wirszubski": "kabbalah_source_infrastructure",
     "Allen": "ficino_affinity_and_dispute"
-  }
+  },
+  "heptaplus_black_reading_fields": [
+    "genesis_anchor",
+    "heptaplus_unit",
+    "exegetical_register",
+    "black_problem",
+    "source_family",
+    "authority_named",
+    "relation_to_900",
+    "concord_status",
+    "anagogy_status",
+    "intellect_felicitas_status",
+    "kabbalah_status",
+    "confidence"
+  ],
+  "parallel_essay_program_fields": [
+    "essay_problem",
+    "guide_scholars",
+    "primary_texts",
+    "source_families",
+    "artifact_dependencies",
+    "table_needed",
+    "next_close_reading_targets",
+    "review_threshold"
+  ]
 }

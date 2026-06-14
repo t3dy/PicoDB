@@ -240,6 +240,18 @@
     "updated_at": "2026-06-13T23:29:38"
   },
   {
+    "id": "scholar_crofton_black_values",
+    "artifact_type": "scholar_profile",
+    "title": "Crofton Black Values Profile",
+    "path": "artifacts/scholar_profiles/crofton_black_values_profile.md",
+    "document_id": "Studies_in_Medieval_and_Reformation_Traditions_66_Crofton_Black_-_Picos_Heptaplus_and_Biblical_H_pdf_98e6bcc6",
+    "target_entity": "Crofton Black",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T10:20:42Z",
+    "updated_at": "2026-06-14T10:20:42Z"
+  },
+  {
     "id": "profile_busi_values",
     "artifact_type": "scholar_profile",
     "title": "Giulio Busi Values Profile",
@@ -322,6 +334,18 @@
     "evidence_status": "likely",
     "created_at": "2026-06-14T09:30:58Z",
     "updated_at": "2026-06-14T09:30:58Z"
+  },
+  {
+    "id": "summary_black_heptaplus_chapters",
+    "artifact_type": "section_summary",
+    "title": "Black Heptaplus Chapter Summaries",
+    "path": "artifacts/section_summaries/black/black_heptaplus_chapter_summaries_pass009.md",
+    "document_id": "Studies_in_Medieval_and_Reformation_Traditions_66_Crofton_Black_-_Picos_Heptaplus_and_Biblical_H_pdf_98e6bcc6",
+    "target_entity": "Black Heptaplus",
+    "status": "SOURCE_ANCHORED_DRAFT",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T10:20:42Z",
+    "updated_at": "2026-06-14T10:20:42Z"
   },
   {
     "id": "sec_farmer_003_substance_accident",
@@ -466,6 +490,18 @@
     "evidence_status": "likely",
     "created_at": "2026-06-14T09:30:58Z",
     "updated_at": "2026-06-14T09:30:58Z"
+  },
+  {
+    "id": "source_black_heptaplus_structure",
+    "artifact_type": "source_packet",
+    "title": "Black's Heptaplus Structure",
+    "path": "artifacts/source_packets/black_heptaplus_structure_packet.md",
+    "document_id": "Studies_in_Medieval_and_Reformation_Traditions_66_Crofton_Black_-_Picos_Heptaplus_and_Biblical_H_pdf_98e6bcc6",
+    "target_entity": "Heptaplus",
+    "status": "SOURCE_ANCHORED",
+    "evidence_status": "likely",
+    "created_at": "2026-06-14T10:20:42Z",
+    "updated_at": "2026-06-14T10:20:42Z"
   },
   {
     "id": "sp_busi_qabbalah_method",
@@ -684,6 +720,18 @@
     "updated_at": "2026-06-14T09:24:53Z"
   },
   {
+    "id": "essay_being_unity_aquinas_dionysius",
+    "artifact_type": "website_page",
+    "title": "Aquinas and Dionysius in On Being and Unity",
+    "path": "artifacts/essays/pico_being_unity_aquinas_dionysius_draft.md",
+    "document_id": "The_Thomist__A_Speculative_Quarterly_Review_2014_jul_1_vol_78_iss_3_Salas_Victor_M_Giovanni_Pico_pdf_7f997dd5",
+    "target_entity": "On Being and Unity",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T10:20:42Z",
+    "updated_at": "2026-06-14T10:20:42Z"
+  },
+  {
     "id": "essay_pico_biography_scholar_synthesis",
     "artifact_type": "website_page",
     "title": "Giovanni Pico Biography Scholar Synthesis",
@@ -694,6 +742,30 @@
     "evidence_status": "SOURCE_ANCHORED_DRAFT",
     "created_at": "2026-06-14T10:04:38Z",
     "updated_at": "2026-06-14T10:04:38Z"
+  },
+  {
+    "id": "essay_900_neoplatonist_arab_authors",
+    "artifact_type": "website_page",
+    "title": "Neoplatonist and Arabic Authors in the 900 Conclusions",
+    "path": "artifacts/essays/pico_neoplatonist_arab_authors_900_draft.md",
+    "document_id": "Medieval_Renaissance_Texts_Studies_167_Stephen_A_Farmer_Giovanni_Pico_Della_Mirandola_Syncretism_pdf_c99b971b",
+    "target_entity": "900 Conclusions source networks",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T10:20:42Z",
+    "updated_at": "2026-06-14T10:20:42Z"
+  },
+  {
+    "id": "essay_pico_plato_aristotle_concord",
+    "artifact_type": "website_page",
+    "title": "Pico Between Plato and Aristotle",
+    "path": "artifacts/essays/pico_platonism_aristotelianism_concord_draft.md",
+    "document_id": "Critical_Political_Theory_and_Radical_Practice_Sophia_Howlett_-_Re-evaluating_Pico__Aristotelian_pdf_3c6c4fa3",
+    "target_entity": "Platonism and Aristotelianism",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T10:20:42Z",
+    "updated_at": "2026-06-14T10:20:42Z"
   },
   {
     "id": "note_pico_biography_pass002",
@@ -720,6 +792,18 @@
     "updated_at": "2026-06-13T23:29:38"
   },
   {
+    "id": "essay_pico_arab_intellect_felicitas",
+    "artifact_type": "website_page",
+    "title": "Pico and the Arabic Intellect Tradition",
+    "path": "artifacts/essays/pico_arab_intellect_felicitas_draft.md",
+    "document_id": "Studies_in_Medieval_and_Reformation_Traditions_66_Crofton_Black_-_Picos_Heptaplus_and_Biblical_H_pdf_98e6bcc6",
+    "target_entity": "Arabic intellect tradition",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T10:20:42Z",
+    "updated_at": "2026-06-14T10:20:42Z"
+  },
+  {
     "id": "essay_pico_ficino_dispute_draft",
     "artifact_type": "website_page",
     "title": "Pico's Dispute with Ficino Longform Draft",
@@ -732,6 +816,18 @@
     "updated_at": "2026-06-14T09:30:58Z"
   },
   {
+    "id": "essay_heptaplus_black_biblical_hermeneutics",
+    "artifact_type": "website_page",
+    "title": "Pico's Heptaplus and Biblical Hermeneutics",
+    "path": "artifacts/essays/pico_heptaplus_black_biblical_hermeneutics_draft.md",
+    "document_id": "Studies_in_Medieval_and_Reformation_Traditions_66_Crofton_Black_-_Picos_Heptaplus_and_Biblical_H_pdf_98e6bcc6",
+    "target_entity": "Heptaplus",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T10:20:42Z",
+    "updated_at": "2026-06-14T10:20:42Z"
+  },
+  {
     "id": "essay_pico_kabbalah_synthesis_draft",
     "artifact_type": "website_page",
     "title": "Pico's Kabbalah Longform Synthesis Draft",
@@ -742,5 +838,41 @@
     "evidence_status": "SOURCE_ANCHORED_DRAFT",
     "created_at": "2026-06-14T09:45:40Z",
     "updated_at": "2026-06-14T09:45:40Z"
+  },
+  {
+    "id": "essay_900_own_opinion_theses",
+    "artifact_type": "website_page",
+    "title": "Pico's Own-Opinion Theses",
+    "path": "artifacts/essays/pico_900_own_opinion_theses_draft.md",
+    "document_id": "Medieval_Renaissance_Texts_Studies_167_Stephen_A_Farmer_Giovanni_Pico_Della_Mirandola_Syncretism_pdf_c99b971b",
+    "target_entity": "900 Conclusions",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T10:20:42Z",
+    "updated_at": "2026-06-14T10:20:42Z"
+  },
+  {
+    "id": "essay_pico_dionysian_anagogy",
+    "artifact_type": "website_page",
+    "title": "Pseudo-Dionysius and Pico's Anagogical Method",
+    "path": "artifacts/essays/pico_dionysian_anagogy_draft.md",
+    "document_id": "Studies_in_Medieval_and_Reformation_Traditions_66_Crofton_Black_-_Picos_Heptaplus_and_Biblical_H_pdf_98e6bcc6",
+    "target_entity": "Dionysian anagogy",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T10:20:42Z",
+    "updated_at": "2026-06-14T10:20:42Z"
+  },
+  {
+    "id": "essay_heptaplus_after_oration",
+    "artifact_type": "website_page",
+    "title": "The Heptaplus After the Oration",
+    "path": "artifacts/essays/pico_heptaplus_after_oration_draft.md",
+    "document_id": "Studies_in_Medieval_and_Reformation_Traditions_66_Crofton_Black_-_Picos_Heptaplus_and_Biblical_H_pdf_98e6bcc6",
+    "target_entity": "Heptaplus and Oration",
+    "status": "DRAFT",
+    "evidence_status": "SOURCE_ANCHORED_DRAFT",
+    "created_at": "2026-06-14T10:20:42Z",
+    "updated_at": "2026-06-14T10:20:42Z"
   }
 ]

@@ -128,3 +128,13 @@ Each section summary must include a short Scholarly Values Overlay:
 ## Pass 006 Ficino-Pico Overlay
 
 When a section touches Ficino or Platonism, include: Ficino relation, Platonic dialogue source, Neoplatonic structure, Pico transformation, dispute status, edition/witness issue, Christian transformation, and concord outcome. See `docs/FICINO_PICO_READING_PROTOCOL.md`.
+
+## Pass 009 Heptaplus Black Overlay
+
+When summarizing the Heptaplus or Crofton Black, add a Black overlay:
+
+- Identify the Heptaplus unit: proem, exposition, Bereshit, sabbath, or conclusion.
+- Identify the Genesis anchor and the source family.
+- Distinguish Aquinas, Pseudo-Dionysius, Proclus, Arabic intellect tradition, Jewish exegesis, and Kabbalah.
+- State whether the passage repeats, recodes, or corrects a problem from the 900 Conclusions, Apology, Commento, or Oration.
+- Mark the kind of ascent: cosmological, anagogical, intellectual, mystical, or salvific.
