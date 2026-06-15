@@ -230,7 +230,7 @@ a:hover { color:var(--gold); }
 <button onclick="showSection('research', this)">Artifacts</button>
 <button onclick="showSection('timeline', this)">Timeline</button>
 <button onclick="showSection('mapsec', this)">Map</button>
-<button onclick="showSection('catalog', this)">Catalog</button>
+<button onclick="document.getElementById('catalog-section').style.display='block'; document.querySelectorAll('#catalog-section').forEach(e => e.classList.add('active')); this.classList.add('active'); document.querySelectorAll('nav button').forEach(b => b.classList.remove('active')); this.classList.add('active')">Catalog</button>
 </nav>
 </header>
 <main>

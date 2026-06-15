@@ -1,0 +1,160 @@
+{
+  "sources": [
+    {
+      "id": "pico_opera_omnia_1557",
+      "title": "Opera omnia",
+      "authors": ["Giovanni Pico della Mirandola"],
+      "type": "primary",
+      "year": 1557,
+      "summary": "Collected Latin works of Pico, including the Oration on the Dignity of Man, 900 Conclusions, Apology, Commento, Heptaplus, De ente et uno, and other writings. Standard printed edition.",
+      "citation": {
+        "chicago": "Pico della Mirandola, Giovanni. Opera omnia. Basel, 1557.",
+        "mla": "Pico della Mirandola, Giovanni. Opera Omnia. Basel, 1557.",
+        "bibtex": "@book{pico1557opera, author={Pico della Mirandola, Giovanni}, title={Opera Omnia}, address={Basel}, year={1557}}"
+      }
+    },
+    {
+      "id": "pico_oration_2012",
+      "title": "Oration on the Dignity of Man",
+      "authors": ["Giovanni Pico della Mirandola", "translated by Charles Glenn Wallis"],
+      "type": "primary",
+      "year": 2012,
+      "summary": "English translation of Pico's undelivered prologue to his 900 Conclusions, with introduction and notes. The most widely read of Pico's works.",
+      "citation": {
+        "chicago": "Pico della Mirandola, Giovanni. Oration on the Dignity of Man. Translated by Charles Glenn Wallis. Dover, 2012.",
+        "mla": "Pico della Mirandola, Giovanni. Oration on the Dignity of Man. Translated by Charles Glenn Wallis, Dover, 2012.",
+        "bibtex": "@book{pico2012oration, author={Pico della Mirandola, Giovanni}, title={Oration on the Dignity of Man}, translator={Wallis, Charles Glenn}, publisher={Dover}, year={2012}}"
+      }
+    },
+    {
+      "id": "copenhaver_pico_on_trial_2022",
+      "title": "Pico on Trial: The Apology in Context",
+      "authors": ["Brian P. Copenhaver"],
+      "type": "secondary",
+      "year": 2022,
+      "summary": "Comprehensive analysis of Pico's Apology (1487) defending his condemned theses. Examines the theological and philosophical arguments, the papal commission, and Pico's method of scholastic theology. Based on detailed textual analysis and historical reconstruction.",
+      "citation": {
+        "chicago": "Copenhaver, Brian P. Pico on Trial: The Apology in Context. University of Chicago Press, 2022.",
+        "mla": "Copenhaver, Brian P. Pico on Trial: The Apology in Context. University of Chicago Press, 2022.",
+        "bibtex": "@book{copenhaver2022pico, author={Copenhaver, Brian P.}, title={Pico on Trial: The Apology in Context}, publisher={University of Chicago Press}, year={2022}}"
+      }
+    },
+    {
+      "id": "copenhaver_ten_arguments_2009",
+      "title": "Ten Arguments in Search of a Philosopher: Averroes and Aquinas in Ficino's Platonic Theology",
+      "authors": ["Brian P. Copenhaver"],
+      "type": "secondary",
+      "year": 2009,
+      "summary": "Demonstrates that Ficino's anti-Averroist arguments in Platonic Theology Book 15 derive from Aquinas's Summa Contra Gentiles 2.59.3–6, not directly from Averroes's Long Commentary. Introduces the -P/-F distinction to clarify the mediation of Renaissance readings of Averroes.",
+      "citation": {
+        "chicago": "Copenhaver, Brian P. \"Ten Arguments in Search of a Philosopher: Averroes and Aquinas in Ficino's Platonic Theology.\" Vivarium, vol. 47, no. 4, 2009, pp. 444–479.",
+        "mla": "Copenhaver, Brian P. \"Ten Arguments in Search of a Philosopher: Averroes and Aquinas in Ficino's Platonic Theology.\" Vivarium, vol. 47, no. 4, 2009, pp. 444–479.",
+        "bibtex": "@article{copenhaver2009ten, author={Copenhaver, Brian P.}, title={Ten Arguments in Search of a Philosopher: Averroes and Aquinas in Ficino's Platonic Theology}, journal={Vivarium}, volume={47}, number={4}, pages={444--479}, year={2009}, doi={10.2307/41963916}}"
+      }
+    },
+    {
+      "id": "copenhaver_secret_oration_2002",
+      "title": "The Secret of Pico's Oration: Cabala and Renaissance Philosophy",
+      "authors": ["Brian P. Copenhaver"],
+      "type": "secondary",
+      "year": 2002,
+      "summary": "Argues that the Oration is a Kabbalistic program for mystical ascent and union with God, not a Renaissance dignity manifesto. Shows how Abulafia's letter-combination technique (tzeruf) grounds Pico's mystical curriculum, and how mors osculi (the death of the kiss) is the endpoint Pico invites.",
+      "citation": {
+        "chicago": "Copenhaver, Brian P. \"The Secret of Pico's Oration: Cabala and Renaissance Philosophy.\" Midwest Studies in Philosophy, vol. 26, no. 1, 2002, pp. 56–81.",
+        "mla": "Copenhaver, Brian P. \"The Secret of Pico's Oration: Cabala and Renaissance Philosophy.\" Midwest Studies in Philosophy, vol. 26, no. 1, 2002, pp. 56–81.",
+        "bibtex": "@article{copenhaver2002secret, author={Copenhaver, Brian P.}, title={The Secret of Pico's Oration: Cabala and Renaissance Philosophy}, journal={Midwest Studies in Philosophy}, volume={26}, number={1}, pages={56--81}, year={2002}, doi={10.1111/1475-4975.261054}}"
+      }
+    },
+    {
+      "id": "copenhaver_magic_dignity_2019",
+      "title": "Magic and the Dignity of Man: Pico della Mirandola and His Oration in Modern Memory",
+      "authors": ["Brian P. Copenhaver"],
+      "type": "secondary",
+      "year": 2019,
+      "summary": "Systematic demolition of the myth that Pico was a herald of Renaissance humanism and inherent human dignity. Shows how the historiographical tradition from Burckhardt through Garin misread the Oration as a proto-modern manifesto of autonomy, when it is actually a defense of Kabbalistic and magical ascent.",
+      "citation": {
+        "chicago": "Copenhaver, Brian P. Magic and the Dignity of Man: Pico della Mirandola and His Oration in Modern Memory. Harvard University Press, 2019.",
+        "mla": "Copenhaver, Brian P. Magic and the Dignity of Man: Pico della Mirandola and His Oration in Modern Memory. Harvard University Press, 2019.",
+        "bibtex": "@book{copenhaver2019magic, author={Copenhaver, Brian P.}, title={Magic and the Dignity of Man: Pico della Mirandola and His Oration in Modern Memory}, publisher={Harvard University Press}, year={2019}}"
+      }
+    },
+    {
+      "id": "edelheit_ficino_pico_savonarola_2008",
+      "title": "Ficino, Pico and Savonarola: The Renaissance of Christian Neoplatonism",
+      "authors": ["Amos Edelheit"],
+      "type": "secondary",
+      "year": 2008,
+      "summary": "Examines the theological method of Renaissance Platonism through the opinio/fides distinction. Analyzes Pico's Apology as a humanist reform of theology operating through scholastic categories, and traces the influence of Savonarola's religious crisis on Pico's later work.",
+      "citation": {
+        "chicago": "Edelheit, Amos. Ficino, Pico and Savonarola: The Renaissance of Christian Neoplatonism. McGill-Queen's University Press, 2008.",
+        "mla": "Edelheit, Amos. Ficino, Pico and Savonarola: The Renaissance of Christian Neoplatonism. McGill-Queen's University Press, 2008.",
+        "bibtex": "@book{edelheit2008ficino, author={Edelheit, Amos}, title={Ficino, Pico and Savonarola: The Renaissance of Christian Neoplatonism}, publisher={McGill-Queen's University Press}, year={2008}}"
+      }
+    },
+    {
+      "id": "edelheit_scholastic_florence_2016",
+      "title": "Scholastic Florence",
+      "authors": ["Amos Edelheit"],
+      "type": "secondary",
+      "year": 2016,
+      "summary": "Traces the continuities between medieval scholasticism and Renaissance philosophy in Florence, challenging the humanist/scholastic binary. Shows how figures like Pico and Ficino worked within scholastic frameworks while transforming them.",
+      "citation": {
+        "chicago": "Edelheit, Amos. Scholastic Florence. Routledge, 2016.",
+        "mla": "Edelheit, Amos. Scholastic Florence. Routledge, 2016.",
+        "bibtex": "@book{edelheit2016scholastic, author={Edelheit, Amos}, title={Scholastic Florence}, publisher={Routledge}, year={2016}}"
+      }
+    },
+    {
+      "id": "howlett_re_evaluating_pico_2021",
+      "title": "Re-evaluating Pico: Aristotelian Foundations, Platonic Sympathies, and Jewish Kabbalah",
+      "authors": ["Sophia M. Howlett"],
+      "type": "secondary",
+      "year": 2021,
+      "summary": "Reconstructs Pico's distinctive synthesis of Aristotelianism, Platonism, and Kabbalah. Emphasizes the Aristotelian dimension of his thought and the solitary, exceptionalist nature of his mystical ascent, correcting the communal Ficinian model.",
+      "citation": {
+        "chicago": "Howlett, Sophia M. Re-evaluating Pico: Aristotelian Foundations, Platonic Sympathies, and Jewish Kabbalah. Palgrave Macmillan, 2021.",
+        "mla": "Howlett, Sophia M. Re-evaluating Pico: Aristotelian Foundations, Platonic Sympathies, and Jewish Kabbalah. Palgrave Macmillan, 2021.",
+        "bibtex": "@book{howlett2021re, author={Howlett, Sophia M.}, title={Re-evaluating Pico: Aristotelian Foundations, Platonic Sympathies, and Jewish Kabbalah}, publisher={Palgrave Macmillan}, year={2021}}"
+      }
+    },
+    {
+      "id": "wirszubski_encounter_jewish_mysticism_1989",
+      "title": "Pico della Mirandola's Encounter with Jewish Mysticism",
+      "authors": ["Chaim Wirszubski"],
+      "type": "secondary",
+      "year": 1989,
+      "summary": "Documents Pico's access to Kabbalistic texts through Mithridates's translations and analyzes the philological and conceptual foundations of Pico's Christian Kabbalah. Essential source for understanding the specific Kabbalistic doctrines Pico adopted.",
+      "citation": {
+        "chicago": "Wirszubski, Chaim. Pico della Mirandola's Encounter with Jewish Mysticism. Harvard University Press, 1989.",
+        "mla": "Wirszubski, Chaim. Pico della Mirandola's Encounter with Jewish Mysticism. Harvard University Press, 1989.",
+        "bibtex": "@book{wirszubski1989pico, author={Wirszubski, Chaim}, title={Pico della Mirandola's Encounter with Jewish Mysticism}, publisher={Harvard University Press}, year={1989}}"
+      }
+    },
+    {
+      "id": "farmer_syncretism_west_1998",
+      "title": "Syncretism in the West: Pico's Platforme de la paix and Religious Renaissance in Italy",
+      "authors": ["Sharon Lee Farmer"],
+      "type": "secondary",
+      "year": 1998,
+      "summary": "Analyzes Pico's concord project and syncretic method. Traces how Pico attempted to reconcile Averroes, Aquinas, Scotus, and Kabbalah through a logic of correlative philosophical positions. Examines the historical conditions enabling this synthesis.",
+      "citation": {
+        "chicago": "Farmer, Sharon Lee. Syncretism in the West: Pico's Platforme de la paix and Religious Renaissance in Italy. Wilfrid Laurier University Press, 1998.",
+        "mla": "Farmer, Sharon Lee. Syncretism in the West: Pico's Platforme de la paix and Religious Renaissance in Italy. Wilfrid Laurier University Press, 1998.",
+        "bibtex": "@book{farmer1998syncretism, author={Farmer, Sharon Lee}, title={Syncretism in the West: Pico's Platforme de la paix and Religious Renaissance in Italy}, publisher={Wilfrid Laurier University Press}, year={1998}}"
+      }
+    },
+    {
+      "id": "allen_ficino_platonism_2008",
+      "title": "The Platonism of Marsilio Ficino: A Study of His Phaedrus Commentary, Its Sources and Genesis",
+      "authors": ["Michael J. B. Allen"],
+      "type": "secondary",
+      "year": 2008,
+      "summary": "Detailed study of Ficino's Platonic method through his Phaedrus Commentary. Establishes Ficino as a sophisticated philosophical reader whose Platonism shapes Renaissance intellectual culture and provides context for understanding Pico's departures.",
+      "citation": {
+        "chicago": "Allen, Michael J. B. The Platonism of Marsilio Ficino: A Study of His Phaedrus Commentary, Its Sources and Genesis. University of California Press, 2008.",
+        "mla": "Allen, Michael J. B. The Platonism of Marsilio Ficino: A Study of His Phaedrus Commentary, Its Sources and Genesis. University of California Press, 2008.",
+        "bibtex": "@book{allen2008platonism, author={Allen, Michael J. B.}, title={The Platonism of Marsilio Ficino: A Study of His Phaedrus Commentary, Its Sources and Genesis}, publisher={University of California Press}, year={2008}}"
+      }
+    }
+  ]
+}
