@@ -1,0 +1,124 @@
+{
+  "artifact_id": "re_copenhaver_trial_2022_ch01_001",
+  "artifact_type": "raw_extraction",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_pico_on_trial_2022",
+  "section_id": "ch01",
+  "generated_at": "2026-06-14T19:00:00Z",
+  "generating_agent": "section-summary-agent",
+  "extraction_scope": {
+    "page_start": 7,
+    "page_end": 44,
+    "section_title": "Chapter 1: Humanism Goes to Hell",
+    "coverage_level": "complete"
+  },
+  "extracted_entities": {
+    "people": [
+      "Giovanni Pico della Mirandola",
+      "Pope Innocent VIII",
+      "Reginald Pecock",
+      "William of Ockham",
+      "Bishop Pedro García",
+      "Jacob Brucker",
+      "Erasmus",
+      "Pietro Crinito",
+      "Angelo Poliziano"
+    ],
+    "works": [
+      "900 Conclusions (Conclusiones nongentae)",
+      "Apology (Apologia)",
+      "Heptaplus",
+      "Oration on the Dignity of Man",
+      "Ockham's Dialogus",
+      "Pecock's Repressor"
+    ],
+    "places": [
+      "Rome",
+      "Florence",
+      "Chichester",
+      "Paris",
+      "Padua"
+    ],
+    "dates": [
+      "1486 (Conclusions printed)",
+      "1487 (Apology and flight)",
+      "1457 (Pecock defrocking)",
+      "1742-44 (Brucker's Historia critica philosophiae)"
+    ],
+    "institutions": [
+      "Papal commission",
+      "Roman Inquisition",
+      "Vatican"
+    ],
+    "traditions": [
+      "scholasticism",
+      "nominalism",
+      "humanism",
+      "concordism"
+    ]
+  },
+  "key_terms": [
+    { "term": "ex vi verborum", "language": "la", "gloss": "from the meaning of the words — the criterion used in four papal verdicts" },
+    { "term": "praecise", "language": "la", "gloss": "exactly, only — the pivotal adverb in Q8's restricted anti-voluntarism" },
+    { "term": "quaestio", "language": "la", "gloss": "scholastic question format: objection, pro/contra, resolution" },
+    { "term": "dignitas", "language": "la", "gloss": "dignity — Copenhaver shows Pico does not celebrate inherent human dignity in the Oration" }
+  ],
+  "explicit_topics": [
+    "heresy trial of 1487",
+    "papal condemnation of 13 theses",
+    "scholastic disputation format",
+    "concordism as intellectual program",
+    "harrowing of Hell (Q1)",
+    "humanist vs. scholastic Pico"
+  ],
+  "claims_made_by_source": [
+    {
+      "claim_text": "Pico's three published books (Conclusions, Apology, Heptaplus) are not humanist; the Conclusions and Apology are scholastic.",
+      "page": 9,
+      "claim_type": "historiographical"
+    },
+    {
+      "claim_text": "The thirteen condemned theses are structurally unified by the problem of divine embodiment.",
+      "page": 12,
+      "claim_type": "interpretive"
+    },
+    {
+      "claim_text": "Innocent VIII's charge characterized Pico's theses as heretical before deliberations began.",
+      "page": 18,
+      "claim_type": "historical"
+    },
+    {
+      "claim_text": "Bishop Pecock's 1457 defrocking for heresy about the Harrowing of Hell politicized that doctrine in the Vatican's institutional memory.",
+      "page": 24,
+      "claim_type": "historical"
+    },
+    {
+      "claim_text": "Pico's primary ethical resource in the Apology was Ockham's Dialogus, not humanist civic ethics.",
+      "page": 31,
+      "claim_type": "textual"
+    },
+    {
+      "claim_text": "Copenhaver calls philosophical concordism 'a total failure' — philosophers ignored Pico's plea.",
+      "page": 38,
+      "claim_type": "historiographical"
+    }
+  ],
+  "important_passages": [
+    {
+      "text": "The criterion used in four verdicts is ex vi verborum — from the meaning of the words.",
+      "location": "p. 18",
+      "significance": "Shows the trial turned on semantic analysis, not theological substance"
+    },
+    {
+      "text": "Eleven of thirteen Questions follow the quaestio form of medieval scholasticism.",
+      "location": "p. 12",
+      "significance": "Evidence that the Apology is scholastic, not humanist"
+    }
+  ],
+  "uncertainties": [
+    "Exact membership and mandate of the papal commission not specified in this chapter",
+    "Whether Pecock's case was explicitly discussed by the commissioners is not established"
+  ],
+  "extraction_notes": "Chapter 1 functions as introduction to the trial's structure; philosophical analysis begins in ch. 2.",
+  "interpretive_claims_present": false
+}

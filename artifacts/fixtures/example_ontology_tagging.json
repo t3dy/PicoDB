@@ -1,0 +1,50 @@
+{
+  "artifact_id": "ot_copenhaver_trial_2022_ch01_001",
+  "artifact_type": "ontology_tagging",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_pico_on_trial_2022",
+  "generated_at": "2026-06-14T19:00:00Z",
+  "generating_agent": "ontology-agent",
+  "input_artifact_id": "re_copenhaver_trial_2022_ch01_001",
+  "ontology_version": "reading_artifact_ontology.json v1",
+  "traditions": [
+    "scholasticism",
+    "christian_theology",
+    "humanism",
+    "historiography"
+  ],
+  "periods": ["quattrocento"],
+  "genres": ["monograph"],
+  "methods": [
+    "intellectual_history",
+    "source_criticism",
+    "historiographical_critique",
+    "philological"
+  ],
+  "historiographical_categories": [
+    "myth_debunking",
+    "anti_mythic_reconstruction",
+    "reception_history"
+  ],
+  "tags": [
+    { "tag_id": "pico_heresy_trial", "label": "heresy trial 1487", "confidence": 1.0 },
+    { "tag_id": "pico_apology",      "label": "Apology",            "confidence": 1.0 },
+    { "tag_id": "pico_conclusions",  "label": "900 Conclusions",    "confidence": 0.9 },
+    { "tag_id": "scholasticism",     "label": "scholasticism",       "confidence": 1.0 },
+    { "tag_id": "concordism",        "label": "concordism/concord",  "confidence": 0.9 },
+    { "tag_id": "nominalism",        "label": "nominalism/Ockham",   "confidence": 0.8 }
+  ],
+  "entities_linked": [
+    { "name": "Giovanni Pico della Mirandola", "entity_id": "person_pico",        "type": "person" },
+    { "name": "William of Ockham",             "entity_id": "person_ockham",       "type": "person" },
+    { "name": "900 Conclusions",               "entity_id": "work_conclusions_900","type": "work" },
+    { "name": "Apology",                       "entity_id": "work_apology",         "type": "work" }
+  ],
+  "rejected_tags": [
+    { "tag": "western_esotericism", "reason": "Chapter 1 focuses on heresy trial structure; esotericism enters in chs. 11-13" },
+    { "tag": "kabbalah",            "reason": "Kabbalah not discussed in ch. 1; it is the subject of Q5 analyzed later" }
+  ],
+  "scholarly_value": "high",
+  "pop_occult_flag": false,
+  "tagging_notes": "Copenhaver's Pico on Trial is serious specialist scholarship; high scholarly_value across all chapters. This chapter establishes trial structure and anti-humanist frame."
+}

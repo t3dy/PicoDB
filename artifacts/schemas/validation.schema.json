@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "picodb:artifact:validation:v1.0.0",
+  "title": "ValidationArtifact",
+  "description": "Checks whether an extraction or later artifact is complete, grounded, and schema-valid. Stage C.",
+  "type": "object",
+  "required": ["artifact_id", "artifact_type", "schema_version", "source_id", "generated_at", "target_artifact_id", "validation_status"],
+  "additionalProperties": false,
+  "properties": {
+    "artifact_id":         { "type": "string", "description": "val_{target_artifact_id}_{seq}" },
+    "artifact_type":       { "type": "string", "const": "validation" },
+    "schema_version":      { "type": "string", "const": "1.0.0" },
+    "source_id":           { "type": "string" },
+    "generated_at":        { "type": "string", "format": "date-time" },
+    "generating_agent":    { "type": "string" },
+    "target_artifact_id":  { "type": "string" },
+    "target_artifact_type":{ "type": "string" },
+    "validation_status": {
+      "type": "string",
+      "enum": ["pass", "warn", "fail"],
+      "description": "fail blocks publishing; warn allows publishing with notation; pass clears the artifact"
+    },
+    "schema_errors":       { "type": "array", "items": { "type": "string" } },
+    "missing_required_fields": { "type": "array", "items": { "type": "string" } },
+    "grounding_issues": {
+      "type": "array",
+      "description": "Claims made without page references or source anchors",
+      "items": { "type": "string" }
+    },
+    "suspected_hallucinations": {
+      "type": "array",
+      "description": "Claims that do not appear in the cited source or seem invented",
+      "items": { "type": "string" }
+    },
+    "duplicate_or_conflicting_claims": { "type": "array", "items": { "type": "string" } },
+    "interpretive_overreach": {
+      "type": "array",
+      "description": "Interpretive claims in a raw_extraction artifact (which must only describe what is present)",
+      "items": { "type": "string" }
+    },
+    "recommended_fixes": { "type": "array", "items": { "type": "string" } },
+    "validator_notes":   { "type": "string" }
+  }
+}

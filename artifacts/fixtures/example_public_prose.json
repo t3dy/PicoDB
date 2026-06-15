@@ -1,0 +1,30 @@
+{
+  "artifact_id": "pp_copenhaver_trial_2022_apology_001",
+  "artifact_type": "public_prose",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_pico_on_trial_2022",
+  "generated_at": "2026-06-14T19:00:00Z",
+  "generating_agent": "writing-agent",
+  "input_artifact_ids": [
+    "re_copenhaver_trial_2022_ch01_001",
+    "ot_copenhaver_trial_2022_ch01_001",
+    "int_copenhaver_trial_2022_ch01_001",
+    "cur_copenhaver_trial_2022_001"
+  ],
+  "title": "Brian P. Copenhaver, Pico della Mirandola on Trial (2022)",
+  "short_description": "The definitive analysis of Pico's Apology and heresy trial, dismantling the humanist myth chapter by chapter.",
+  "body_markdown": "Brian Copenhaver's *Pico della Mirandola on Trial: Heresy, Freedom, and Philosophy* (Oxford University Press, 2022) is the most rigorous recent analysis of Pico's encounter with the Inquisition. Where earlier scholarship treated the heresy trial as background noise to the *Oration*'s celebration of human dignity, Copenhaver treats it as the lens through which Pico's published works must be read.\n\nThe book analyzes all thirteen of Pico's condemned theses in detail. Its central claim: the *Conclusions* and *Apology* are scholastic texts, not humanist manifestos. Eleven of the thirteen defended Questions follow the *quaestio* format of medieval disputation; Pico's primary ethical guide during the trial was not Cicero or Petrarch but William of Ockham's *Dialogus*. The humanist Pico who celebrated free self-fashioning in the *Oration*'s opening pages is largely absent from the *Apology*.\n\nCopenhaver's philological discoveries are among the book's most original contributions. He identifies that more than half of Pico's defense of Q6 (on the Eucharist) derives from Jean Cabrol's 1432 *Defensiones Thomae* — a transmission source unrecognized by prior scholarship. He documents systematic errors in the 1487 printed text of Q4 and provides corrections. He shows that the papal commission's verdicts frequently commit elementary logical errors: collapsing possibility-statements into factual assertions, ignoring the modal apparatus Pico explicitly deployed.\n\nThe book is essential for understanding Pico's condemned theses, the structure of the *Apology*, and the political dynamics of the trial.",
+  "summary": "Copenhaver's 2022 Oxford monograph analyzes all 13 of Pico's condemned theses and the Apology in which Pico defended them. The book's revisionist argument: the Apology is a scholastic text, and Pico's primary ethical guide in the trial was Ockham, not Cicero. Includes philological discoveries about the Eucharist theses (Q6, Q9, Q10) and the Incarnation thesis (Q4).",
+  "tags": ["copenhaver", "apology", "heresy_trial", "condemned_theses", "scholasticism", "quattrocento"],
+  "citations": [
+    {
+      "citation_text": "Brian P. Copenhaver, Pico della Mirandola on Trial: Heresy, Freedom, and Philosophy (Oxford: Oxford University Press, 2022).",
+      "source_id": "copenhaver_pico_on_trial_2022"
+    }
+  ],
+  "editorial_status": "draft",
+  "emergency_prose_mode": false,
+  "revision_notes": "Upgrade to reviewed once all 5 chapter summaries are complete and a validation artifact has been produced.",
+  "db_website_card_id": null,
+  "db_website_page_id": null
+}

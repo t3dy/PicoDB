@@ -1,0 +1,36 @@
+{
+  "artifact_id": "cur_copenhaver_trial_2022_001",
+  "artifact_type": "curation",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_pico_on_trial_2022",
+  "generated_at": "2026-06-14T19:00:00Z",
+  "generating_agent": "curation-agent",
+  "input_artifact_ids": [
+    "sm_copenhaver_trial_2022_001",
+    "ot_copenhaver_trial_2022_ch01_001",
+    "int_copenhaver_trial_2022_ch01_001"
+  ],
+  "relevance_status": "publish",
+  "relevance_score": 0.97,
+  "audience_fit": "specialist",
+  "scholarly_value": "high",
+  "content_quality_flags": [
+    "serious_scholarship",
+    "peer_reviewed",
+    "primary_source_discussion",
+    "revisionary_argument",
+    "specialist_audience"
+  ],
+  "reasons_for_inclusion": [
+    "Definitive recent analysis (2022) of Pico's Apology and heresy trial by the leading Pico scholar",
+    "Provides source-critical readings of all 13 condemned theses with original philological discoveries (Cabrol transmission in Q6)",
+    "Directly revises received historiography: dismantles humanist-Pico frame for the Apology",
+    "Essential for the condemned_theses, apology, heresy, and free_will concept essays"
+  ],
+  "recommended_tags": [
+    "heresy_trial", "apology", "scholasticism", "condemned_theses",
+    "copenhaver", "pico_primary_texts", "quattrocento"
+  ],
+  "editorial_angle": "Present as the authoritative 2022 revisionist reading of the trial; pair with Edelheit's Crossroads for the scholastic-formation context.",
+  "curator_notes": "Full five-chapter reading required before scholar profile for Copenhaver is updated. Do not treat ch. 1 findings as representative of the whole book."
+}

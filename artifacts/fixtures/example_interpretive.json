@@ -1,0 +1,54 @@
+{
+  "artifact_id": "int_copenhaver_trial_2022_ch01_001",
+  "artifact_type": "interpretive",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_pico_on_trial_2022",
+  "generated_at": "2026-06-14T19:00:00Z",
+  "generating_agent": "interpretation-agent",
+  "input_artifact_ids": [
+    "re_copenhaver_trial_2022_ch01_001",
+    "ot_copenhaver_trial_2022_ch01_001"
+  ],
+  "interpretive_questions": [
+    "What does Copenhaver's reframing of the Apology as scholastic (not humanist) mean for how PicoDB presents Pico's intellectual identity?",
+    "How does the Pecock precedent change the received narrative about the trial's anti-intellectualism?",
+    "What is the historiographical significance of identifying Ockham rather than Cicero as Pico's primary ethical resource in the trial?"
+  ],
+  "interpretive_claims": [
+    {
+      "claim_id": "int_cop_trial_ch01_001",
+      "claim_text": "Copenhaver's argument that the Apology is scholastic rather than humanist requires revising the PicoDB concept essays on 'oration.md' and 'free_will.md', which currently present Pico as a Renaissance humanist arguing for intellectual freedom.",
+      "evidence_links": [
+        { "source_id": "copenhaver_pico_on_trial_2022", "page": 9,  "artifact_id": "re_copenhaver_trial_2022_ch01_001" },
+        { "source_id": "copenhaver_pico_on_trial_2022", "page": 12, "artifact_id": "re_copenhaver_trial_2022_ch01_001" }
+      ],
+      "confidence": "high",
+      "limitations": "Does not apply to the Oration itself, only to the Conclusions and Apology.",
+      "claim_type": "historiographical"
+    },
+    {
+      "claim_id": "int_cop_trial_ch01_002",
+      "claim_text": "The Pecock precedent suggests the trial was partly driven by institutional risk-management around a politically sensitive doctrine (Harrowing of Hell) rather than purely by theological principle.",
+      "evidence_links": [
+        { "source_id": "copenhaver_pico_on_trial_2022", "page": 24, "artifact_id": "re_copenhaver_trial_2022_ch01_001" }
+      ],
+      "confidence": "medium",
+      "alternative_reading": "The commission may have led with Q1 for purely logical reasons (it touched on Christ's saving work) rather than institutional memory.",
+      "limitations": "Copenhaver does not directly establish that the commissioners knew of Pecock; the connection is inferred.",
+      "claim_type": "interpretive"
+    },
+    {
+      "claim_id": "int_cop_trial_ch01_003",
+      "claim_text": "Ockham as Pico's primary ethical resource during the trial, if confirmed across other chapters, would mean the standard account of Renaissance humanism as Pico's intellectual home is significantly overstated.",
+      "evidence_links": [
+        { "source_id": "copenhaver_pico_on_trial_2022", "page": 31, "artifact_id": "re_copenhaver_trial_2022_ch01_001" }
+      ],
+      "confidence": "medium",
+      "limitations": "This is one chapter's finding; would need corroboration from chapters analyzing the Oration and the Heptaplus.",
+      "claim_type": "synthetic"
+    }
+  ],
+  "historiographical_relevance": "Copenhaver's revisionist reading of the Apology directly challenges the Garin-Cassirer humanist-Pico tradition that underlies most of PicoDB's existing concept essays. The interpretive claims here flag specific essays needing revision.",
+  "limitations": "This interpretation is based on Chapter 1 only; conclusions are preliminary pending full reading of all five chapters.",
+  "interpretation_notes": "Do not promote to public_prose until chapters 2-5 are also processed and a synthesis interpretive artifact is produced."
+}

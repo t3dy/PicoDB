@@ -1,0 +1,39 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "picodb:artifact:text_comparison:v1.0.0",
+  "title": "TextComparisonArtifact",
+  "description": "Compares two versions of a text (e.g. different editions, manuscript witnesses, or translations). Stage H.",
+  "type": "object",
+  "required": ["artifact_id", "artifact_type", "schema_version", "source_id", "generated_at", "source_a_id", "source_b_id", "difference_type"],
+  "additionalProperties": false,
+  "properties": {
+    "artifact_id":      { "type": "string", "description": "tc_{source_a_shortcode}_v_{source_b_shortcode}_{section}_{seq}" },
+    "artifact_type":    { "type": "string", "const": "text_comparison" },
+    "schema_version":   { "type": "string", "const": "1.0.0" },
+    "source_id":        { "type": "string", "description": "source_id of the work being compared (not of a specific version)" },
+    "generated_at":     { "type": "string", "format": "date-time" },
+    "generating_agent": { "type": "string" },
+    "comparison_id":    { "type": "string" },
+    "source_a_id":      { "type": "string", "description": "source_id of version A (e.g. editio_princeps_1486)" },
+    "source_b_id":      { "type": "string", "description": "source_id of version B (e.g. basel_1557_opera)" },
+    "source_a_label":   { "type": "string" },
+    "source_b_label":   { "type": "string" },
+    "section_id":       { "type": "string" },
+    "source_a_excerpt": { "type": "string" },
+    "source_a_location":{ "type": "string" },
+    "source_b_excerpt": { "type": "string" },
+    "source_b_location":{ "type": "string" },
+    "difference_type": {
+      "type": "string",
+      "enum": ["addition", "omission", "substitution", "reordering", "expansion",
+               "compression", "terminology_shift", "doctrinal_shift", "uncertain"]
+    },
+    "difference_summary":        { "type": "string" },
+    "interpretive_implications": { "type": "string" },
+    "confidence": {
+      "type": "string",
+      "enum": ["high", "medium", "low"]
+    },
+    "notes": { "type": "string" }
+  }
+}

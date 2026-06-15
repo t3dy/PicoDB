@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "picodb:artifact:public_prose:v1.0.0",
+  "title": "PublicProseArtifact",
+  "description": "Final reader-facing prose, produced only from prior artifacts. reviewed/published status requires at least one extraction artifact and one validation artifact in input_artifact_ids. Stage G.",
+  "type": "object",
+  "required": ["artifact_id", "artifact_type", "schema_version", "source_id", "generated_at", "input_artifact_ids", "title", "body_markdown", "editorial_status"],
+  "additionalProperties": false,
+  "properties": {
+    "artifact_id":      { "type": "string", "description": "pp_{source_shortcode}_{slug}_{seq}" },
+    "artifact_type":    { "type": "string", "const": "public_prose" },
+    "schema_version":   { "type": "string", "const": "1.0.0" },
+    "source_id":        { "type": "string" },
+    "generated_at":     { "type": "string", "format": "date-time" },
+    "generating_agent": { "type": "string" },
+    "input_artifact_ids": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string" },
+      "description": "IDs of prior artifacts this prose was generated from. reviewed/published require an extraction AND a validation artifact here."
+    },
+    "title":             { "type": "string" },
+    "short_description": { "type": "string", "description": "Dek / subhead / one-liner for card display" },
+    "body_markdown":     { "type": "string" },
+    "summary":           { "type": "string", "description": "150-300 word summary for portal card" },
+    "tags":              { "type": "array", "items": { "type": "string" } },
+    "citations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["citation_text"],
+        "properties": {
+          "citation_text": { "type": "string" },
+          "url":           { "type": "string" },
+          "source_id":     { "type": "string" }
+        }
+      }
+    },
+    "editorial_status": {
+      "type": "string",
+      "enum": ["draft", "reviewed", "published", "deprecated"]
+    },
+    "emergency_prose_mode": {
+      "type": "boolean",
+      "description": "If true, prose was generated directly from source without prior artifacts. MUST be explicitly justified.",
+      "default": false
+    },
+    "emergency_justification": { "type": "string" },
+    "revision_notes": { "type": "string" },
+    "db_website_card_id": { "type": ["integer", "null"] },
+    "db_website_page_id": { "type": ["integer", "null"] }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "picodb:artifact:scholar_citation:v1.0.0",
+  "title": "ScholarCitationArtifact",
+  "description": "Captures what a scholar says about a text, passage, concept, or historiographical issue. Atomic, page-tethered, reusable. Stage I.",
+  "type": "object",
+  "required": ["artifact_id", "artifact_type", "schema_version", "source_id", "generated_at", "scholar_name", "claim_summary"],
+  "additionalProperties": false,
+  "properties": {
+    "artifact_id":            { "type": "string", "description": "sc_{scholar_shortcode}_{topic}_{seq}" },
+    "artifact_type":          { "type": "string", "const": "scholar_citation" },
+    "schema_version":         { "type": "string", "const": "1.0.0" },
+    "source_id":              { "type": "string", "description": "source_id of the work being cited FROM" },
+    "generated_at":           { "type": "string", "format": "date-time" },
+    "generating_agent":       { "type": "string" },
+    "bibliographic_source_id":{ "type": "string" },
+    "scholar_name":           { "type": "string" },
+    "cited_work":             { "type": "string" },
+    "publication_year":       { "type": ["integer", "string"] },
+    "relevant_topic":         { "type": "string" },
+    "citation_context":       { "type": "string", "description": "The paragraph or argument surrounding the claim" },
+    "claim_summary":          { "type": "string", "description": "What the scholar is arguing — specific, not paraphrased" },
+    "exact_quote": {
+      "type": "string",
+      "description": "Short direct quote only. Do not reproduce extended passages."
+    },
+    "page_or_location":       { "type": "string" },
+    "historiographical_angle": {
+      "type": "string",
+      "enum": ["anti_mythic_reconstruction", "reception_history", "source_criticism",
+               "formation_history", "philological", "corpus_control", "kabbalah_philology",
+               "comparative_philosophy", "theological_history", "biographic", "other"]
+    },
+    "scholars_engaged": {
+      "type": "array",
+      "description": "Other scholars this claim is responding to, agreeing with, or disagreeing with",
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "properties": {
+          "name":     { "type": "string" },
+          "position": { "type": "string", "enum": ["agrees_with", "disagrees_with", "refines", "ignores", "other"] }
+        }
+      }
+    },
+    "related_portal_entities": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Portal concept IDs or entity names this citation is relevant to"
+    },
+    "confidence": {
+      "type": "string",
+      "enum": ["verified", "likely", "interpretive", "needs_review"],
+      "description": "Evidence status in the PicoDB evidence model"
+    },
+    "notes": { "type": "string" }
+  }
+}

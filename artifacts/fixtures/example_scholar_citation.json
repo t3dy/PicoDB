@@ -1,0 +1,29 @@
+{
+  "artifact_id": "sc_copenhaver_trial_2022_pecock_001",
+  "artifact_type": "scholar_citation",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_pico_on_trial_2022",
+  "generated_at": "2026-06-14T19:00:00Z",
+  "generating_agent": "section-summary-agent",
+  "bibliographic_source_id": "copenhaver_pico_on_trial_2022",
+  "scholar_name": "Brian P. Copenhaver",
+  "cited_work": "Pico della Mirandola on Trial: Heresy, Freedom, and Philosophy",
+  "publication_year": 2022,
+  "relevant_topic": "Why Q1 (Harrowing of Hell) was the first thesis attacked at the trial",
+  "citation_context": "Copenhaver explains the prominence of Q1 by introducing the 1457 case of Reginald Pecock, Bishop of Chichester, who lost his see as a heretic specifically over the Harrowing of Hell — the only bishop before the Reformation to suffer this fate.",
+  "claim_summary": "The Vatican's institutional memory of Pecock's 1457 defrocking over the Harrowing of Hell 'politicized the underworld' and explains why the papal commission led with Q1 rather than the more philosophically contentious eucharist theses.",
+  "exact_quote": "the only bishop before the Reformation to lose his see as a heretic",
+  "page_or_location": "p. 24",
+  "historiographical_angle": "anti_mythic_reconstruction",
+  "scholars_engaged": [
+    { "name": "Eugenio Garin", "position": "disagrees_with" }
+  ],
+  "related_portal_entities": [
+    "condemned_theses",
+    "apology",
+    "heresy",
+    "roman_crisis"
+  ],
+  "confidence": "verified",
+  "notes": "Feeds directly into timeline_event for 1457 Pecock defrocking and concept essay on condemned_theses.md."
+}

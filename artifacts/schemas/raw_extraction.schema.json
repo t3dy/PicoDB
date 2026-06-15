@@ -1,0 +1,94 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "picodb:artifact:raw_extraction:v1.0.0",
+  "title": "RawExtractionArtifact",
+  "description": "Captures what is explicitly present in one section of a source, before interpretation. Stage B. MUST NOT make high-level historiographical claims unless the source explicitly makes them.",
+  "type": "object",
+  "required": ["artifact_id", "artifact_type", "schema_version", "source_id", "generated_at"],
+  "additionalProperties": false,
+  "properties": {
+    "artifact_id":      { "type": "string", "description": "re_{source_shortcode}_{section}_{seq}" },
+    "artifact_type":    { "type": "string", "const": "raw_extraction" },
+    "schema_version":   { "type": "string", "const": "1.0.0" },
+    "source_id":        { "type": "string" },
+    "section_id":       { "type": "string", "description": "e.g. ch01, sec-002, pp-045-078" },
+    "generated_at":     { "type": "string", "format": "date-time" },
+    "generating_agent": { "type": "string" },
+    "extraction_scope": {
+      "type": "object",
+      "properties": {
+        "page_start":      { "type": ["integer", "string"] },
+        "page_end":        { "type": ["integer", "string"] },
+        "section_title":   { "type": "string" },
+        "section_heading": { "type": "string" },
+        "coverage_level":  { "type": "string", "enum": ["complete", "partial", "sample"] }
+      }
+    },
+    "extracted_entities": {
+      "type": "object",
+      "description": "Entities named or cited in this section — no interpretation, only what is present",
+      "properties": {
+        "people":       { "type": "array", "items": { "type": "string" } },
+        "works":        { "type": "array", "items": { "type": "string" } },
+        "places":       { "type": "array", "items": { "type": "string" } },
+        "dates":        { "type": "array", "items": { "type": "string" } },
+        "institutions": { "type": "array", "items": { "type": "string" } },
+        "traditions":   { "type": "array", "items": { "type": "string" } },
+        "concepts":     { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "key_terms": {
+      "type": "array",
+      "description": "Technical terms used in the source, ideally with language tag",
+      "items": {
+        "type": "object",
+        "required": ["term"],
+        "properties": {
+          "term":     { "type": "string" },
+          "language": { "type": "string" },
+          "gloss":    { "type": "string" }
+        }
+      }
+    },
+    "explicit_topics":   { "type": "array", "items": { "type": "string" } },
+    "symbols_motifs":    { "type": "array", "items": { "type": "string" } },
+    "practices_rituals": { "type": "array", "items": { "type": "string" } },
+    "claims_made_by_source": {
+      "type": "array",
+      "description": "Claims the source itself makes — not the extractor's interpretation of what they imply",
+      "items": {
+        "type": "object",
+        "required": ["claim_text"],
+        "properties": {
+          "claim_text":     { "type": "string" },
+          "page":           { "type": ["integer", "string"] },
+          "exact_quote":    { "type": "string" },
+          "claim_type": {
+            "type": "string",
+            "enum": ["historical", "bibliographic", "textual", "philological", "interpretive",
+                     "historiographical", "geographical", "biographical_source_witness", "methodological", "other"]
+          }
+        }
+      }
+    },
+    "important_passages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["text", "location"],
+        "properties": {
+          "text":         { "type": "string" },
+          "location":     { "type": "string" },
+          "significance": { "type": "string" }
+        }
+      }
+    },
+    "uncertainties": { "type": "array", "items": { "type": "string" } },
+    "extraction_notes": { "type": "string" },
+    "interpretive_claims_present": {
+      "type": "boolean",
+      "description": "Should be false. If true, the extracting agent overstepped — flag for review.",
+      "default": false
+    }
+  }
+}
