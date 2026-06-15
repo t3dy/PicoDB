@@ -1,0 +1,20 @@
+{
+  "artifact_id": "sc_copenhaver_dignitas_angelic_emulation_005",
+  "artifact_type": "scholar_citation",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_the_secret_2002",
+  "generated_at": "2026-06-14T00:00:00Z",
+  "generating_agent": "extraction_pass_2026-06-14",
+  "scholar_name": "Brian Copenhaver",
+  "cited_work": "The Secret of Pico's Oration: Cabala and Renaissance Philosophy",
+  "publication_year": 2002,
+  "relevant_topic": "Dignitas as achieved through angelic emulation, not as inherent human worth",
+  "claim_summary": "Dignitas in Pico's philosophy is not inherent human value but rather the achieved excellence resulting from emulation of the angels, particularly the Cherubim (contemplative illumination) and Seraphim (ecstatic assimilation to God).",
+  "exact_quote": "Man finds his dignity by emulating the angels...These are the angels that Pico wants us to emulate. 'We are to form our lives on the model of the Cherubic life': this is the conclusion to which the opening sections of the Oration lead.",
+  "page_or_location": "p. 61-62",
+  "historiographical_angle": "theological_history",
+  "scholars_engaged": [],
+  "related_portal_entities": ["dignity", "angels", "cherubim", "seraphim", "oration"],
+  "confidence": "verified",
+  "notes": "Central to correcting the misreading of dignitas as Kantian inherent worth. Dignitas is achieved excellence through participation in the angelic hierarchy."
+}

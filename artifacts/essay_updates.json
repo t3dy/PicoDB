@@ -48,21 +48,21 @@
     },
     {
       "essay": "oration.md",
-      "update_type": "pending_addition",
-      "description": "Oration essay should incorporate Copenhaver 2002 Midwest Studies argument that the Oration is a program for Kabbalistic mystical self-annihilation (mors osculi as endpoint), not a dignity manifesto. Abulafia tzeruf as functional mechanism. Dignitas names angelic power, not inherent human value.",
+      "update_type": "addition",
+      "description": "Added three sections with Copenhaver 2002 findings: (1) seven-consultation structure with ancient fathers as guides for Cherubic life curriculum; (2) Abulafia's tzeruf (letter-combination) as the technique for Pico's Kabbalistic ascent; (3) mors osculi as the invited endpoint of the mystical program.",
       "evidence_source": "Copenhaver, 'The Secret of Pico's Oration,' Midwest Studies in Philosophy 26.1 (2002): 56-81",
-      "evidence_page": "pp. 56-81 passim",
-      "status": "pending",
-      "applied_date": null
+      "evidence_page": "pp. 63, 75-76, 77",
+      "status": "applied",
+      "applied_date": "2026-06-14"
     },
     {
       "essay": "dignity.md",
-      "update_type": "pending_correction",
-      "description": "Dignity essay may overstate the humanist-dignity reading. Copenhaver 2002 argues dignitas names angelic power (capacity for self-transformation into any form), not inherent human value or uniqueness. The Oration's endpoint is mystical death, not dignity affirmation.",
+      "update_type": "correction_and_addition",
+      "description": "Revised 'What Pico Celebrated' section to emphasize that dignitas is achieved through emulation of the Cherubim and Seraphim, not Kantian inherent worth. Added Cherubic life as the contemplative model and seraphic ecstatic assimilation as the telos.",
       "evidence_source": "Copenhaver, 'The Secret of Pico's Oration,' Midwest Studies in Philosophy 26.1 (2002): 56-81",
-      "evidence_page": "pp. 56-81 passim",
-      "status": "pending",
-      "applied_date": null
+      "evidence_page": "pp. 61-63",
+      "status": "applied",
+      "applied_date": "2026-06-14"
     }
   ]
 }

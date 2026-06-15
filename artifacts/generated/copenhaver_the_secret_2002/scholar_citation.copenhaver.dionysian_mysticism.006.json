@@ -1,0 +1,25 @@
+{
+  "artifact_id": "sc_copenhaver_dionysian_mysticism_006",
+  "artifact_type": "scholar_citation",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_the_secret_2002",
+  "generated_at": "2026-06-14T00:00:00Z",
+  "generating_agent": "extraction_pass_2026-06-14",
+  "scholar_name": "Brian Copenhaver",
+  "cited_work": "The Secret of Pico's Oration: Cabala and Renaissance Philosophy",
+  "publication_year": 2002,
+  "relevant_topic": "The Oration's philosophical project is grounded in Dionysian mystical theology, not humanist dignity",
+  "claim_summary": "Pico's entire philosophical project in the Oration is grounded in Dionysius the Areopagite's mystical theology of purgation, illumination, and perfection (teleiosis). The morality is ascetic, the practices are magical/theurgic, and the aim is mystical unification (henosis).",
+  "exact_quote": "For the Greek side (there is also a Hebrew side) of the project promoted by the Oration, Pico took his primary inspiration from Dionysius and the Neoplatonists. His morality is ascetic, his novel practices are magical (or theurgic), and his aim is mystical, what Dionysius and his predecessors called perfection (teleiosis), contemplation (theoria), or unification (henosis).",
+  "page_or_location": "p. 60",
+  "historiographical_angle": "formation_history",
+  "scholars_engaged": [
+    {
+      "name": "Dionysius the Areopagite",
+      "position": "other"
+    }
+  ],
+  "related_portal_entities": ["oration", "mysticism", "ascent", "dionysius", "theurgic"],
+  "confidence": "verified",
+  "notes": "Frames the Oration as a mystical-theological text, not a humanist manifesto. The framework is Dionysian purgation/illumination/perfection (teleiosis), with Hebrew Kabbalah as the parallel path."
+}

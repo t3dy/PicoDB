@@ -1,0 +1,20 @@
+{
+  "artifact_id": "sc_copenhaver_seven_consultations_002",
+  "artifact_type": "scholar_citation",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_the_secret_2002",
+  "generated_at": "2026-06-14T00:00:00Z",
+  "generating_agent": "extraction_pass_2026-06-14",
+  "scholar_name": "Brian Copenhaver",
+  "cited_work": "The Secret of Pico's Oration: Cabala and Renaissance Philosophy",
+  "publication_year": 2002,
+  "relevant_topic": "The seven-part consultation structure of the Oration's mystical curriculum",
+  "claim_summary": "The Oration contains a seven-part consultation structure using seven ancient fathers (Paul, Jacob, Job, Moses, ancient theologians, Pythagoras, and the Chaldaeans) as guides for a graded curriculum in the Cherubic (contemplative) life, occupying a quarter of the text and functioning as a detailed regimen.",
+  "exact_quote": "This advice opens the longest part of the Oration, occupying a quarter of its length, a seven-part exposition of the Cherubic life as curriculum and regimen, as preparation for Seraphic consummation...The seven 'ancient fathers' whom Pico wants his hearers to consult are Paul, Jacob, Job, Moses, the ancient theologians, Pythagoras, and the Chaldaeans.",
+  "page_or_location": "p. 63",
+  "historiographical_angle": "source_criticism",
+  "scholars_engaged": [],
+  "related_portal_entities": ["oration", "ascent", "angels", "cherubim"],
+  "confidence": "verified",
+  "notes": "Identifies the structural organization of the Oration's middle section as a seven-consultation mystical curriculum."
+}

@@ -1,0 +1,20 @@
+{
+  "artifact_id": "sc_copenhaver_oration_not_dignity_001",
+  "artifact_type": "scholar_citation",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_the_secret_2002",
+  "generated_at": "2026-06-14T00:00:00Z",
+  "generating_agent": "extraction_pass_2026-06-14",
+  "scholar_name": "Brian Copenhaver",
+  "cited_work": "The Secret of Pico's Oration: Cabala and Renaissance Philosophy",
+  "publication_year": 2002,
+  "relevant_topic": "The Oration is fundamentally a Kabbalistic mystical program, not about dignity and freedom",
+  "claim_summary": "The Oration is not about dignity and freedom as any modern or post-modern reader would understand these terms, but rather a Kabbalistic program of mystical ascent and union with God.",
+  "exact_quote": "My answer is that the Oration is not about dignity and freedom as any modern or post-modern reader would understand these terms.",
+  "page_or_location": "p. 58",
+  "historiographical_angle": "reception_history",
+  "scholars_engaged": [],
+  "related_portal_entities": ["oration", "dignity", "kabbalah", "mysticism"],
+  "confidence": "verified",
+  "notes": "Central thesis of Copenhaver's Midwest Studies article."
+}

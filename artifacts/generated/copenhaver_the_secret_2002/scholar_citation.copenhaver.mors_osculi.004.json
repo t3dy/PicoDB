@@ -1,0 +1,20 @@
+{
+  "artifact_id": "sc_copenhaver_mors_osculi_004",
+  "artifact_type": "scholar_citation",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_the_secret_2002",
+  "generated_at": "2026-06-14T00:00:00Z",
+  "generating_agent": "extraction_pass_2026-06-14",
+  "scholar_name": "Brian Copenhaver",
+  "cited_work": "The Secret of Pico's Oration: Cabala and Renaissance Philosophy",
+  "publication_year": 2002,
+  "relevant_topic": "The mors osculi (death of the kiss) as the endpoint of Pico's mystical program",
+  "claim_summary": "The endpoint of Pico's mystical program is mors osculi (the death of the kiss), a salvific mystical death in which the soul achieves union with God. What appears as an admonition in the Conclusions is actually an invitation, for this is the good death that Pico wants.",
+  "exact_quote": "'One who works in Cabala without mixing in the extraneous and stays at the work a long time,' according to Pico's Conclusiones, 'will die the death of the kiss.' What sounds like an admonition is actually an invitation, for this is the good death that Pico wants.",
+  "page_or_location": "p. 77",
+  "historiographical_angle": "source_criticism",
+  "scholars_engaged": [],
+  "related_portal_entities": ["mors_osculi", "kabbalah", "oration", "mysticism"],
+  "confidence": "verified",
+  "notes": "Identifies mors osculi as the telos (endpoint) of Pico's entire philosophical-mystical project, not a peripheral concern."
+}

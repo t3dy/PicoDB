@@ -1,0 +1,25 @@
+{
+  "artifact_id": "sc_copenhaver_abulafia_tzeruf_003",
+  "artifact_type": "scholar_citation",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_the_secret_2002",
+  "generated_at": "2026-06-14T00:00:00Z",
+  "generating_agent": "extraction_pass_2026-06-14",
+  "scholar_name": "Brian Copenhaver",
+  "cited_work": "The Secret of Pico's Oration: Cabala and Renaissance Philosophy",
+  "publication_year": 2002,
+  "relevant_topic": "Abulafia's letter-combination technique as the method of Pico's Kabbalistic ascent",
+  "claim_summary": "Abulafia's Cabala centers on ecstatic meditation through letter-combination (tzeruf) and sacred-name repetition and permutation as the technique for achieving mystical union and prophecy.",
+  "exact_quote": "Abulafia centered his Cabala on prophecy and divine names: 'prophecy' is his term for the ecstasy that culminates in mystical union; meditation on the sacred names is the technique recommended to achieve this goal. Repeating the letters that make up the names of God, either in speech or in writing, combining them with other letters from other words of power, chanting their sounds...such practices are Abulafia's way to ecstasy.",
+  "page_or_location": "p. 75-76",
+  "historiographical_angle": "kabbalah_philology",
+  "scholars_engaged": [
+    {
+      "name": "Abraham Abulafia",
+      "position": "other"
+    }
+  ],
+  "related_portal_entities": ["abulafia", "kabbalah", "tzeruf", "active_intellect", "oration"],
+  "confidence": "verified",
+  "notes": "Key finding connecting Pico's Kabbalistic method to Abulafia's thirteenth-century Ma'aseh Merkabah practice."
+}
