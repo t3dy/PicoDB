@@ -1,0 +1,20 @@
+{
+  "artifact_id": "sc_copenhaver_p_f_distinction_003",
+  "artifact_type": "scholar_citation",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_ten_arguments_2009",
+  "generated_at": "2026-06-14T00:00:00Z",
+  "generating_agent": "extraction_pass_2026-06-14",
+  "scholar_name": "Brian Copenhaver",
+  "cited_work": "Ten Arguments in Search of a Philosopher: Averroes and Aquinas in Ficino's Platonic Theology",
+  "publication_year": 2009,
+  "relevant_topic": "-P/-F distinction: Averroes's actual claim vs. Ficino's charge",
+  "claim_summary": "Copenhaver introduces the -P/-F distinction: -P (Averroes's actual repeated claim) is that the Intellect is not a body or power in a body; -F (Ficino's charge against Averroes) is that the Intellect is not the substantial form of the body. Averroes holds -P but does not assert -F; the -F formulation is Aquinas's paraphrase, not Averroes's own language.",
+  "exact_quote": "-P: the Intellect is not a body or a power in a body; -F: the Intellect is not the substantial form of the body; F: the intellect is the substantial form of the body. But Aquinas also seems to suggest that Averroes actually professes -F, which is incorrect, and Ficino follows him in this apparent misunderstanding.",
+  "page_or_location": "p. 473",
+  "historiographical_angle": "philological",
+  "scholars_engaged": [],
+  "related_portal_entities": ["averroes", "ficino", "aquinas", "active_intellect", "intellect"],
+  "confidence": "verified",
+  "notes": "The -P/-F notation is Copenhaver's own terminological invention for this article. Central to the argument of the whole piece."
+}

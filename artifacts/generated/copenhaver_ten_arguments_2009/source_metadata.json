@@ -1,0 +1,21 @@
+{
+  "artifact_id": "sm_copenhaver_ten_arguments_2009_001",
+  "artifact_type": "source_metadata",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_ten_arguments_2009",
+  "generated_at": "2026-06-15T02:36:08.918811+00:00",
+  "generating_agent": "ingest_pdf.py",
+  "source_title": "Ten Arguments in Search of a Philosopher: Averroes and Aquinas in Ficino's Platonic Theology",
+  "source_type": "article",
+  "authors": [
+    "Brian Copenhaver"
+  ],
+  "publication_date": "2009",
+  "journal": "Vivarium",
+  "volume": "47",
+  "issue": "4",
+  "page_range": "444-479",
+  "isbn_or_doi": "10.2307/41963916",
+  "local_path": "C:\\Users\\PC\\Downloads\\[Vivarium vol. 47 iss. 4] Ten Arguments in Search of a Philosopher_ Averroes and Aquinas in Ficino&_039_s &quot_Platonic Theology&quot_{Brian Copenhaver}(2009)[10.2307_41963916]{53364188} libgen.li.pdf",
+  "raw_text_available": true
+}

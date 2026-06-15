@@ -1,0 +1,68 @@
+{
+  "description": "Queue of identified corrections and additions to encyclopedia essays. Append new entries when section summaries or artifact extraction identifies essay errors. Set status to 'applied' after making the edit.",
+  "queue": [
+    {
+      "essay": "averroes.md",
+      "update_type": "correction",
+      "description": "Added -P/-F distinction: Ficino's anti-Averroist arguments in PT Book 15 derive from SCG 2.59.3-6 (Aquinas's paraphrase), not from the Long Commentary directly. Averroes's actual claim (-P) is that the intellect is not a body or power in a body; Ficino's charge (-F) is that Averroes denies the intellect is the substantial form of the body.",
+      "evidence_source": "Copenhaver, 'Ten Arguments in Search of a Philosopher,' Vivarium 47.4 (2009): 444-479",
+      "evidence_page": "pp. 444-479 passim",
+      "status": "applied",
+      "applied_date": "2026-06-14"
+    },
+    {
+      "essay": "ficino.md",
+      "update_type": "addition",
+      "description": "Added paragraph to Kristeller section noting that Ficino's PT Book 15 Averroes arguments are mediated through SCG 2.59.3-6 and that Ficino attacks an Aquinas-constructed Averroes (-F), not Averroes's Long Commentary position (-P).",
+      "evidence_source": "Copenhaver, 'Ten Arguments in Search of a Philosopher,' Vivarium 47.4 (2009): 444-479",
+      "evidence_page": "pp. 444-479 passim",
+      "status": "applied",
+      "applied_date": "2026-06-14"
+    },
+    {
+      "essay": "aquinas.md",
+      "update_type": "addition",
+      "description": "Added note that SCG 2.59.3-6 is a specific transmission point: Ficino's hidden Thomistic dependence at the Averroes-argument in PT Book 15.",
+      "evidence_source": "Copenhaver, 'Ten Arguments in Search of a Philosopher,' Vivarium 47.4 (2009): 444-479",
+      "evidence_page": "pp. 444-479 passim",
+      "status": "applied",
+      "applied_date": "2026-06-14"
+    },
+    {
+      "essay": "active_intellect.md",
+      "update_type": "correction_and_addition",
+      "description": "Added paragraph distinguishing -P/-F positions after the Aquinas section. Also added Abulafia tzeruf (letter-combination) detail to the Oration ascent passage: the technique activates conjunction with the Active Intellect and is the functional mechanism behind the Kabbalah stage of the ascent.",
+      "evidence_source": "Copenhaver, 'Ten Arguments,' Vivarium 47.4 (2009) and 'The Secret of Pico's Oration,' Midwest Studies in Philosophy 26.1 (2002): 56-81",
+      "evidence_page": "Vivarium 444-479; Midwest Studies 56-81",
+      "status": "applied",
+      "applied_date": "2026-06-14"
+    },
+    {
+      "essay": "averroes.md",
+      "update_type": "pending_addition",
+      "description": "The section on Averroes's Long Commentary position in paragraph 2 uses substantial-form language that conflates -P and -F. The description of Averroes's own argument ('But if the material intellect were the form or perfection of a particular body') still slips into -F framing. Consider revising paragraph 2 to be more precise about -P language.",
+      "evidence_source": "Copenhaver, Vivarium 47.4 (2009)",
+      "evidence_page": "pp. 444-479",
+      "status": "pending",
+      "applied_date": null
+    },
+    {
+      "essay": "oration.md",
+      "update_type": "pending_addition",
+      "description": "Oration essay should incorporate Copenhaver 2002 Midwest Studies argument that the Oration is a program for Kabbalistic mystical self-annihilation (mors osculi as endpoint), not a dignity manifesto. Abulafia tzeruf as functional mechanism. Dignitas names angelic power, not inherent human value.",
+      "evidence_source": "Copenhaver, 'The Secret of Pico's Oration,' Midwest Studies in Philosophy 26.1 (2002): 56-81",
+      "evidence_page": "pp. 56-81 passim",
+      "status": "pending",
+      "applied_date": null
+    },
+    {
+      "essay": "dignity.md",
+      "update_type": "pending_correction",
+      "description": "Dignity essay may overstate the humanist-dignity reading. Copenhaver 2002 argues dignitas names angelic power (capacity for self-transformation into any form), not inherent human value or uniqueness. The Oration's endpoint is mystical death, not dignity affirmation.",
+      "evidence_source": "Copenhaver, 'The Secret of Pico's Oration,' Midwest Studies in Philosophy 26.1 (2002): 56-81",
+      "evidence_page": "pp. 56-81 passim",
+      "status": "pending",
+      "applied_date": null
+    }
+  ]
+}

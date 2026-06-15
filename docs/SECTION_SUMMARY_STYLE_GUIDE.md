@@ -170,3 +170,56 @@ When summarizing Commento passages involving Ficino, love theory, Venus, beauty,
 ## Pass 018 Audit-to-Revision Rule
 
 Every section summary should include an `Updates Existing Writing` note when a passage changes a prior essay, scholar profile, source gap, timeline event, or website page. This keeps close reading tied to the writing system instead of producing isolated notes.
+
+## Pass 019 Journal Article Variant
+
+Journal articles (typically 15–40 pages, one sustained argument) do not map onto the chapter-per-invocation model. Use a single-pass full-article summary instead.
+
+**Differences from the chapter model:**
+
+- `section_id`: use `full_article` for the `raw_extraction` and the section summary filename
+- `coverage_level`: always `complete`
+- No parent synthesis needed (the article is its own synthesis)
+- The "Section function" field should describe the article's place in the author's larger corpus, not its role in a chapter sequence
+
+**Required structure for article summaries:**
+
+```
+## Bibliographic Anchor
+Full citation, journal, volume, issue, pages, DOI if known, local path.
+
+## Article Function
+Place in the author's oeuvre. Relation to their books. Prior or subsequent work this extends or revises.
+
+## Core Argument
+State the thesis in 2–3 sentences. Name the opponent interpretation being corrected.
+
+## Argument Structure
+Step-by-step reconstruction. For articles with numbered arguments (like Copenhaver 2009's "ten arguments"), list them individually.
+
+## Evidence Base
+Primary texts cited. Editions used. Secondary literature engaged. Manuscript or archival sources if any.
+
+## Key Passages
+Verbatim quotes of sentences that carry the core claim. Include page numbers.
+
+## Claims Register
+Atomic claims in the standard format (type / target / page / confidence).
+
+## Reference Register
+All named persons, works, editions, concepts — same format as chapter summaries.
+
+## Historiographical Stakes
+What debate this article enters. Which prior reading it refutes. Which it confirms.
+
+## Relation to Pico Works
+Which Pico texts, theses, or doctrinal problems are affected.
+
+## Updates Existing Writing
+List which encyclopedia essays, scholar profiles, or concept pages need revision. Log each update to artifacts/essay_updates.json.
+
+## Uncertainties
+OCR problems, translation limits, unverified citations, ambiguous identifications.
+```
+
+**When to split:** If an article is divided into clearly distinct parts addressing different topics (e.g., a first half on Ficino and a second half on Pico), consider producing two raw_extraction artifacts with `section_id: part_1` and `section_id: part_2`, with a single article-level `full_article` summary as a synthesis wrapper.

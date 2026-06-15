@@ -1,0 +1,20 @@
+{
+  "artifact_id": "sc_copenhaver_averroes_nec_corpus_004",
+  "artifact_type": "scholar_citation",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_ten_arguments_2009",
+  "generated_at": "2026-06-14T00:00:00Z",
+  "generating_agent": "extraction_pass_2026-06-14",
+  "scholar_name": "Brian Copenhaver",
+  "cited_work": "Ten Arguments in Search of a Philosopher: Averroes and Aquinas in Ficino's Platonic Theology",
+  "publication_year": 2009,
+  "relevant_topic": "Averroes's actual repeated formula in the Long Commentary",
+  "claim_summary": "Averroes's actual formula in the Long Commentary — 'neque est corpus neque virtus in corpore' (neither body nor power in a body) — is repeated again and again. This is the -P position (his claim against Alexander of Aphrodisias), not the -F position (denying the intellect is the substantial form of the body), which is a Thomistic paraphrase.",
+  "exact_quote": "very close to the language of Averroes in the Long Commentary: that the Intellect, whether passive or active, neque est corpus neque virtus in corpore. Averroes repeats this phrase again and again.",
+  "page_or_location": "p. 472",
+  "historiographical_angle": "philological",
+  "scholars_engaged": [],
+  "related_portal_entities": ["averroes", "active_intellect", "intellect"],
+  "confidence": "verified",
+  "notes": "The Latin phrase is Averroes's own repeated formula in Michael Scot's translation of the Long Commentary."
+}

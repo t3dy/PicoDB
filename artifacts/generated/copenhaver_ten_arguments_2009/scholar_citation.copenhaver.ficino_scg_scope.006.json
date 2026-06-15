@@ -1,0 +1,20 @@
+{
+  "artifact_id": "sc_copenhaver_ficino_scg_scope_006",
+  "artifact_type": "scholar_citation",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_ten_arguments_2009",
+  "generated_at": "2026-06-14T00:00:00Z",
+  "generating_agent": "extraction_pass_2026-06-14",
+  "scholar_name": "Brian Copenhaver",
+  "cited_work": "Ten Arguments in Search of a Philosopher: Averroes and Aquinas in Ficino's Platonic Theology",
+  "publication_year": 2009,
+  "relevant_topic": "Scope of SCG 2 as source for all major features of PT Book 15",
+  "claim_summary": "Almost all the prominent items in Ficino's discussion in PT Book 15 — including the four Averroist arguments (A1–A4), three-part excursus (E1–3), contextual material (K1–3), and three concluding Averroist positions (C1–3) — can be found in SCG 2.46–81, not just 2.59.",
+  "exact_quote": "Almost all the prominent items in Ficino's discussion can be found in these chapters of SCG 2: the act and esse of the composite substance; participation; the material mode of reception; infinite intellectual power; the individuation of species and images; the teacher's vanishing knowledge; distinct powers of cognition and instinctive judgement; the locations of psychic functions in the brain; the cosmology of celestial spheres; the substantiality of intellectual entities; a different type of being for such entities; and intellection of all the knowledge of the human species.",
+  "page_or_location": "p. 472",
+  "historiographical_angle": "source_criticism",
+  "scholars_engaged": [],
+  "related_portal_entities": ["ficino", "averroes", "aquinas"],
+  "confidence": "verified",
+  "notes": "Expands the SCG source from 2.59.3-6 to the broader range 2.46-81, showing the dependence extends beyond the anti-Averroist summary."
+}

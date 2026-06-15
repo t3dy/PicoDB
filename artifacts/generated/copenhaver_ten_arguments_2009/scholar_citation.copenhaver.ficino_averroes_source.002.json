@@ -1,0 +1,20 @@
+{
+  "artifact_id": "sc_copenhaver_ficino_averroes_source_002",
+  "artifact_type": "scholar_citation",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_ten_arguments_2009",
+  "generated_at": "2026-06-14T00:00:00Z",
+  "generating_agent": "extraction_pass_2026-06-14",
+  "scholar_name": "Brian Copenhaver",
+  "cited_work": "Ten Arguments in Search of a Philosopher: Averroes and Aquinas in Ficino's Platonic Theology",
+  "publication_year": 2009,
+  "relevant_topic": "SCG 2.59 as source for Ficino's four Averroist arguments in PT 15.1.4-7",
+  "claim_summary": "The four explicit arguments (A1–A4) that Ficino attributes to Averroes in PT 15.1.4–7 derive directly from SCG 2.59.3–6 in the same order and content, not from the Long Commentary on De anima.",
+  "exact_quote": "Although Ficino's arguments modify the language, content and form of what he took from SCG 2, that work is plainly Ficino's source: even the order of arguments is the same, the same order that appears in the Summa theologiae.",
+  "page_or_location": "p. 471",
+  "historiographical_angle": "philological",
+  "scholars_engaged": [],
+  "related_portal_entities": ["ficino", "averroes", "aquinas", "active_intellect"],
+  "confidence": "verified",
+  "notes": "Demonstrated by parallel-text comparison of SCG 2.59.3-6 and PT 15.1.4-7."
+}

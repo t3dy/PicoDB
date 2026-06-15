@@ -1,0 +1,20 @@
+{
+  "artifact_id": "sc_copenhaver_ficino_averroes_source_001",
+  "artifact_type": "scholar_citation",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_ten_arguments_2009",
+  "generated_at": "2026-06-14T00:00:00Z",
+  "generating_agent": "extraction_pass_2026-06-14",
+  "scholar_name": "Brian Copenhaver",
+  "cited_work": "Ten Arguments in Search of a Philosopher: Averroes and Aquinas in Ficino's Platonic Theology",
+  "publication_year": 2009,
+  "relevant_topic": "Ficino's sources for anti-Averroist arguments in Platonic Theology Book 15",
+  "claim_summary": "Ficino's 'Averroes' in Platonic Theology Book 15 is not a figure derived from texts written by Averroes himself, but a construct assembled from arguments made against Averroes by Thomas Aquinas in the Summa contra gentiles.",
+  "exact_quote": "Averroes' is Ficino's name for a construct that he assembled from his study of Thomas Aquinas, especially the Summa contra gentiles.",
+  "page_or_location": "p. 444",
+  "historiographical_angle": "source_criticism",
+  "scholars_engaged": [],
+  "related_portal_entities": ["ficino", "averroes", "aquinas", "active_intellect"],
+  "confidence": "verified",
+  "notes": "This is the article's central thesis, stated on the opening page."
+}

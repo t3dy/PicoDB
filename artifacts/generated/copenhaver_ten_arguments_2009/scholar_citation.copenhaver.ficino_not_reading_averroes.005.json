@@ -1,0 +1,20 @@
+{
+  "artifact_id": "sc_copenhaver_ficino_not_reading_averroes_005",
+  "artifact_type": "scholar_citation",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_ten_arguments_2009",
+  "generated_at": "2026-06-14T00:00:00Z",
+  "generating_agent": "extraction_pass_2026-06-14",
+  "scholar_name": "Brian Copenhaver",
+  "cited_work": "Ten Arguments in Search of a Philosopher: Averroes and Aquinas in Ficino's Platonic Theology",
+  "publication_year": 2009,
+  "relevant_topic": "What Ficino actually refutes under the name 'Averroes'",
+  "claim_summary": "What Ficino refutes under the name 'Averroes' in the Platonic Theology is not what it seems in two senses: it is not the Averroes of the Long Commentary that European philosophers had been reading for two and a half centuries in Michael Scot's translation, and it is not even precisely the Averroes of Thomas's Summa, but an artifact of Ficino's loose reading of that work.",
+  "exact_quote": "As a reader of Thomas, what Ficino refutes under the name 'Averroes' in the Platonic Theology is not what it seems to be, in two senses: first, it is not the Averroes whose arguments had been read by European philosophers for two and a half centuries in Michael Scot's translation; and it is not even the Averroes of Thomas's Summa, strictly speaking, though it looks like an artifact of Ficino's loose but not implausible reading of that long and subtle work.",
+  "page_or_location": "p. 478",
+  "historiographical_angle": "source_criticism",
+  "scholars_engaged": [],
+  "related_portal_entities": ["ficino", "averroes", "aquinas", "active_intellect"],
+  "confidence": "verified",
+  "notes": "Summary statement near the end of the article. Key conclusion."
+}

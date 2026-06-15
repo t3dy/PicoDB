@@ -1,0 +1,21 @@
+{
+  "artifact_id": "sm_copenhaver_the_secret_2002_001",
+  "artifact_type": "source_metadata",
+  "schema_version": "1.0.0",
+  "source_id": "copenhaver_the_secret_2002",
+  "generated_at": "2026-06-15T02:36:45.207881+00:00",
+  "generating_agent": "ingest_pdf.py",
+  "source_title": "The Secret of Pico's Oration: Cabala and Renaissance Philosophy",
+  "source_type": "article",
+  "authors": [
+    "Brian P. Copenhaver"
+  ],
+  "publication_date": "2002",
+  "journal": "Midwest Studies in Philosophy",
+  "volume": "26",
+  "issue": "1",
+  "page_range": "56-81",
+  "isbn_or_doi": "10.1111/1475-4975.261054",
+  "local_path": "C:\\Users\\PC\\Downloads\\[Midwest Studies In Philosophy 2002-aug vol. 26 iss. 1] The Secret of Pico's Oration_ Cabala and Renaissance Philosophy{Brian P. Copenhaver}(2002 August)[10.1111_1475-4975.261054]{15556575} libgen.li.pdf",
+  "raw_text_available": true
+}
